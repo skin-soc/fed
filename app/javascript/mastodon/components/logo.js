@@ -1,5 +1,4 @@
 import React from 'react';
-import React from 'react';
 import ImmutablePropTypes from 'react-immutable-proptypes';
 import { defineMessages, injectIntl, FormattedMessage } from 'react-intl';
 import { connect } from 'react-redux';
