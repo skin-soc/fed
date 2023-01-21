@@ -1,8 +1,10 @@
 import React from 'react';
-import LogoSvg from "/app/javascript/images/logo-symbol-wordmark.svg";
 
 const Logo = () => (
-  <img src={LogoSvg} alt="The Antisocial Network" />
+  <svg viewBox='0 0 261 66' className='logo' role='img'>
+    <title>The Antisocial Network</title>
+    <use xlinkHref='#logo-symbol-wordmark' />
+  </svg>
 );
 
 export default Logo;
