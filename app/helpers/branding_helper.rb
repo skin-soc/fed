@@ -23,15 +23,6 @@ module BrandingHelper
   end
 
   def render_symbol(version = :icon)
-    path = begin
-      case version
-      when :icon
-        'logo-symbol-icon.svg'
-      when :wordmark
-        'logo-symbol-wordmark.svg'
-      end
-    end
-
-    render(file: Rails.root.join('app', 'javascript', 'images', path)).html_safe # rubocop:disable Rails/OutputSafety
+    image_pack_tag('logo.svg', alt: 'The Antisocial Network', href: '#logo-symbol-wordmark', viewBox: '0 0 250 250', class: 'logo logo--wordmark')
   end
 end
