@@ -24,6 +24,7 @@ const Logo = () => (
       </g>
     </g>
   </symbol>
+  <use xlink:href="#logo-symbol-wordmark"/>
   </svg>
 );
 
