@@ -40,7 +40,7 @@ class ServerBanner extends React.PureComponent {
     return (
       <div className='server-banner'>
         <div className='server-banner__introduction'>
-          <FormattedMessage id='server_banner.introduction' defaultMessage='{domain} is part of the decentralized social network powered by {mastodon}.' values={{ domain: <strong>{domain}</strong>, mastodon: <a href='https://joinmastodon.org' target='_blank'>Mastodon</a> }} />
+          <FormattedMessage id='server_banner.introduction' defaultMessage='{domain} is part of <strong>The Antisocial Network</strong>, dedicated to the {skinhead} subculture(s). This node is currently powered by open-source {mastodon}.' values={{ domain: <strong>{domain}</strong>, mastodon: <a href='https://joinmastodon.org' target='_blank'>Mastodon</a>, skinhead: <a href='https://en.wikipedia.org/wiki/Skinhead' target='_blank'>Skinhead</a> }} />
         </div>
 
         <Image blurhash={server.getIn(['thumbnail', 'blurhash'])} src={server.getIn(['thumbnail', 'url'])} className='server-banner__hero' />
