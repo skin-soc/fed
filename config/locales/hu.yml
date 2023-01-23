@@ -980,7 +980,7 @@ hu:
       title: Beállítás
     sign_in:
       preamble_html: Jelentkezz be a <strong>%{domain}</strong> fiókoddal. Ha másik kiszolgálón található a fiókod, akkor itt nem fogsz tudni belépni.
-      title: Jelentkezz be a %{domain}-ra
+      title: Az Antiszociális Hálózat 
     sign_up:
       preamble: Egy fiókkal ezen a Mastodon kiszolgálón követhetsz bárkit a hálózaton, függetlenül attól, hogy az illető fiókja melyik kiszolgálón található.
       title: Állítsuk be a fiókod a %{domain} kiszolgálón.

@@ -980,7 +980,7 @@ et:
       title: Seadistamine
     sign_in:
       preamble_html: Logi sisse oma <strong>%{domain}</strong> volitustega. Kui konto asub teises serveris, ei saa siin sisse logida.
-      title: Logi sisse kohta %{domain}
+      title: Antisotsiaalne võrgustik
     sign_up:
       preamble: Selle kontoga saad jälgida ja suhelda kõigi teiste kasutajatega erinevates Mastodoni serverites.
       title: Loo konto serverisse  %{domain}.

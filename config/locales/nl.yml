@@ -975,7 +975,7 @@ nl:
       title: Instellen
     sign_in:
       preamble_html: Log in met de inloggegevens van <strong>%{domain}</strong>. Als jouw account zich op een andere server bevindt, kun je hier niet inloggen.
-      title: Inloggen op %{domain}
+      title: Het Antisociale Netwerk
     sign_up:
       preamble: Je kunt met een Mastodon-account iedereen in het netwerk volgen, ongeacht waar deze persoon een account heeft.
       title: Laten we je account op %{domain} instellen.

@@ -975,7 +975,7 @@ fi:
       title: Asetukset
     sign_in:
       preamble_html: Kirjaudu sisään <strong>%{domain}</strong>-tunnuksillasi. Jos tilisi sijaitsee eri palvelimella, et voi sisäänkirjautua täällä.
-      title: Kirjaudu palveluun %{domain}
+      title: Antisosiaalinen verkosto
     sign_up:
       preamble: Kun sinulla on tili tällä Mastodon-palvelimella, voit seurata kaikkia muita verkossa olevia henkilöitä riippumatta siitä, missä heidän tilinsä on.
       title: Otetaan sinulle käyttöön %{domain}.

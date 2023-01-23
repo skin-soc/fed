@@ -980,7 +980,7 @@ es-MX:
       title: Configuración
     sign_in:
       preamble_html: Registrate con tus credenciales de <strong>%{domain}</strong>. Si tu cuenta está alojada en un servidor diferente, no podrás iniciar sesión aquí.
-      title: Registrate en %{domain}
+      title: La Red Antisocial 
     sign_up:
       preamble: Con una cuenta en este servidor de Mastodon, podrás seguir a cualquier otra persona en la red, independientemente del servidor en el que se encuentre.
       title: Crear cuenta de Mastodon en %{domain}.

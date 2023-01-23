@@ -980,7 +980,7 @@ fy:
       title: Ynstelle
     sign_in:
       preamble_html: Meld jo oan mei de oanmeldgegevens fan <strong>%{domain}</strong>. As jo account op in oare server stiet, kinne jo hjir net oanmelde.
-      title: Oanmelde op %{domain}
+      title: It Antysosjaal Netwurk 
     sign_up:
       preamble: Jo kinne mei in Mastodon-account elkenien yn it netwurk folgen, wêr’t dizze persoan ek in account hat.
       title: Litte wy jo account op %{domain} ynstelle.

@@ -980,7 +980,7 @@ is:
       title: Uppsetning
     sign_in:
       preamble_html: Skráðu þig inn með auðkennum þínum fyrir <strong>%{domain}</strong>. Ef aðgangurinn þinn er hýstur á öðrum netþjóni, muntu ekki geta skráð þig inn hér.
-      title: Skrá inn á %{domain}
+      title: Andfélagslega Netið
     sign_up:
       preamble: Með notandaaðgangi á þessum Mastodon-þjóni geturðu fylgst með hverjum sem er á netkerfinu, sama hvar notandaaðgangurinn þeirra er hýstur.
       title: Förum núna að setja þig upp á %{domain}.

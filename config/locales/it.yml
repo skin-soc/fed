@@ -982,7 +982,7 @@ it:
       title: Configurazione
     sign_in:
       preamble_html: Accedi con le tue credenziali <strong>%{domain}</strong>. Se il tuo account si trova su un server diverso, non potrai accedere qui.
-      title: Accedi a %{domain}
+      title: La Rete Antisociale
     sign_up:
       preamble: Con un account su questo server Mastodon, sarai in grado di seguire qualsiasi altra persona sulla rete, indipendentemente da dove sia ospitato il suo account.
       title: Lascia che ti configuriamo su %{domain}.

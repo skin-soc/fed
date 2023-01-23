@@ -980,7 +980,7 @@ gl:
       title: Axustes
     sign_in:
       preamble_html: Accede coas túas credenciais en <strong>%{domain}</strong>. Se a túa conta está nun servidor diferente, non podes acceder desde aquí.
-      title: Accede a %{domain}
+      title: A Rede Antisocial 
     sign_up:
       preamble: Cunha conta neste servidor Mastodon poderás seguir a calquera outra persoa na rede, independentemente de onde estivese hospedada esa conta.
       title: Imos crear a túa conta en %{domain}.

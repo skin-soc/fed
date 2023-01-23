@@ -962,7 +962,7 @@ nn:
       title: Oppsett
     sign_in:
       preamble_html: Logg inn med brukaropplysningar for <strong>%{domain}</strong>. Dersom kontoen din er registrert på ein annan tenar vil du ikkje kunne logga inn her.
-      title: Logg inn på %{domain}
+      title: Det Antisosiale Nettverket
     sign_up:
       preamble: Med en konto på denne Mastodon-tjeneren vil du kunne følge andre personer på nettverket, uansett hvor kontoen deres holder til.
       title: La oss få deg satt i gang på %{domain}.

@@ -980,7 +980,7 @@ pt-PT:
       title: Configuração
     sign_in:
       preamble_html: Iniciar sessão com as suas credenciais de <strong>%{domain}</strong>. Se a sua conta estiver hospedada noutro servidor, não poderá iniciar sessão aqui.
-      title: Iniciar sessão em %{domain}
+      title: A Rede Antissocial 
     sign_up:
       preamble: Com uma conta neste servidor Mastodon, poderá seguir qualquer outra pessoa na rede, independentemente do servidor onde a conta esteja hospedada.
       title: Vamos lá inscrevê-lo em %{domain}.
