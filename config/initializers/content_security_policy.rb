@@ -18,14 +18,15 @@ media_host ||= assets_host
 
 Rails.application.config.content_security_policy do |p|
   p.base_uri        :none
-  p.default_src     :none
+  p.default_src     :self, :https
   p.frame_ancestors :none
-  p.font_src        :self, assets_host
+  p.font_src        :self, :https, :data, assets_host
   p.img_src         :self, :https, :data, :blob, assets_host
-  p.style_src       :self, assets_host
+  p.style_src       :self, :https, assets_host
   p.media_src       :self, :https, :data, assets_host
   p.frame_src       :self, :https
   p.manifest_src    :self, assets_host
+  p.script_src      :self, :https
   p.form_action     :self
 
   if Rails.env.development?
