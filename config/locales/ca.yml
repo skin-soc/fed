@@ -1,10 +1,10 @@
 ---
 ca:
   about:
-    about_mastodon_html: 'La xarxa social del futur: sense anuncis, sense vigilància corporativa, disseny ètic i descentralització. Tingues el control de les teves dades amb Mastodon!'
+    about_mastodon_html: 'La xarxa social del futur: sense anuncis, sense vigilància corporativa, disseny ètic i descentralització. Tingues el control de les teves dades amb The Antisocial Network!'
     contact_missing: No configurat
     contact_unavailable: N/D
-    hosted_on: Mastodon allotjat a %{domain}
+    hosted_on: The Antisocial Network allotjat a %{domain}
     title: Quant a
   accounts:
     follow: Segueix
@@ -635,7 +635,7 @@ ca:
         moderation: Moderació
         special: Especial
       delete: Elimina
-      description_html: Amb <strong>rols d'usuari</strong>, pots personalitzar quines funcions i àrees de Mastodon els teus usuaris poden accedir.
+      description_html: Amb <strong>rols d'usuari</strong>, pots personalitzar quines funcions i àrees de The Antisocial Network els teus usuaris poden accedir.
       edit: Editar el rol %{name}
       everyone: Permisos per defecte
       everyone_full_description_html: Aquest és el <strong>rol base</strong> que afecta <strong>tots els usuaris</strong>, fins i tot els que no en tenen cap d'assignat. Tots els altres rols n'hereten els permisos.
@@ -698,20 +698,20 @@ ca:
         rules_hint: Hi ha un àrea dedicada a les normes a les que s'espera que els teus usuaris s'hi adhereixin.
         title: Quant a
       appearance:
-        preamble: Personalitza l'interfície web de Mastodon.
+        preamble: Personalitza l'interfície web de The Antisocial Network.
         title: Aparença
       branding:
         preamble: La marca del teu servidor el diferencia dels altres servidors de la xarxa. Aquesta informació es pot mostrar en diversos entorns com ara en la interfície web, en les aplicacions natives, en les previsualitzacions dels enllaços en altres webs, dins les aplicacions de missatgeria i d'altres. Per aquesta raó, val més mantenir aquesta informació clara, breu i precisa.
         title: Marca
       content_retention:
-        preamble: Controla com es desa a Mastodon el contingut generat per l'usuari.
+        preamble: Controla com es desa a The Antisocial Network el contingut generat per l'usuari.
         title: Retenció de contingut
       default_noindex:
         desc_html: Afecta tothom qui no ha canviat per si mateix aquest paràmetre
         title: Exclou per defecte els usuaris de la indexació dels motors de cerca
       discovery:
         follow_recommendations: Seguir les recomanacions
-        preamble: L'aparició de contingut interessant és fonamental per atraure els nous usuaris que podrien no saber res de Mastodon. Controla com funcionen diverses opcions de descobriment en el teu servidor.
+        preamble: L'aparició de contingut interessant és fonamental per atraure els nous usuaris que podrien no saber res de The Antisocial Network. Controla com funcionen diverses opcions de descobriment en el teu servidor.
         profile_directory: Directori de perfils
         public_timelines: Línies de temps públiques
         publish_discovered_servers: Publica els servidors descoberts
@@ -859,7 +859,7 @@ ca:
     webhooks:
       add_new: Afegir extrem
       delete: Elimina
-      description_html: Un <strong>webhook</strong> habilita Mastodon per a empènyer <strong>notificacions en temps real</strong> sobre els esdeveniments escollits de la teva pròpia aplicació, per tant la teva aplicació pot <strong>activar reaccions automaticament</strong>.
+      description_html: Un <strong>webhook</strong> habilita The Antisocial Network per a empènyer <strong>notificacions en temps real</strong> sobre els esdeveniments escollits de la teva pròpia aplicació, per tant la teva aplicació pot <strong>activar reaccions automaticament</strong>.
       disable: Desactiva
       disabled: Desactivat
       edit: Editar extrem
@@ -921,7 +921,7 @@ ca:
     confirmation_dialogs: Diàlegs de confirmació
     discovery: Descobriment
     localization:
-      body: Mastodon és traduït per voluntaris.
+      body: The Antisocial Network és traduït per voluntaris.
       guide_link: https://crowdin.com/project/mastodon
       guide_link_text: Tothom hi pot contribuir.
     sensitive_content: Contingut sensible
@@ -946,9 +946,9 @@ ca:
     delete_account: Elimina el compte
     delete_account_html: Si vols suprimir el compte pots <a href="%{path}">fer-ho aquí</a>. Se't demanarà confirmació.
     description:
-      prefix_invited_by_user: "@%{name} t'ha invitat a unir-te a aquest servidor de Mastodon!"
-      prefix_sign_up: Registra't avui a Mastodon!
-      suffix: Amb un compte seràs capaç de seguir persones, publicar i intercanviar missatges amb usuaris de qualsevol servidor de Mastodon i més!
+      prefix_invited_by_user: "@%{name} t'ha invitat a unir-te a aquest servidor de The Antisocial Network!"
+      prefix_sign_up: Registra't avui a The Antisocial Network!
+      suffix: Amb un compte seràs capaç de seguir persones, publicar i intercanviar missatges amb usuaris de qualsevol servidor de The Antisocial Network i més!
     didnt_get_confirmation: No has rebut el correu de confirmació?
     dont_have_your_security_key: No tens la teva clau de seguretat?
     forgot_password: Has oblidat la contrasenya?
@@ -982,7 +982,7 @@ ca:
       preamble_html: Inicia sessió amb les teves credencials <strong>%{domain}</strong>. Si el teu compte es troba a un servidor diferent, no podràs iniciar una sessió aquí.
       title: Inicia sessió a %{domain}
     sign_up:
-      preamble: Amb un compte en aquest servidor Mastodon, podràs seguir qualsevol altre persona de la xarxa, independentment d'on tingui el seu compte.
+      preamble: Amb un compte en aquest servidor The Antisocial Network, podràs seguir qualsevol altre persona de la xarxa, independentment d'on tingui el seu compte.
       title: Anem a configurar-te a %{domain}.
     status:
       account_status: Estat del compte
@@ -1095,7 +1095,7 @@ ca:
       content: Ho sentim, però alguna cosa ha fallat a la nostra banda.
       title: Aquesta pàgina no es correcta
     '503': La pàgina no podria ser servida a causa d'un error temporal del servidor.
-    noscript_html: Per a usar Mastodon, activa el JavaScript. També pots provar una de les <a href="%{apps_path}"> aplicacions natives</a> de Mastodon per a la teva plataforma.
+    noscript_html: Per a usar The Antisocial Network, activa el JavaScript. També pots provar una de les <a href="%{apps_path}"> aplicacions natives</a> de The Antisocial Network per a la teva plataforma.
   existing_username_validator:
     not_found: no s'ha pogut trobar cap usuari local amb aquest nom d'usuari
     not_found_multiple: no s'ha pogut trobar %{usernames}
@@ -1425,7 +1425,7 @@ ca:
       weibo: Weibo
     current_session: Sessió actual
     description: "%{browser} de %{platform}"
-    explanation: Aquests són els navegadors web que actualment han iniciat la sessió amb el teu compte de Mastodon.
+    explanation: Aquests són els navegadors web que actualment han iniciat la sessió amb el teu compte de The Antisocial Network.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -1450,7 +1450,7 @@ ca:
     aliases: Àlies de compte
     appearance: Aparença
     authorized_apps: Aplicacions autoritzades
-    back: Torna a Mastodon
+    back: Torna a The Antisocial Network
     delete: Eliminació del compte
     development: Desenvolupament
     edit_profile: Edita el perfil
@@ -1562,9 +1562,9 @@ ca:
   tags:
     does_not_match_previous_name: no coincideix amb el nom anterior
   themes:
-    contrast: Mastodon (alt contrast)
-    default: Mastodon (fosc)
-    mastodon-light: Mastodon (clar)
+    contrast: The Antisocial Network (alt contrast)
+    default: The Antisocial Network (fosc)
+    mastodon-light: The Antisocial Network (clar)
   time:
     formats:
       default: "%b %d, %Y, %H:%M"
@@ -1596,7 +1596,7 @@ ca:
       subject: La teva apel·lació del %{date} ha estat rebutjada
       title: Apel·lació rebutjada
     backup_ready:
-      explanation: Has sol·licitat una copia completa del teu compte Mastodon. Ara ja està a punt per a descàrrega!
+      explanation: Has sol·licitat una copia completa del teu compte The Antisocial Network. Ara ja està a punt per a descàrrega!
       subject: L'arxiu està preparat per a descàrrega
       title: Recollida de l'arxiu
     suspicious_sign_in:
@@ -1645,7 +1645,7 @@ ca:
       final_step: 'Comença a publicar! Fins i tot sense seguidors, els altres poden veure els teus missatges públics, per exemple, a la línia de temps local i a les etiquetes. És possible que vulguis presentar-te amb l''etiqueta #introductions.'
       full_handle: El teu nom d'usuari sencer
       full_handle_hint: Això és el que has de dir als teus amics perquè puguin enviar-te missatges o seguir-te des d'un altre servidor.
-      subject: Et donem la benvinguda a Mastodon
+      subject: Et donem la benvinguda a The Antisocial Network
       title: Benvingut a bord, %{name}!
   users:
     follow_limit_reached: No pots seguir més de %{limit} persones
@@ -1654,7 +1654,7 @@ ca:
     seamless_external_login: Has iniciat sessió via un servei extern per tant els ajustos de contrasenya i correu electrònic no estan disponibles.
     signed_in_as: 'Sessió iniciada com a:'
   verification:
-    explanation_html: 'Pots <strong>verificar-te com a propietari dels enllaços a les metadades del teu perfil</strong>. Per això, el lloc web enllaçat ha de contenir un enllaç al teu perfil de Mastodon. El vincle <strong>ha de</strong> tenir l''atribut <code>rel="me"</code>. El contingut del text de l''enllaç no importa. Aquí tens un exemple:'
+    explanation_html: 'Pots <strong>verificar-te com a propietari dels enllaços a les metadades del teu perfil</strong>. Per això, el lloc web enllaçat ha de contenir un enllaç al teu perfil de The Antisocial Network. El vincle <strong>ha de</strong> tenir l''atribut <code>rel="me"</code>. El contingut del text de l''enllaç no importa. Aquí tens un exemple:'
     verification: Verificació
   webauthn_credentials:
     add: Afegir nova clau de seguretat

@@ -1,10 +1,10 @@
 ---
 cy:
   about:
-    about_mastodon_html: 'Rhwydwaith cymdeithasol y dyfodol: Dim hysbysebion, dim gwyliadwriaeth gorfforaethol, dylunio moesegol, a datganoli! Chi sy berchen eich data gyda Mastodon!'
+    about_mastodon_html: 'Rhwydwaith cymdeithasol y dyfodol: Dim hysbysebion, dim gwyliadwriaeth gorfforaethol, dylunio moesegol, a datganoli! Chi sy berchen eich data gyda The Antisocial Network!'
     contact_missing: Heb ei osodF
     contact_unavailable: Ddim yn berthnasol
-    hosted_on: Mastodon wedi ei weinyddu ar %{domain}
+    hosted_on: The Antisocial Network wedi ei weinyddu ar %{domain}
     title: Ynghylch
   accounts:
     follow: Dilyn
@@ -687,7 +687,7 @@ cy:
         moderation: Cymedroli
         special: Arbennig
       delete: 'Dileu:'
-      description_html: Gyda <strong>rolau defnyddwyr</strong>, gallwch chi gyfaddasu pa swyddogaethau a meysydd o Mastodon y gall eich defnyddwyr gael mynediad iddyn nhw.
+      description_html: Gyda <strong>rolau defnyddwyr</strong>, gallwch chi gyfaddasu pa swyddogaethau a meysydd o The Antisocial Network y gall eich defnyddwyr gael mynediad iddyn nhw.
       edit: Golygu rôl '%{name}'
       everyone: Caniatâd rhagosodedig
       everyone_full_description_html: Dyma'r <strong>rôl sylfaenol</strong> sy'n effeithio ar <strong>bob defnyddiwr</strong>, hyd yn oed y rhai heb rôl benodol. Mae pob rôl arall yn etifeddu caniatâd ganddo.
@@ -754,20 +754,20 @@ cy:
         rules_hint: Mae maes penodol ar gyfer rheolau y disgwylir i'ch defnyddwyr gadw ato.
         title: Ynghylch
       appearance:
-        preamble: Cyfaddasu rhyngwyneb gwe Mastodon.
+        preamble: Cyfaddasu rhyngwyneb gwe The Antisocial Network.
         title: Golwg
       branding:
-        preamble: Mae brandio eich gweinydd yn ei wahaniaethu oddi wrth weinyddion eraill yn y rhwydwaith. Gall y wybodaeth hon gael ei dangos ar draws amrywiaeth o amgylcheddau, megis rhyngwyneb gwe Mastodon, rhaglenni brodorol, mewn rhagolygon cyswllt ar wefannau eraill ac o fewn apiau negeseuon, ac ati. Am y rheswm hwn, mae'n well cadw'r wybodaeth hon yn glir, yn fyr ac yn gryno.
+        preamble: Mae brandio eich gweinydd yn ei wahaniaethu oddi wrth weinyddion eraill yn y rhwydwaith. Gall y wybodaeth hon gael ei dangos ar draws amrywiaeth o amgylcheddau, megis rhyngwyneb gwe The Antisocial Network, rhaglenni brodorol, mewn rhagolygon cyswllt ar wefannau eraill ac o fewn apiau negeseuon, ac ati. Am y rheswm hwn, mae'n well cadw'r wybodaeth hon yn glir, yn fyr ac yn gryno.
         title: Brandio
       content_retention:
-        preamble: Rheoli sut mae cynnwys sy'n cael ei gynhyrchu gan ddefnyddwyr yn cael ei storio yn Mastodon.
+        preamble: Rheoli sut mae cynnwys sy'n cael ei gynhyrchu gan ddefnyddwyr yn cael ei storio yn The Antisocial Network.
         title: Cadw cynnwys
       default_noindex:
         desc_html: Yn effeithio pob defnyddwr sydd heb newid y gosodiad ei hun
         title: Eithrio defnyddwyr o fynegai peiriannau chwilio, fel rhagosodiad
       discovery:
         follow_recommendations: Dilyn yr argymhellion
-        preamble: Mae amlygu cynnwys diddorol yn allweddol ar gyfer derbyn defnyddwyr newydd nad ydynt efallai'n gyfarwydd ag unrhyw un Mastodon. Rheolwch sut mae nodweddion darganfod amrywiol yn gweithio ar eich gweinydd.
+        preamble: Mae amlygu cynnwys diddorol yn allweddol ar gyfer derbyn defnyddwyr newydd nad ydynt efallai'n gyfarwydd ag unrhyw un The Antisocial Network. Rheolwch sut mae nodweddion darganfod amrywiol yn gweithio ar eich gweinydd.
         profile_directory: Cyfeiriadur proffiliau
         public_timelines: Ffrydiau cyhoeddus
         publish_discovered_servers: Cyhoeddi gweinyddion a ddarganfuwyd
@@ -927,7 +927,7 @@ cy:
     webhooks:
       add_new: Ychwanegu diweddbwynt
       delete: Dileu
-      description_html: Mae <strong>bachyn gwe</strong> yn galluogi Mastodon i wthio <strong>hysbysiadau amser real</strong> am ddigwyddiadau a ddewiswyd i'ch cais eich hun, fel y gall eich cais <strong>ysgogi ymatebion yn awtomatig</strong> .
+      description_html: Mae <strong>bachyn gwe</strong> yn galluogi The Antisocial Network i wthio <strong>hysbysiadau amser real</strong> am ddigwyddiadau a ddewiswyd i'ch cais eich hun, fel y gall eich cais <strong>ysgogi ymatebion yn awtomatig</strong> .
       disable: Analluogi
       disabled: Wedi'i analluogi
       edit: Golygu diweddbwynt
@@ -993,7 +993,7 @@ cy:
     confirmation_dialogs: Deialogau cadarnhau
     discovery: Darganfod
     localization:
-      body: Mae Mastodon yn cael ei gyfieithu gan wirfoddolwyr.
+      body: Mae The Antisocial Network yn cael ei gyfieithu gan wirfoddolwyr.
       guide_link: https://crowdin.com/project/mastodon
       guide_link_text: Gall pawb gyfrannu.
     sensitive_content: Cynnwys sensitif
@@ -1018,9 +1018,9 @@ cy:
     delete_account: Dileu cyfrif
     delete_account_html: Os hoffech chi ddileu eich cyfrif, mae modd <a href="%{path}">parhau yma</a>. Bydd gofyn i chi gadarnhau.
     description:
-      prefix_invited_by_user: Mae @%{name} yn eich gwahodd i ymuno â'r gweinydd Mastodon hwn!
-      prefix_sign_up: Cofrestru ar Mastodon heddiw!
-      suffix: Gyda chyfrif, byddwch yn gallu dilyn pobl, postio diweddariadau a chyfnewid negeseuon gyda defnyddwyr o unrhyw weinydd Mastodon, a mwy!
+      prefix_invited_by_user: Mae @%{name} yn eich gwahodd i ymuno â'r gweinydd The Antisocial Network hwn!
+      prefix_sign_up: Cofrestru ar The Antisocial Network heddiw!
+      suffix: Gyda chyfrif, byddwch yn gallu dilyn pobl, postio diweddariadau a chyfnewid negeseuon gyda defnyddwyr o unrhyw weinydd The Antisocial Network, a mwy!
     didnt_get_confirmation: Heb dderbyn cyfarwyddiadau cadarnhau?
     dont_have_your_security_key: Nid oes gennych eich allwedd ddiogelwch?
     forgot_password: Wedi anghofio'ch cyfrinair?
@@ -1054,7 +1054,7 @@ cy:
       preamble_html: Mewngofnodwch gyda'ch manylion <strong>%{domain}</strong>. Os yw eich cyfrif yn cael ei gynnal ar weinydd gwahanol, ni fydd modd i chi fewngofnodi yma.
       title: Mewngofnodi i %{domain}
     sign_up:
-      preamble: Gyda chyfrif ar y gweinydd Mastodon hwn, byddwch yn gallu dilyn unrhyw berson arall ar y rhwydwaith, lle bynnag mae eu cyfrif yn cael ei gynnal.
+      preamble: Gyda chyfrif ar y gweinydd The Antisocial Network hwn, byddwch yn gallu dilyn unrhyw berson arall ar y rhwydwaith, lle bynnag mae eu cyfrif yn cael ei gynnal.
       title: Gadewch i ni eich gosod ar %{domain}.
     status:
       account_status: Statws cyfrif
@@ -1167,7 +1167,7 @@ cy:
       content: Ymddiheuriadau, ond fe aeth rhywbeth o'i le ar ein pen ni.
       title: Nid yw'r dudalen hon yn gywir
     '503': Ni fu modd gwasanaethu'r dudalen oherwydd methiant gweinydd dros dro.
-    noscript_html: I ddefnyddio ap gwe Mastodon, galluogwch JavaScript os gwelwch yn dda. Fel arall, gallwch drio un o'r <a href="%{apps_path}">apiau cynhenid</a> ar gyfer Mastodon ar eich platfform.
+    noscript_html: I ddefnyddio ap gwe The Antisocial Network, galluogwch JavaScript os gwelwch yn dda. Fel arall, gallwch drio un o'r <a href="%{apps_path}">apiau cynhenid</a> ar gyfer The Antisocial Network ar eich platfform.
   existing_username_validator:
     not_found: methu dod o hyd i ddefnyddiwr lleol gyda'r enw defnyddiwr hwnnw
     not_found_multiple: methu dod o hyd i %{usernames}
@@ -1529,7 +1529,7 @@ cy:
       weibo: Weibo
     current_session: Sesiwn gyfredol
     description: "%{browser} ar %{platform}"
-    explanation: Dyma'r porwyr gwe sydd wedi mewngofnodi i'ch cyfrif Mastodon ar hyn o bryd.
+    explanation: Dyma'r porwyr gwe sydd wedi mewngofnodi i'ch cyfrif The Antisocial Network ar hyn o bryd.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -1554,7 +1554,7 @@ cy:
     aliases: Arallenwau cyfrif
     appearance: Golwg
     authorized_apps: Apiau awdurdodedig
-    back: Nôl i Mastodon
+    back: Nôl i The Antisocial Network
     delete: Dileu cyfrif
     development: Datblygu
     edit_profile: Golygu proffil
@@ -1690,9 +1690,9 @@ cy:
   tags:
     does_not_match_previous_name: ddim yn cyfateb i'r enw blaenorol
   themes:
-    contrast: Mastodon (Cyferbyniad uchel)
-    default: Mastodon (Tywyll)
-    mastodon-light: Mastodon (Golau)
+    contrast: The Antisocial Network (Cyferbyniad uchel)
+    default: The Antisocial Network (Tywyll)
+    mastodon-light: The Antisocial Network (Golau)
   time:
     formats:
       default: "%b %d, %Y, %H:%M"
@@ -1724,7 +1724,7 @@ cy:
       subject: Mae eich apêl ar %{date} wedi'i gwrthod
       title: Mae'r apêl wedi'i gwrthod
     backup_ready:
-      explanation: Fe wnaethoch chi gais am gopi wrth gefn llawn o'ch cyfrif Mastodon. Mae nawr yn barod i'w lawrlwytho!
+      explanation: Fe wnaethoch chi gais am gopi wrth gefn llawn o'ch cyfrif The Antisocial Network. Mae nawr yn barod i'w lawrlwytho!
       subject: Mae eich archif yn barod i'w lawrlwytho
       title: Allfudo archif
     suspicious_sign_in:
@@ -1773,7 +1773,7 @@ cy:
       final_step: 'Dechreuwch bostio! Hyd yn oed heb ddilynwyr, efallai y bydd eraill yn gweld eich postiadau cyhoeddus, er enghraifft ar y ffrwd leol neu mewn hashnodau. Efallai y byddwch am gyflwyno eich hun ar yr hashnod #cyflwyniadau neu/a #introductions.'
       full_handle: Eich enw llawn
       full_handle_hint: Dyma beth fyddech chi'n ei ddweud wrth eich ffrindiau fel y gallant anfon neges neu eich dilyn o weinydd arall.
-      subject: Croeso i Mastodon
+      subject: Croeso i The Antisocial Network
       title: Croeso, %{name}!
   users:
     follow_limit_reached: Nid oes modd i chi ddilyn mwy na %{limit} o bobl
@@ -1782,7 +1782,7 @@ cy:
     seamless_external_login: Yr ydych wedi'ch mewngofnodi drwy wasanaeth allanol, felly nid yw gosodiadau cyfrinair ac e-bost ar gael.
     signed_in_as: 'Wedi mewngofnodi fel:'
   verification:
-    explanation_html: 'Mae modd i chi <strong>ddilysu eich hun fel perchenog y dolenni yn metadata eich proffil</strong>. Rhaid i''r wefan â dolen iddi gynnwys dolen yn ôl i''ch proffil Mastodon. <strong>Rhaid</strong> i''r ddolen yn ôl cynnwys y nodwedd <code>rel="me"</code>. Does dim ots beth yw cynnwys testun y ddolen. Dyma enghraifft:'
+    explanation_html: 'Mae modd i chi <strong>ddilysu eich hun fel perchenog y dolenni yn metadata eich proffil</strong>. Rhaid i''r wefan â dolen iddi gynnwys dolen yn ôl i''ch proffil The Antisocial Network. <strong>Rhaid</strong> i''r ddolen yn ôl cynnwys y nodwedd <code>rel="me"</code>. Does dim ots beth yw cynnwys testun y ddolen. Dyma enghraifft:'
     verification: Dilysu
   webauthn_credentials:
     add: Ychwanegu allwedd ddiogelwch newydd

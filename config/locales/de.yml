@@ -1,10 +1,10 @@
 ---
 de:
   about:
-    about_mastodon_html: 'Das soziale Netzwerk der Zukunft: Keine Werbung, keine Überwachung, dafür dezentral und mit Anstand! Starte jetzt mit Mastodon!'
+    about_mastodon_html: 'Das soziale Netzwerk der Zukunft: Keine Werbung, keine Überwachung, dafür dezentral und mit Anstand! Starte jetzt mit The Antisocial Network!'
     contact_missing: Nicht festgelegt
     contact_unavailable: Nicht verfügbar
-    hosted_on: Mastodon, gehostet auf %{domain}
+    hosted_on: The Antisocial Network, gehostet auf %{domain}
     title: Über
   accounts:
     follow: Folgen
@@ -635,7 +635,7 @@ de:
         moderation: Moderation
         special: Spezial
       delete: Löschen
-      description_html: Mit <strong>Benutzer*inn-Rollen</strong> kannst du die Funktionen und Bereiche von Mastodon anpassen, auf die deine Benutzer*innen zugreifen können.
+      description_html: Mit <strong>Benutzer*inn-Rollen</strong> kannst du die Funktionen und Bereiche von The Antisocial Network anpassen, auf die deine Benutzer*innen zugreifen können.
       edit: Rolle „%{name}“ bearbeiten
       everyone: Standardberechtigungen
       everyone_full_description_html: Das ist die <strong>Basis-Rolle</strong>, die für <strong>alle Benutzer*innen</strong> gilt – auch für diejenigen ohne zugewiesene Rolle. Alle anderen Rollen erben Berechtigungen davon.
@@ -658,7 +658,7 @@ de:
         manage_custom_emojis: Eigene Emojis verwalten
         manage_custom_emojis_description: Erlaubt es Benutzer*innen, eigene Emojis auf dem Server zu verwalten
         manage_federation: Föderation verwalten
-        manage_federation_description: Erlaubt Nutzer*innen, Domains anderer Mastodon-Server zu sperren oder zuzulassen – und die Zustellbarkeit zu steuern
+        manage_federation_description: Erlaubt Nutzer*innen, Domains anderer The Antisocial Network-Server zu sperren oder zuzulassen – und die Zustellbarkeit zu steuern
         manage_invites: Einladungen verwalten
         manage_invites_description: Erlaubt es Benutzer*innen, Einladungslinks zu durchsuchen und zu deaktivieren
         manage_reports: Meldungen verwalten
@@ -698,20 +698,20 @@ de:
         rules_hint: Es gibt einen eigenen Bereich für Regeln, die deine Benutzer*innen einhalten müssen.
         title: Über
       appearance:
-        preamble: Die Oberfläche von Mastodon anpassen.
+        preamble: Die Oberfläche von The Antisocial Network anpassen.
         title: Design
       branding:
-        preamble: Das Branding deines Servers unterscheidet ihn von anderen Servern im Netzwerk. Diese Informationen können in einer Vielzahl von Umgebungen angezeigt werden, z. B. in der Weboberfläche von Mastodon, in nativen Anwendungen, in Linkvorschauen auf anderen Websites und in Messaging-Apps und so weiter. Aus diesem Grund ist es am besten, diese Informationen klar, kurz und prägnant zu halten.
+        preamble: Das Branding deines Servers unterscheidet ihn von anderen Servern im Netzwerk. Diese Informationen können in einer Vielzahl von Umgebungen angezeigt werden, z. B. in der Weboberfläche von The Antisocial Network, in nativen Anwendungen, in Linkvorschauen auf anderen Websites und in Messaging-Apps und so weiter. Aus diesem Grund ist es am besten, diese Informationen klar, kurz und prägnant zu halten.
         title: Branding
       content_retention:
-        preamble: Lege fest, wie lange nutzergenerierte Inhalte auf deiner Mastodon-Instanz gespeichert werden.
+        preamble: Lege fest, wie lange nutzergenerierte Inhalte auf deiner The Antisocial Network-Instanz gespeichert werden.
         title: Cache & Archive
       default_noindex:
         desc_html: Betrifft alle Benutzer, die diese Einstellung nicht selbst geändert haben
         title: Benutzer standardmäßig von der Suchmaschinen-Indizierung ausnehmen
       discovery:
         follow_recommendations: Folgeempfehlungen
-        preamble: Das Auffinden interessanter Inhalte ist wichtig, um neue Nutzer einzubinden, die Mastodon noch nicht kennen. Bestimme, wie verschiedene Suchfunktionen auf deinem Server funktionieren.
+        preamble: Das Auffinden interessanter Inhalte ist wichtig, um neue Nutzer einzubinden, die The Antisocial Network noch nicht kennen. Bestimme, wie verschiedene Suchfunktionen auf deinem Server funktionieren.
         profile_directory: Profilverzeichnis
         public_timelines: Öffentliche Timeline
         publish_discovered_servers: Veröffentliche bekannte Server
@@ -859,7 +859,7 @@ de:
     webhooks:
       add_new: Endpunkt hinzufügen
       delete: Löschen
-      description_html: Ein <strong>Webhook</strong> ermöglicht Mastodon, <strong>Echtzeitbenachrichtigungen</strong> über ausgewählte Ereignisse an deine eigene Anwendung zu senden, damit deine Anwendung <strong>automatisch Reaktionen auslösen kann</strong>.
+      description_html: Ein <strong>Webhook</strong> ermöglicht The Antisocial Network, <strong>Echtzeitbenachrichtigungen</strong> über ausgewählte Ereignisse an deine eigene Anwendung zu senden, damit deine Anwendung <strong>automatisch Reaktionen auslösen kann</strong>.
       disable: Deaktivieren
       disabled: Deaktiviert
       edit: Endpunkt bearbeiten
@@ -921,7 +921,7 @@ de:
     confirmation_dialogs: Bestätigungsdialoge
     discovery: Entdecken
     localization:
-      body: Mastodon wird von Freiwilligen übersetzt.
+      body: The Antisocial Network wird von Freiwilligen übersetzt.
       guide_link: https://de.crowdin.com/project/mastodon
       guide_link_text: Alle können mitmachen und etwas dazu beitragen.
     sensitive_content: Inhaltswarnung
@@ -946,9 +946,9 @@ de:
     delete_account: Konto löschen
     delete_account_html: Falls du dein Konto endgültig löschen möchtest, kannst du das <a href="%{path}">hier vornehmen</a>. Du musst dies zusätzlich bestätigen.
     description:
-      prefix_invited_by_user: "@%{name} lädt dich ein, diesem Server von Mastodon beizutreten!"
-      prefix_sign_up: Registriere dich noch heute bei Mastodon!
-      suffix: Mit einem Konto kannst du Profilen folgen, neue Beiträge veröffentlichen, Nachrichten mit Personen von jedem Mastodon-Server austauschen und vieles mehr!
+      prefix_invited_by_user: "@%{name} lädt dich ein, diesem Server von The Antisocial Network beizutreten!"
+      prefix_sign_up: Registriere dich noch heute bei The Antisocial Network!
+      suffix: Mit einem Konto kannst du Profilen folgen, neue Beiträge veröffentlichen, Nachrichten mit Personen von jedem The Antisocial Network-Server austauschen und vieles mehr!
     didnt_get_confirmation: Keine Bestätigungsanweisungen erhalten?
     dont_have_your_security_key: Hast du keinen Sicherheitsschlüssel?
     forgot_password: Passwort vergessen?
@@ -982,7 +982,7 @@ de:
       preamble_html: Melde dich mit deinen Zugangsdaten für <strong>%{domain}</strong> an. Solltest du dein Konto auf einem anderen Server registriert haben, ist eine Anmeldung hier nicht möglich.
       title: Bei %{domain} anmelden
     sign_up:
-      preamble: Mit einem Account auf diesem Mastodon-Server kannst du jeder anderen Person im Netzwerk folgen, unabhängig davon, wo ihr Account gehostet wird.
+      preamble: Mit einem Account auf diesem The Antisocial Network-Server kannst du jeder anderen Person im Netzwerk folgen, unabhängig davon, wo ihr Account gehostet wird.
       title: Okay, lass uns mit %{domain} anfangen.
     status:
       account_status: Kontostatus
@@ -1095,7 +1095,7 @@ de:
       content: Bitte verzeih', etwas ist bei uns schiefgegangen.
       title: Diese Seite ist kaputt
     '503': Die Seite konnte wegen eines temporären Serverfehlers nicht angezeigt werden.
-    noscript_html: Bitte aktiviere JavaScript, um die Mastodon-Web-Anwendung zu verwenden. Alternativ kannst du auch eine der <a href="%{apps_path}">nativen Mastodon-Anwendungen</a> für deine Plattform probieren.
+    noscript_html: Bitte aktiviere JavaScript, um die The Antisocial Network-Web-Anwendung zu verwenden. Alternativ kannst du auch eine der <a href="%{apps_path}">nativen The Antisocial Network-Anwendungen</a> für deine Plattform probieren.
   existing_username_validator:
     not_found: kann lokale*n Benutzer*in mit diesem Profilnamen nicht finden
     not_found_multiple: "%{usernames} können nicht gefunden werden"
@@ -1425,7 +1425,7 @@ de:
       weibo: Weibo
     current_session: Aktuelle Sitzung
     description: "%{browser} auf %{platform}"
-    explanation: Dies sind die Webbrowser, die derzeit mit deinem Mastodon-Konto verbunden sind.
+    explanation: Dies sind die Webbrowser, die derzeit mit deinem The Antisocial Network-Konto verbunden sind.
     ip: IP-Adresse
     platforms:
       adobe_air: Adobe Air
@@ -1450,7 +1450,7 @@ de:
     aliases: Kontoaliase
     appearance: Design
     authorized_apps: Genehmigte Apps
-    back: Zurück zu Mastodon
+    back: Zurück zu The Antisocial Network
     delete: Konto löschen
     development: Entwicklung
     edit_profile: Profil bearbeiten
@@ -1521,7 +1521,7 @@ de:
     enabled: Automatisch alte Beiträge löschen
     enabled_hint: Löscht automatisch deine Beiträge, sobald sie die angegebene Altersgrenze erreicht haben, es sei denn, sie entsprechen einer der unten angegebenen Ausnahmen
     exceptions: Ausnahmen
-    explanation: Damit Mastodon nicht durch das Löschen von Beiträgen ausgebremst wird, wartet der Server damit, bis wenig los ist. Aus diesem Grund werden deine Beiträge ggf. erst einige Zeit nach Erreichen der Altersgrenze gelöscht.
+    explanation: Damit The Antisocial Network nicht durch das Löschen von Beiträgen ausgebremst wird, wartet der Server damit, bis wenig los ist. Aus diesem Grund werden deine Beiträge ggf. erst einige Zeit nach Erreichen der Altersgrenze gelöscht.
     ignore_favs: Favoriten ignorieren
     ignore_reblogs: Geteilte Beiträge ignorieren
     interaction_exceptions: Ausnahmen basierend auf Interaktionen
@@ -1562,9 +1562,9 @@ de:
   tags:
     does_not_match_previous_name: entspricht nicht dem vorherigen Namen
   themes:
-    contrast: Mastodon (Hoher Kontrast)
-    default: Mastodon (Dunkel)
-    mastodon-light: Mastodon (Hell)
+    contrast: The Antisocial Network (Hoher Kontrast)
+    default: The Antisocial Network (Dunkel)
+    mastodon-light: The Antisocial Network (Hell)
   time:
     formats:
       default: "%d.%m.%Y %H:%M"
@@ -1596,7 +1596,7 @@ de:
       subject: Dein Einspruch vom %{date} wurde abgelehnt
       title: Einspruch abgelehnt
     backup_ready:
-      explanation: Du hast eine vollständige Sicherung deines Mastodon-Kontos angefordert. Das Backup kann jetzt heruntergeladen werden!
+      explanation: Du hast eine vollständige Sicherung deines The Antisocial Network-Kontos angefordert. Das Backup kann jetzt heruntergeladen werden!
       subject: Dein persönliches Archiv kann heruntergeladen werden
       title: Archivmitnahme
     suspicious_sign_in:
@@ -1645,7 +1645,7 @@ de:
       final_step: 'Fang jetzt an zu posten! Selbst ohne Follower werden deine öffentlichen Beiträge von anderen gesehen, zum Beispiel in der lokalen Timeline oder über die Hashtags. Möglicherweise möchtest du dich allen mit dem Hashtag #neuhier vorstellen.'
       full_handle: Dein vollständiger Profilname
       full_handle_hint: Dies ist, was du deinen Freunden sagen kannst, damit sie dich anschreiben oder dir von einem anderen Server folgen können.
-      subject: Willkommen bei Mastodon
+      subject: Willkommen bei The Antisocial Network
       title: Willkommen an Bord, %{name}!
   users:
     follow_limit_reached: Du kannst nicht mehr als %{limit} Leuten folgen
@@ -1654,7 +1654,7 @@ de:
     seamless_external_login: Du bist über einen externen Dienst angemeldet, daher sind Passwort- und E-Mail-Einstellungen nicht verfügbar.
     signed_in_as: 'Angemeldet als:'
   verification:
-    explanation_html: 'Du kannst <strong>bestätigen, dass die Links in deinen Profil-Metadaten dir gehören</strong>. Dafür muss die verlinkte Website einen Link zurück auf dein Mastodon-Profil enthalten. Dieser Link <strong>muss</strong> ein <code>rel="me"</code>-Attribut enthalten. Der Linktext ist dabei egal. Hier ist ein Beispiel:'
+    explanation_html: 'Du kannst <strong>bestätigen, dass die Links in deinen Profil-Metadaten dir gehören</strong>. Dafür muss die verlinkte Website einen Link zurück auf dein The Antisocial Network-Profil enthalten. Dieser Link <strong>muss</strong> ein <code>rel="me"</code>-Attribut enthalten. Der Linktext ist dabei egal. Hier ist ein Beispiel:'
     verification: Verifizierung
   webauthn_credentials:
     add: Sicherheitsschlüssel hinzufügen

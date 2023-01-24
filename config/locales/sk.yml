@@ -1,10 +1,10 @@
 ---
 sk:
   about:
-    about_mastodon_html: Mastodon je sociálna sieť založená na otvorených webových protokoloch a na slobodnom softvéri. Je decentralizovaná, podobne ako email.
+    about_mastodon_html: The Antisocial Network je sociálna sieť založená na otvorených webových protokoloch a na slobodnom softvéri. Je decentralizovaná, podobne ako email.
     contact_missing: Nezadaný
     contact_unavailable: Neuvedený/á
-    hosted_on: Mastodon hostovaný na %{domain}
+    hosted_on: The Antisocial Network hostovaný na %{domain}
     title: O
   accounts:
     follow: Nasleduj
@@ -599,7 +599,7 @@ sk:
     confirmation_dialogs: Potvrdzovacie dialógy
     discovery: Nájdenie
     localization:
-      body: Mastodon je prekladaný dobrovoľníkmi.
+      body: The Antisocial Network je prekladaný dobrovoľníkmi.
       guide_link_text: Prispievať môže každý.
     sensitive_content: Chúlostivý obsah
     toot_layout: Rozloženie príspevkov
@@ -621,9 +621,9 @@ sk:
     delete_account: Vymaž účet
     delete_account_html: Pokiaľ chceš svoj účet odtiaľto vymazať, môžeš tak <a href="%{path}">urobiť tu</a>. Budeš požiadaný/á o potvrdenie tohto kroku.
     description:
-      prefix_invited_by_user: "@%{name} ťa pozýva na tento Mastodon server!"
-      prefix_sign_up: Zaregistruj sa na Mastodone už dnes!
-      suffix: S pomocou účtu budeš môcť následovať ľudí, posielať príspevky, a vymienať si správy s užívateľmi na hociakom Mastodon serveri, ale aj na iných serveroch!
+      prefix_invited_by_user: "@%{name} ťa pozýva na tento The Antisocial Network server!"
+      prefix_sign_up: Zaregistruj sa na The Antisocial Networke už dnes!
+      suffix: S pomocou účtu budeš môcť následovať ľudí, posielať príspevky, a vymienať si správy s užívateľmi na hociakom The Antisocial Network serveri, ale aj na iných serveroch!
     didnt_get_confirmation: Neobdržal/a si kroky na potvrdenie?
     forgot_password: Zabudnuté heslo?
     invalid_reset_password_token: Token na obnovu hesla vypršal. Prosím vypítaj si nový.
@@ -721,7 +721,7 @@ sk:
       content: Ospravedlňujem sa. Niečo sa pokazilo na našom konci.
       title: Táto stránka nieje v poriadku
     '503': Táto stránka nemôže byť načítaná, kvôli dočasnému výpadku servera.
-    noscript_html: Aby bolo možné používať Mastodon web aplikáciu, povoľ prosím JavaScript. Alebo skús jednu z <a href="%{apps_path}"> aplikácii </a> dostupných pre vašu platformu.
+    noscript_html: Aby bolo možné používať The Antisocial Network web aplikáciu, povoľ prosím JavaScript. Alebo skús jednu z <a href="%{apps_path}"> aplikácii </a> dostupných pre vašu platformu.
   existing_username_validator:
     not_found: nepodarilo sa nájsť miestného užívateľa s takouto prezývkou
     not_found_multiple: nepodarilo sa nájsť %{usernames}
@@ -784,7 +784,7 @@ sk:
       merge_long: Ponechaj existujúce záznamy a pridaj k nim nové
       overwrite: Prepíš
       overwrite_long: Nahraď súčasné záznamy novými
-    preface: Môžeš nahrať dáta ktoré si exportoval/a z iného Mastodon serveru, ako sú napríklad zoznamy ľudí ktorých sleduješ, alebo blokuješ.
+    preface: Môžeš nahrať dáta ktoré si exportoval/a z iného The Antisocial Network serveru, ako sú napríklad zoznamy ľudí ktorých sleduješ, alebo blokuješ.
     success: Tvoje dáta boli nahraté úspešne, a teraz budú spracované v danom čase
     types:
       blocking: Zoznam blokovaných
@@ -965,7 +965,7 @@ sk:
       weibo: Sina/Tencent Weibo
     current_session: Aktuálna sezóna
     description: "%{browser} na %{platform}"
-    explanation: Tieto sú prehliadače ktoré sú teraz prihlásené na tvoj Mastodon účet.
+    explanation: Tieto sú prehliadače ktoré sú teraz prihlásené na tvoj The Antisocial Network účet.
     ip: IP adresa
     platforms:
       ios: Apple iOS
@@ -982,7 +982,7 @@ sk:
     aliases: Aliasy účtov
     appearance: Vzhľad
     authorized_apps: Povolené aplikácie
-    back: Späť na Mastodon
+    back: Späť na The Antisocial Network
     delete: Vymazanie účtu
     development: Vývoj
     edit_profile: Uprav profil
@@ -1053,9 +1053,9 @@ sk:
   tags:
     does_not_match_previous_name: nezhoduje sa s predošlým názvom
   themes:
-    contrast: Mastodon (vysoký kontrast)
-    default: Mastodon (tmavý)
-    mastodon-light: Mastodon (svetlý)
+    contrast: The Antisocial Network (vysoký kontrast)
+    default: The Antisocial Network (tmavý)
+    mastodon-light: The Antisocial Network (svetlý)
   time:
     formats:
       default: "%b %d, %R, %H:%M"
@@ -1072,7 +1072,7 @@ sk:
     appeal_approved:
       action: Choď na svoj účet
     backup_ready:
-      explanation: Vyžiadal/a si si úplnú zálohu svojho Mastodon účtu. Táto záloha je teraz pripravená na stiahnutie!
+      explanation: Vyžiadal/a si si úplnú zálohu svojho The Antisocial Network účtu. Táto záloha je teraz pripravená na stiahnutie!
       subject: Tvoj archív je pripravený na stiahnutie
       title: Odber archívu
     warning:
@@ -1092,7 +1092,7 @@ sk:
       final_action: Začni prispievať
       full_handle: Adresa tvojho profilu v celom formáte
       full_handle_hint: Toto je čo musíš dať vedieť svojím priateľom aby ti mohli posielať správy, alebo ťa následovať z iného serveru.
-      subject: Vitaj na Mastodone
+      subject: Vitaj na The Antisocial Networke
       title: Vitaj na palube, %{name}!
   users:
     follow_limit_reached: Nemôžeš následovať viac ako %{limit} ľudí
@@ -1101,5 +1101,5 @@ sk:
     seamless_external_login: Si prihlásená/ý cez externú službu, takže nastavenia hesla a emailu ti niesú prístupné.
     signed_in_as: 'Prihlásená/ý ako:'
   verification:
-    explanation_html: 'Môžeš sa <strong>overiť ako majiteľ odkazov v metadátach tvojho profilu</strong>. Na to ale musí odkazovaná stránka obsahovať odkaz späť na tvoj Mastodon profil. Tento spätný odkaz <strong>musí</strong> mať prívlastok <code>rel="me"</code>. Na texte odkazu nezáleží. Tu je príklad:'
+    explanation_html: 'Môžeš sa <strong>overiť ako majiteľ odkazov v metadátach tvojho profilu</strong>. Na to ale musí odkazovaná stránka obsahovať odkaz späť na tvoj The Antisocial Network profil. Tento spätný odkaz <strong>musí</strong> mať prívlastok <code>rel="me"</code>. Na texte odkazu nezáleží. Tu je príklad:'
     verification: Overenie

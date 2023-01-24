@@ -1,10 +1,10 @@
 ---
 fi:
   about:
-    about_mastodon_html: 'Tulevaisuuden sosiaalinen verkosto: Ei mainoksia, ei valvontaa, toteutettu avoimilla protokollilla ja hajautettu! Pidä tietosi ominasi Mastodonilla!'
+    about_mastodon_html: 'Tulevaisuuden sosiaalinen verkosto: Ei mainoksia, ei valvontaa, toteutettu avoimilla protokollilla ja hajautettu! Pidä tietosi ominasi The Antisocial Networkilla!'
     contact_missing: Ei asetettu
     contact_unavailable: Ei saatavilla
-    hosted_on: Mastodon palvelimella %{domain}
+    hosted_on: The Antisocial Network palvelimella %{domain}
     title: Tietoja
   accounts:
     follow: Seuraa
@@ -632,7 +632,7 @@ fi:
         moderation: Moderointi
         special: Erikois
       delete: Poista
-      description_html: Käyttäjän <strong>roolit</strong>, voit muokata toimintoja ja alueita mitä sinun Mastodon käyttäjät voivat käyttää.
+      description_html: Käyttäjän <strong>roolit</strong>, voit muokata toimintoja ja alueita mitä sinun The Antisocial Network käyttäjät voivat käyttää.
       edit: Muokkaa "%{name}" roolia
       everyone: Oletus käyttöoikeudet
       everyone_full_description_html: Tämä on <strong>perusrooli</strong> joka vaikuttaa <strong>kaikkiin käyttäjiin</strong>, jopa ilman määrättyä roolia. Kaikki muut roolit perivät sen käyttöoikeudet.
@@ -695,20 +695,20 @@ fi:
         rules_hint: On olemassa erityinen alue sääntöjä, joita käyttäjien odotetaan noudattavan.
         title: Tietoja
       appearance:
-        preamble: Muokkaa Mastodonin web-käyttöliittymää.
+        preamble: Muokkaa The Antisocial Networkin web-käyttöliittymää.
         title: Ulkoasu
       branding:
-        preamble: Palvelimesi brändäys erottaa sen muista verkon palvelimista. Nämä tiedot voidaan näyttää useissa eri ympäristöissä, kuten Mastodonin käyttöliittymässä, sovelluksissa, linkkien esikatselu muilla sivustoilla ja viestisovelluksien sisällä ja niin edelleen. Tästä syystä on parasta pitää nämä tiedot selkeinä, lyhyinä ja ytimekkäinä.
+        preamble: Palvelimesi brändäys erottaa sen muista verkon palvelimista. Nämä tiedot voidaan näyttää useissa eri ympäristöissä, kuten The Antisocial Networkin käyttöliittymässä, sovelluksissa, linkkien esikatselu muilla sivustoilla ja viestisovelluksien sisällä ja niin edelleen. Tästä syystä on parasta pitää nämä tiedot selkeinä, lyhyinä ja ytimekkäinä.
         title: Brändäys
       content_retention:
-        preamble: Määritä, miten käyttäjän luoma sisältö tallennetaan Mastodoniin.
+        preamble: Määritä, miten käyttäjän luoma sisältö tallennetaan The Antisocial Networkiin.
         title: Sisällön säilyttäminen
       default_noindex:
         desc_html: Vaikuttaa kaikkiin käyttäjiin, jotka eivät ole muuttaneet tätä asetusta itse
         title: Jätä käyttäjät oletusarvoisesti hakukoneindeksoinnin ulkopuolelle
       discovery:
         follow_recommendations: Noudata suosituksia
-        preamble: Mielenkiintoisen sisällön esille tuominen auttaa saamaan uusia käyttäjiä, jotka eivät ehkä tunne ketään Mastodonista. Määrittele, kuinka erilaiset etsintäominaisuudet toimivat palvelimellasi.
+        preamble: Mielenkiintoisen sisällön esille tuominen auttaa saamaan uusia käyttäjiä, jotka eivät ehkä tunne ketään The Antisocial Networkista. Määrittele, kuinka erilaiset etsintäominaisuudet toimivat palvelimellasi.
         profile_directory: Profiilihakemisto
         public_timelines: Julkiset aikajanat
         title: Löytäminen
@@ -854,7 +854,7 @@ fi:
     webhooks:
       add_new: Lisää päätepiste
       delete: Poista
-      description_html: A <strong>webhook</strong> mahdollistaa Mastodonin työntää <strong>reaaliaikaisia ilmoituksia</strong> valituista tapahtumista omaan sovellukseesi, joten sovelluksesi voi <strong>laukaista automaattisesti reaktioita</strong>.
+      description_html: A <strong>webhook</strong> mahdollistaa The Antisocial Networkin työntää <strong>reaaliaikaisia ilmoituksia</strong> valituista tapahtumista omaan sovellukseesi, joten sovelluksesi voi <strong>laukaista automaattisesti reaktioita</strong>.
       disable: Poista käytöstä
       disabled: Ei käytössä
       edit: Muokkaa päätepistettä
@@ -916,7 +916,7 @@ fi:
     confirmation_dialogs: Vahvistusvalinnat
     discovery: Löydöt
     localization:
-      body: Mastodonin ovat kääntäneet vapaaehtoiset.
+      body: The Antisocial Networkin ovat kääntäneet vapaaehtoiset.
       guide_link: https://crowdin.com/project/mastodon
       guide_link_text: Kaikki voivat osallistua.
     sensitive_content: Arkaluontoista sisältöä
@@ -941,8 +941,8 @@ fi:
     delete_account: Poista tili
     delete_account_html: Jos haluat poistaa tilisi, <a href="%{path}">paina tästä</a>. Poisto on vahvistettava.
     description:
-      prefix_invited_by_user: "@%{name} kutsuu sinut liittymään tälle Mastodonin palvelimelle!"
-      prefix_sign_up: Liity Mastodoniin tänään!
+      prefix_invited_by_user: "@%{name} kutsuu sinut liittymään tälle The Antisocial Networkin palvelimelle!"
+      prefix_sign_up: Liity The Antisocial Networkiin tänään!
       suffix: Tilillä voit seurata ihmisiä, julkaista päivityksiä ja lähetellä viestejä muille käyttäjille miltä palvelimelta tahansa ja paljon muuta!
     didnt_get_confirmation: Etkö saanut vahvistusohjeita?
     dont_have_your_security_key: Eikö sinulla ole suojausavainta?
@@ -977,7 +977,7 @@ fi:
       preamble_html: Kirjaudu sisään <strong>%{domain}</strong>-tunnuksillasi. Jos tilisi sijaitsee eri palvelimella, et voi sisäänkirjautua täällä.
       title: Antisosiaalinen verkosto
     sign_up:
-      preamble: Kun sinulla on tili tällä Mastodon-palvelimella, voit seurata kaikkia muita verkossa olevia henkilöitä riippumatta siitä, missä heidän tilinsä on.
+      preamble: Kun sinulla on tili tällä The Antisocial Network-palvelimella, voit seurata kaikkia muita verkossa olevia henkilöitä riippumatta siitä, missä heidän tilinsä on.
       title: Otetaan sinulle käyttöön %{domain}.
     status:
       account_status: Tilin tila
@@ -1090,7 +1090,7 @@ fi:
       content: Valitettavasti jokin meni pieleen meidän päässämme.
       title: Sivu ei ole oikein
     '503': Sivua ei voitu näyttää palvelimen väliaikaisen vian vuoksi.
-    noscript_html: Käyttääksesi Mastodon-verkkopalvelua, ota JavaScript käyttöön. Vaihtoehtoisesti voit kokeilla myös jotakin juuri käyttämällesi alustalle kehitettyä Mastodon-<a href="%{apps_path}">sovellusta</a>.
+    noscript_html: Käyttääksesi The Antisocial Network-verkkopalvelua, ota JavaScript käyttöön. Vaihtoehtoisesti voit kokeilla myös jotakin juuri käyttämällesi alustalle kehitettyä The Antisocial Network-<a href="%{apps_path}">sovellusta</a>.
   existing_username_validator:
     not_found: paikallista käyttäjää ei löydy kyseisellä käyttäjänimellä
     not_found_multiple: "%{usernames} ei löytynyt"
@@ -1420,7 +1420,7 @@ fi:
       weibo: Weibo
     current_session: Nykyinen istunto
     description: "%{browser} alustalla %{platform}"
-    explanation: Nämä verkkoselaimet ovat tällä hetkellä kirjautuneet Mastodon-tilillesi.
+    explanation: Nämä verkkoselaimet ovat tällä hetkellä kirjautuneet The Antisocial Network-tilillesi.
     ip: IP-osoite
     platforms:
       adobe_air: Adobe AIR
@@ -1445,7 +1445,7 @@ fi:
     aliases: Tilin aliakset
     appearance: Ulkoasu
     authorized_apps: Valtuutetut sovellukset
-    back: Takaisin Mastodoniin
+    back: Takaisin The Antisocial Networkiin
     delete: Tilin poisto
     development: Kehittäminen
     edit_profile: Muokkaa profiilia
@@ -1557,9 +1557,9 @@ fi:
   tags:
     does_not_match_previous_name: ei vastaa edellistä nimeä
   themes:
-    contrast: Mastodon (Korkea kontrasti)
-    default: Mastodon (Tumma)
-    mastodon-light: Mastodon (Vaalea)
+    contrast: The Antisocial Network (Korkea kontrasti)
+    default: The Antisocial Network (Tumma)
+    mastodon-light: The Antisocial Network (Vaalea)
   time:
     formats:
       default: "%d.%m.%Y klo %H.%M"
@@ -1591,7 +1591,7 @@ fi:
       subject: Valituksesi %{date} on hylätty
       title: Valitus hylätty
     backup_ready:
-      explanation: Pyysit täydellistä varmuuskopiota Mastodon-tilistäsi. Voit nyt ladata sen!
+      explanation: Pyysit täydellistä varmuuskopiota The Antisocial Network-tilistäsi. Voit nyt ladata sen!
       subject: Arkisto on valmiina ladattavaksi
       title: Arkiston tallennus
     suspicious_sign_in:
@@ -1640,7 +1640,7 @@ fi:
       final_step: 'Ala julkaista! Vaikkei sinulla olisi seuraajia, monet voivat nähdä julkiset viestisi esimerkiksi paikallisella aikajanalla ja aihetunnisteilla. Kannattaa myös esittäytyä! Käytä aihetunnistetta #esittely.'
       full_handle: Koko käyttäjätunnuksesi
       full_handle_hint: Kerro tämä ystävillesi, niin he voivat lähettää sinulle viestejä tai löytää sinut toisen instanssin kautta.
-      subject: Tervetuloa Mastodoniin
+      subject: Tervetuloa The Antisocial Networkiin
       title: Tervetuloa mukaan, %{name}!
   users:
     follow_limit_reached: Et voi seurata yli %{limit} henkilöä
@@ -1649,7 +1649,7 @@ fi:
     seamless_external_login: Olet kirjautunut ulkoisen palvelun kautta, joten salasana- ja sähköpostiasetukset eivät ole käytettävissä.
     signed_in_as: 'Kirjautunut henkilönä:'
   verification:
-    explanation_html: 'Voit <strong>vahvistaa olevasi profiilisi metatiedoissa olevien linkkien omistaja.</strong>. Tätä varten linkitetyn verkkosivuston täytyy sisältää linkki takaisin Mastodon-profiiliisi. Palauttavalla linkillä <strong>täytyy</strong> olla <code>rel="me"</code>-arvo. Linkin tekstisisällöllä ei ole merkitystä. Tässä on esimerkki:'
+    explanation_html: 'Voit <strong>vahvistaa olevasi profiilisi metatiedoissa olevien linkkien omistaja.</strong>. Tätä varten linkitetyn verkkosivuston täytyy sisältää linkki takaisin The Antisocial Network-profiiliisi. Palauttavalla linkillä <strong>täytyy</strong> olla <code>rel="me"</code>-arvo. Linkin tekstisisällöllä ei ole merkitystä. Tässä on esimerkki:'
     verification: Vahvistus
   webauthn_credentials:
     add: Lisää uusi suojausavain

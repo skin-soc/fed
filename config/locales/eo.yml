@@ -1,10 +1,10 @@
 ---
 eo:
   about:
-    about_mastodon_html: 'La socia retejo de la estonteco: sen reklamo, sen kompania observado, etika desegno, kaj malcentrigo! Regu viajn datumojn per Mastodon!'
+    about_mastodon_html: 'La socia retejo de la estonteco: sen reklamo, sen kompania observado, etika desegno, kaj malcentrigo! Regu viajn datumojn per The Antisocial Network!'
     contact_missing: Ne elektita
     contact_unavailable: Ne disponebla
-    hosted_on: "%{domain} estas nodo de Mastodon"
+    hosted_on: "%{domain} estas nodo de The Antisocial Network"
     title: Pri
   accounts:
     follow: Sekvi
@@ -631,7 +631,7 @@ eo:
         moderation: Moderigado
         special: Specialaj
       delete: Forigi
-      description_html: Per <strong>uzantoroloj</strong>, vi povas personecigi funkciojn kaj areon de Mastodon.
+      description_html: Per <strong>uzantoroloj</strong>, vi povas personecigi funkciojn kaj areon de The Antisocial Network.
       edit: Redakti rolon de '%{name}'
       everyone: Defaŭltaj permesoj
       everyone_full_description_html: Jen la <strong>baza rolo</strong>, kiu afektas <strong>ĉiujn uzantojn</strong>, eĉ tiuj sen atribuata rolo. Ĉiuj aliaj roloj heredas permesojn de ĝi.
@@ -694,13 +694,13 @@ eo:
         rules_hint: Havas apartan areon por regulojn kiujn via uzantoj devus sekvi.
         title: Pri
       appearance:
-        preamble: Personecigi retinterfaco de Mastodon.
+        preamble: Personecigi retinterfaco de The Antisocial Network.
         title: Apero
       branding:
         preamble: Via markeco de servilo malsamigas ĝin de aliaj servilojn en la reto. Do, la informo devus esti simpla kaj mallonga.
         title: Markeco
       content_retention:
-        preamble: Regi kiel uzantogenerita enhavo konservitis en Mastodon.
+        preamble: Regi kiel uzantogenerita enhavo konservitis en The Antisocial Network.
         title: Enhavkonservo
       default_noindex:
         desc_html: Efektiviĝas por ĉiuj uzantoj, kiuj mem ne agordis ĉi tion
@@ -853,7 +853,7 @@ eo:
     webhooks:
       add_new: Aldoni finpunkton
       delete: Forigi
-      description_html: "<strong>Rethoko</strong> ebligas Mastodon sendi <strong>realtempan sciigon</strong> pri kelkaj eventoj al la via sia programaro por <strong>automata ekigi</strong>."
+      description_html: "<strong>Rethoko</strong> ebligas The Antisocial Network sendi <strong>realtempan sciigon</strong> pri kelkaj eventoj al la via sia programaro por <strong>automata ekigi</strong>."
       disable: Neebligi
       disabled: Neebligita
       edit: Redakti finpunkton
@@ -915,7 +915,7 @@ eo:
     confirmation_dialogs: Konfirmaj fenestroj
     discovery: Eltrovo
     localization:
-      body: Mastodon estas tradukita de volontuloj.
+      body: The Antisocial Network estas tradukita de volontuloj.
       guide_link: https://crowdin.com/project/mastodon
       guide_link_text: Ĉiu povas kontribui.
     sensitive_content: Tikla enhavo
@@ -940,9 +940,9 @@ eo:
     delete_account: Forigi konton
     delete_account_html: Se vi deziras forigi vian konton, vi povas <a href="%{path}">fari tion ĉi tie</a>. Vi bezonos konfirmi vian peton.
     description:
-      prefix_invited_by_user: "@%{name} invitigi vin aligiĝi ĉi tiu servilo de Mastodon!"
-      prefix_sign_up: Registriĝu en Mastodon hodiaŭ!
-      suffix: Per konto, vi povos sekvi aliajn homojn, afiŝi kaj interŝanĝi mesaĝojn kun uzantoj de ajna Mastodona servilo kaj multe pli!
+      prefix_invited_by_user: "@%{name} invitigi vin aligiĝi ĉi tiu servilo de The Antisocial Network!"
+      prefix_sign_up: Registriĝu en The Antisocial Network hodiaŭ!
+      suffix: Per konto, vi povos sekvi aliajn homojn, afiŝi kaj interŝanĝi mesaĝojn kun uzantoj de ajna The Antisocial Networka servilo kaj multe pli!
     didnt_get_confirmation: Ĉu vi ne ricevis la instrukciojn por konfirmi?
     dont_have_your_security_key: Ne havas vi vian sekurecan ŝlosilon?
     forgot_password: Pasvorto forgesita?
@@ -975,7 +975,7 @@ eo:
     sign_in:
       title: Ensalutu al %{domain}
     sign_up:
-      preamble: Per konto ĉe ĉi tiu Mastodon-servilo, vi povas sekvi ajn personojn en la reto.
+      preamble: Per konto ĉe ĉi tiu The Antisocial Network-servilo, vi povas sekvi ajn personojn en la reto.
       title: Ni pretigu vin ĉe %{domain}.
     status:
       account_status: Statuso de la konto
@@ -1089,8 +1089,8 @@ eo:
       title: Ĉi tiu paĝo ne estas ĝusta
     '503': La paĝo ne povas montritis pro malpermanenta servilmalfunkcio.
     noscript_html: |-
-      Por uzi la retan aplikaĵon de Mastodon, bonvolu ebligi JavaScript. Alimaniere, provu unu el la
-      <a href="%{apps_path}">operaciumaj aplikaĵoj</a> por Mastodon por via platformo.
+      Por uzi la retan aplikaĵon de The Antisocial Network, bonvolu ebligi JavaScript. Alimaniere, provu unu el la
+      <a href="%{apps_path}">operaciumaj aplikaĵoj</a> por The Antisocial Network por via platformo.
   existing_username_validator:
     not_found: Ne povas trovi lokaj uzanto kun tiu uzantnomo
     not_found_multiple: Ne povas trovi %{usernames}
@@ -1417,7 +1417,7 @@ eo:
       weibo: Weibo
     current_session: Nuna seanco
     description: "%{browser} en %{platform}"
-    explanation: Ĉi tiuj estas la retumiloj nun ensalutintaj al via Mastodon-konto.
+    explanation: Ĉi tiuj estas la retumiloj nun ensalutintaj al via The Antisocial Network-konto.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -1442,7 +1442,7 @@ eo:
     aliases: Kontoj alinomoj
     appearance: Apero
     authorized_apps: Rajtigitaj aplikaĵoj
-    back: Reveni al Mastodon
+    back: Reveni al The Antisocial Network
     delete: Konta forigo
     development: Evoluigado
     edit_profile: Redakti profilon
@@ -1554,9 +1554,9 @@ eo:
   tags:
     does_not_match_previous_name: ne kongruas kun la antaŭa nomo
   themes:
-    contrast: Mastodon (Forta kontrasto)
-    default: Mastodon (Malhela)
-    mastodon-light: Mastodon (Hela)
+    contrast: The Antisocial Network (Forta kontrasto)
+    default: The Antisocial Network (Malhela)
+    mastodon-light: The Antisocial Network (Hela)
   time:
     formats:
       default: "%Y.%b.%d, %H:%M"
@@ -1588,7 +1588,7 @@ eo:
       subject: Via apelacio de %{date} estis malaprobita
       title: Apelacio estis malaprobita
     backup_ready:
-      explanation: Vi petis kompletan arkivon de via Mastodon-konto. Ĝi nun pretas por elŝutado!
+      explanation: Vi petis kompletan arkivon de via The Antisocial Network-konto. Ĝi nun pretas por elŝutado!
       subject: Via arkivo estas preta por elŝutado
       title: Arkiva elŝuto
     suspicious_sign_in:
@@ -1637,7 +1637,7 @@ eo:
       final_step: 'Ekmesaĝu! Eĉ sen sekvantoj, viaj publikaj mesaĝoj povas esti vidataj de aliaj, ekzemple en la loka templinio aŭ per kradvortoj. Eble vi ŝatus prezenti vin per la kradvorto #introductions / #konigo.'
       full_handle: Via kompleta uzantnomo
       full_handle_hint: Jen kion vi dirus al viaj amikoj, por ke ili mesaĝu aŭ sekvu vin de alia servilo.
-      subject: Bonvenon en Mastodon
+      subject: Bonvenon en The Antisocial Network
       title: Bonvenon, %{name}!
   users:
     follow_limit_reached: Vi ne povas sekvi pli ol %{limit} homo(j)
@@ -1646,7 +1646,7 @@ eo:
     seamless_external_login: Vi estas ensalutinta per ekstera servo, do pasvortaj kaj retadresaj agordoj ne estas disponeblaj.
     signed_in_as: 'Salutinta kiel:'
   verification:
-    explanation_html: 'Vi povas <strong>pruvi, ke vi estas la posedanto de la ligiloj en viaj profilaj metadatumoj</strong>. Por fari tion, la alligita retejo devas enhavi ligilon reen al via Mastodon-profilo. La religilo <strong>devas</strong> havi la atributon <code>rel="me"</code>. Ne gravas la teksta enhavo de la religilo. Jen ekzemplo:'
+    explanation_html: 'Vi povas <strong>pruvi, ke vi estas la posedanto de la ligiloj en viaj profilaj metadatumoj</strong>. Por fari tion, la alligita retejo devas enhavi ligilon reen al via The Antisocial Network-profilo. La religilo <strong>devas</strong> havi la atributon <code>rel="me"</code>. Ne gravas la teksta enhavo de la religilo. Jen ekzemplo:'
     verification: Kontrolo
   webauthn_credentials:
     add: Aldoni novan sekurecan ŝlosilon

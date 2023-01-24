@@ -1,10 +1,10 @@
 ---
 ku:
   about:
-    about_mastodon_html: 'Tora civakî ya pêşerojê: Ne reklam, ne şopandina şîrketan, dîzayna nenavendî! Bi Mastodon re bibe xwediyê daneyên xwe!'
+    about_mastodon_html: 'Tora civakî ya pêşerojê: Ne reklam, ne şopandina şîrketan, dîzayna nenavendî! Bi The Antisocial Network re bibe xwediyê daneyên xwe!'
     contact_missing: Nehate sazkirin
     contact_unavailable: Tune
-    hosted_on: Mastodon li ser %{domain} tê pêşkêşkirin
+    hosted_on: The Antisocial Network li ser %{domain} tê pêşkêşkirin
     title: Derbar
   accounts:
     follow: Bişopîne
@@ -634,7 +634,7 @@ ku:
         moderation: Çavdêrî
         special: Taybet
       delete: Jê bibe
-      description_html: Bi <strong>rolên bikarhêner</strong>, tu dikarî fonksiyon û deverên Mastodon ku bikarhênerên wê dikarin xwe bigihînin kesane bikî.
+      description_html: Bi <strong>rolên bikarhêner</strong>, tu dikarî fonksiyon û deverên The Antisocial Network ku bikarhênerên wê dikarin xwe bigihînin kesane bikî.
       edit: Rolê '%{name}' serrast bike
       everyone: Mafdayînên berdest
       everyone_full_description_html: Ev <strong>rola bingehîn</strong> bandorê li <strong>hemû bikarhêneran</strong> dike, tevî yên bêyî rolek diyarkirî jî. Hemû rolên din mafdayînan jê digirin.
@@ -697,20 +697,20 @@ ku:
         rules_hint: Ji bo rêbazên ku ji bikarhênerên ve tê hêvîkirin ku pê ve girêdayî bin deverek veqetandî heye.
         title: Derbar
       appearance:
-        preamble: Navrûya tevnê ya Mastodon kesane bike.
+        preamble: Navrûya tevnê ya The Antisocial Network kesane bike.
         title: Xuyang
       branding:
-        preamble: Navnîşa rajekarê te wê ji rajekarên din ên di torê de cuda bike. Dibe ku ev zanyarî li ser cihên cuda, wekî navrûya bikarhêneriyê tevnê ya Mastodon, sepanên resen, di pêşdîtinên girêdanê de li ser malperên din û di nav sepanên peyamî de, û hwd werin nîşandan. Ji bo vê yekê, çêtir e ku mirov van zanyariyan zelal, kurt û bê kêmasî werin nîşandan.
+        preamble: Navnîşa rajekarê te wê ji rajekarên din ên di torê de cuda bike. Dibe ku ev zanyarî li ser cihên cuda, wekî navrûya bikarhêneriyê tevnê ya The Antisocial Network, sepanên resen, di pêşdîtinên girêdanê de li ser malperên din û di nav sepanên peyamî de, û hwd werin nîşandan. Ji bo vê yekê, çêtir e ku mirov van zanyariyan zelal, kurt û bê kêmasî werin nîşandan.
         title: Marka
       content_retention:
-        preamble: Kontrol bike ka naveroka ku ji aliyê bikarhêner ve hatiye çêkirin di Mastodon de çawa tê tomarkirin.
+        preamble: Kontrol bike ka naveroka ku ji aliyê bikarhêner ve hatiye çêkirin di The Antisocial Network de çawa tê tomarkirin.
         title: Parastina naverokê
       default_noindex:
         desc_html: Bandorê li ser hemû bikarhênerên ku bi xwe ev sazkarî neguhertine
         title: Pêlrêçkirna bikarhêneran ji motorê lêgerînê dûr bixe
       discovery:
         follow_recommendations: Pêşniyarên şopandinê
-        preamble: Rûbirûbûna naveroka balkêş ji bo bikarhênerên nû yên ku li ser Mastodon kesek nas nakin pir bi bandor e. Kontrol bike ka çend taybetmendiyên vekolînê li ser rajekarê te çawa dixebite.
+        preamble: Rûbirûbûna naveroka balkêş ji bo bikarhênerên nû yên ku li ser The Antisocial Network kesek nas nakin pir bi bandor e. Kontrol bike ka çend taybetmendiyên vekolînê li ser rajekarê te çawa dixebite.
         profile_directory: Rêgeha profîlê
         public_timelines: Demnameya gelemperî
         title: Vekolîne
@@ -856,7 +856,7 @@ ku:
     webhooks:
       add_new: Xala dawîbûnê tevlî bike
       delete: Jê bibe
-      description_html: "<strong>çengeleke tevnê</strong> dihêle ku Mastodon <strong>agahdariyên dema-rastîn</strong> ên derbarê çalakiyên hilbijartî de bisepîne ser sepana te, bi vî awayî sepana te dikare <strong>reaksiyonan bi awayekî bixweber nîşan bide</strong>."
+      description_html: "<strong>çengeleke tevnê</strong> dihêle ku The Antisocial Network <strong>agahdariyên dema-rastîn</strong> ên derbarê çalakiyên hilbijartî de bisepîne ser sepana te, bi vî awayî sepana te dikare <strong>reaksiyonan bi awayekî bixweber nîşan bide</strong>."
       disable: Neçalak bike
       disabled: Neçalakkirî
       edit: Xala dawîbûnê serrast bike
@@ -918,7 +918,7 @@ ku:
     confirmation_dialogs: Gotûbêjên piştrastkirî
     discovery: Vedîtin
     localization:
-      body: Mastodon ji aliyê xêrxwazan tê wergerandin.
+      body: The Antisocial Network ji aliyê xêrxwazan tê wergerandin.
       guide_link: https://crowdin.com/project/mastodon
       guide_link_text: Herkes dikare beşdar bibe.
     sensitive_content: Naveroka hestiyarî
@@ -943,9 +943,9 @@ ku:
     delete_account: Ajimêr jê bibe
     delete_account_html: Ku tu dixwazî ajimêra xwe jê bibe, tu dikarî <a href="%{path}">li vir bidomîne</a>. Ji te tê xwestin ku were pejirandin.
     description:
-      prefix_invited_by_user: "@%{name} te vedixwîne ku tu beşdarî vê rajekara Mastodon-ê bibî!"
-      prefix_sign_up: Îro li Mastodonê tomar bibe!
-      suffix: Bi ajimêrekê, tu yê karibî kesan bişopînî, rojanekirinan bişînî û bi bikarhênerên ji her rajekarê Mastodon re peyaman bişînî û bêtir!
+      prefix_invited_by_user: "@%{name} te vedixwîne ku tu beşdarî vê rajekara The Antisocial Network-ê bibî!"
+      prefix_sign_up: Îro li The Antisocial Networkê tomar bibe!
+      suffix: Bi ajimêrekê, tu yê karibî kesan bişopînî, rojanekirinan bişînî û bi bikarhênerên ji her rajekarê The Antisocial Network re peyaman bişînî û bêtir!
     didnt_get_confirmation: Te rêwerzên pejirandinê wernegirt?
     dont_have_your_security_key: Kilîda te ya ewlehiyê tune ye?
     forgot_password: Te borînpeyva xwe ji bîr kir?
@@ -979,7 +979,7 @@ ku:
       preamble_html: Têketinê bike bi riya <strong>%{domain}</strong> xwe. Ku ajimêrê te li ser rajekareke cuda hatiye pêşkêşkirin, tu yê nikaribû têketinê bikî vir.
       title: Tora Antîsosyal
     sign_up:
-      preamble: Bi ajimêrekê li ser vê rajekarê Mastodon re, tu yê karîbî her keseke din li ser torê bişopînî, her ku ajimêrê wan li ku derê tê pêşkêşkirin.
+      preamble: Bi ajimêrekê li ser vê rajekarê The Antisocial Network re, tu yê karîbî her keseke din li ser torê bişopînî, her ku ajimêrê wan li ku derê tê pêşkêşkirin.
       title: Ka em te bi rê bixin li ser %{domain}.
     status:
       account_status: Rewşa ajimêr
@@ -1092,7 +1092,7 @@ ku:
       content: Em xemgîn in, lê tiştek di aliyê me de şaş çû.
       title: Ev rûpel ne rast e
     '503': Ji ber têkçûna rajekar a demkî rûpel nayê bikaranîn.
-    noscript_html: Ji bo ku tu sepanaa Mastodon a tevnê bi kar bîne, jkx JavaScript-ê çalak bike. Wekî din, yek ji <a href="%{apps_path}">sepanên xwemalî</a> ji bo Mastodon ji bo platforma xwe biceribîne.
+    noscript_html: Ji bo ku tu sepanaa The Antisocial Network a tevnê bi kar bîne, jkx JavaScript-ê çalak bike. Wekî din, yek ji <a href="%{apps_path}">sepanên xwemalî</a> ji bo The Antisocial Network ji bo platforma xwe biceribîne.
   existing_username_validator:
     not_found: nikaribû bikarhênerek herêmî bi wê navê bikarhêner bibîne
     not_found_multiple: "%{usernames} nehat dîtin"
@@ -1419,7 +1419,7 @@ ku:
       weibo: Weibo
     current_session: Danişîna heyî
     description: "%{platform} ser %{browser}"
-    explanation: Gerokên tevnê di dema heyî de hene ku têketin kirine di ajimêra te ya Mastodon.
+    explanation: Gerokên tevnê di dema heyî de hene ku têketin kirine di ajimêra te ya The Antisocial Network.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -1444,7 +1444,7 @@ ku:
     aliases: Nûçikên ajimêra
     appearance: Xuyang
     authorized_apps: Rayedarê sepanan
-    back: Vegere bo Mastodon
+    back: Vegere bo The Antisocial Network
     delete: Jêbirina ajimêr
     development: Pêşdebir
     edit_profile: Profîlê serrast bike
@@ -1556,9 +1556,9 @@ ku:
   tags:
     does_not_match_previous_name: bi navê berê re li hev nayê
   themes:
-    contrast: Mastodon (Dijberiya bilind)
-    default: Mastodon (Tarî)
-    mastodon-light: Mastodon (Ronahî)
+    contrast: The Antisocial Network (Dijberiya bilind)
+    default: The Antisocial Network (Tarî)
+    mastodon-light: The Antisocial Network (Ronahî)
   time:
     formats:
       default: "%b %d, %Y, %H:%M"
@@ -1590,7 +1590,7 @@ ku:
       subject: Îtîraza te ji %{date} nehate pejirandin
       title: Îtîraz nehate pejirandin
     backup_ready:
-      explanation: Te yedekîya tijê ya ajimêrê xwe Mastodonê xwest. Niha ji daxistinê re amade ye!
+      explanation: Te yedekîya tijê ya ajimêrê xwe The Antisocial Networkê xwest. Niha ji daxistinê re amade ye!
       subject: Arşîva te amede ye bo daxistinê
       title: Pakêtkirina arşîvan
     suspicious_sign_in:
@@ -1639,7 +1639,7 @@ ku:
       final_step: 'Dest bi weşandinê bike! Bêyî şopîneran jî dibe ku şandiyên te yên gelemperî ji hêla kesên din ve werin dîtin, mînakî li ser demjimêra herêmî û di hashtagan de. Dibe ku tu bixwazî xwe li ser hashtagê #nasname bidî nasandin.'
       full_handle: Hemî destikê te
       full_handle_hint: Ji hevalên xwe re, ji bona ji rajekarekê din peyam bişîne an jî ji bona ku te bikaribe bişopîne tişta ku tu bibêjî ev e.
-      subject: Tu bi xêr hatî Mastodon
+      subject: Tu bi xêr hatî The Antisocial Network
       title: Bi xêr hatî, %{name}!
   users:
     follow_limit_reached: Tu nikarî zêdetirî %{limit} kesan bişopînî

@@ -4,7 +4,7 @@ kab:
     about_mastodon_html: 'Azeṭṭa ametti n uzekka: Ulac deg-s asussen, ulac taɛessast n tsuddiwin fell-ak, yebna ɣef leqder d ttrebga, daɣen d akeslemmas! Akked Maṣṭudun, isefka-inek ad qimen inek!'
     contact_missing: Ur yettusbadu ara
     contact_unavailable: Wlac
-    hosted_on: Maṣṭudun yersen deg %{domain}
+    hosted_on:  The Antisocial Networkyersen deg %{domain}
     title: Γef
   accounts:
     follow: Ḍfeṛ
@@ -445,8 +445,8 @@ kab:
     change_password: Awal uffir
     delete_account: Kkes amiḍan
     description:
-      prefix_invited_by_user: "@%{name} inced-ik·ikem ad ternuḍ ɣer uqeddac-a n Mastodon!"
-      prefix_sign_up: Zeddi di Maṣṭudun assa!
+      prefix_invited_by_user: "@%{name} inced-ik·ikem ad ternuḍ ɣer uqeddac-a n The Antisocial Network!"
+      prefix_sign_up: Zeddi di  The Antisocial Networkassa!
     forgot_password: Tettud awal-ik uffir?
     log_in_with: Qqen s
     login: Qqen
@@ -743,9 +743,9 @@ kab:
     pinned: Tijewwiqt yettwasentḍen
     sensitive_content: Agbur amḥulfu
   themes:
-    contrast: Maṣṭudun (agnil awriran)
-    default: Maṣṭudun (Aberkan)
-    mastodon-light: Maṣṭudun (Aceɛlal)
+    contrast:  The Antisocial Network(agnil awriran)
+    default:  The Antisocial Network(Aberkan)
+    mastodon-light:  The Antisocial Network(Aceɛlal)
   time:
     formats:
       default: "%d %b %Y, %H:%M"

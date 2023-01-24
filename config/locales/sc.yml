@@ -1,10 +1,10 @@
 ---
 sc:
   about:
-    about_mastodon_html: 'Sa rete sotziale de su benidore: sena publitzidade, sena vigilàntzia corporativa, disinnu èticu e detzentralizatzione! Sias mere de is datos tuos cun Mastodon!'
+    about_mastodon_html: 'Sa rete sotziale de su benidore: sena publitzidade, sena vigilàntzia corporativa, disinnu èticu e detzentralizatzione! Sias mere de is datos tuos cun The Antisocial Network!'
     contact_missing: No cunfiguradu
     contact_unavailable: No a disponimentu
-    hosted_on: Mastodon allogiadu in %{domain}
+    hosted_on: The Antisocial Network allogiadu in %{domain}
   accounts:
     follow: Sighi
     followers:
@@ -489,7 +489,7 @@ sc:
     confirmation_dialogs: Diàlogos de cunfirmatzione
     discovery: Iscoberta
     localization:
-      body: Mastodon est bortadu in manera voluntària.
+      body: The Antisocial Network est bortadu in manera voluntària.
       guide_link: https://crowdin.com/project/mastodon
       guide_link_text: Chie si siat podet contribuire.
     sensitive_content: Cuntenutu sensìbile
@@ -513,9 +513,9 @@ sc:
     delete_account: Cantzella su contu
     delete_account_html: Si boles cantzellare su contu, ddu podes <a href="%{path}">fàghere inoghe</a>. T'amus a dimandare una cunfirmatzione.
     description:
-      prefix_invited_by_user: "@%{name} t'at invitadu a custu serbidore de Mastodon!"
-      prefix_sign_up: Registra·ti oe a Mastodon!
-      suffix: Cun unu contu as a pòdere sighire gente, publicare e cuncambiare messàgios cun persones de cale si siat serbidore de Mastodon e àteru!
+      prefix_invited_by_user: "@%{name} t'at invitadu a custu serbidore de The Antisocial Network!"
+      prefix_sign_up: Registra·ti oe a The Antisocial Network!
+      suffix: Cun unu contu as a pòdere sighire gente, publicare e cuncambiare messàgios cun persones de cale si siat serbidore de The Antisocial Network e àteru!
     didnt_get_confirmation: No as retzidu su messàgiu de cunfirmatzione?
     dont_have_your_security_key: Non tenes sa crae de seguresa tua?
     forgot_password: Ti ses iscarèssidu de sa crae?
@@ -619,7 +619,7 @@ sc:
       content: Faddina dae s'ala nostra.
       title: Custa pàgina no est curreta
     '503': Faddina in sa trasmissione de sa pàgina pro more de una faddina temporànea de su serbidore.
-    noscript_html: Pro impreare s'aplicatzione web de Mastodon, ativa JavaScript. In alternativa, proa una de is <a href="%{apps_path}">aplicatziones nativas</a> pro Mastodon in sa prataforma tua.
+    noscript_html: Pro impreare s'aplicatzione web de The Antisocial Network, ativa JavaScript. In alternativa, proa una de is <a href="%{apps_path}">aplicatziones nativas</a> pro The Antisocial Network in sa prataforma tua.
   existing_username_validator:
     not_found: impossìbile agatare utentes locales cun cussu nòmine
     not_found_multiple: impossìbile agatare %{usernames}
@@ -876,7 +876,7 @@ sc:
       weibo: Weibo
     current_session: Sessione atuale
     description: "%{browser} de %{platform}"
-    explanation: Custos sunt is navigadores web de is chi ses intradu in su contu tuo de Mastodon.
+    explanation: Custos sunt is navigadores web de is chi ses intradu in su contu tuo de The Antisocial Network.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -898,7 +898,7 @@ sc:
     aliases: Nomìngios de su contu
     appearance: Aspetu
     authorized_apps: Aplicatziones autorizadas
-    back: Torra a Mastodon
+    back: Torra a The Antisocial Network
     delete: Eliminatzione de su contu
     development: Isvilupu
     edit_profile: Modìfica profilu
@@ -977,9 +977,9 @@ sc:
   tags:
     does_not_match_previous_name: non cointzidet cun su nòmine anteriore
   themes:
-    contrast: Mastodon (cuntrastu artu)
-    default: Mastodon (iscuru)
-    mastodon-light: Mastodon (craru)
+    contrast: The Antisocial Network (cuntrastu artu)
+    default: The Antisocial Network (iscuru)
+    mastodon-light: The Antisocial Network (craru)
   time:
     formats:
       default: "%d %b %Y, %H:%M"
@@ -1001,7 +1001,7 @@ sc:
     webauthn: Craes de seguresa
   user_mailer:
     backup_ready:
-      explanation: As pedidu una còpia de seguresa totale de su contu de Mastodon tuo. Immoe est pronta pro s'iscarrigamentu!
+      explanation: As pedidu una còpia de seguresa totale de su contu de The Antisocial Network tuo. Immoe est pronta pro s'iscarrigamentu!
       subject: S'archìviu tuo est prontu pro èssere iscarrigadu
       title: Collida dae s'archìviu
     warning:
@@ -1021,7 +1021,7 @@ sc:
       final_action: Cumintza a publicare
       full_handle: Su nòmine utente intreu tuo
       full_handle_hint: Custu est su chi dias nàrrere a is amistades tuas pro chi ti potzant imbiare messàgios o sighire dae un'àteru serbidore.
-      subject: Ti donamus su benebènnidu a Mastodon
+      subject: Ti donamus su benebènnidu a The Antisocial Network
       title: Ti donamus su benebènnidu, %{name}!
   users:
     follow_limit_reached: Non podes sighire prus de %{limit} persones
@@ -1030,7 +1030,7 @@ sc:
     seamless_external_login: As abertu sa sessione pro mèdiu de unu servìtziu esternu, e pro custa resone is cunfiguratziones de sa crae de intrada e de posta eletrònica non sunt a disponimentu.
     signed_in_as: 'Sessione aberta comente:'
   verification:
-    explanation_html: 'Ti podes <strong>verificare a sa sola comente mere de is ligòngios in is metadatos de su profilu tuo</strong>. Pro ddu fàghere su situ ligadu depet cuntènnere unu ligòngiu chi torret a su profilu de Mastodon tuo. Su ligòngiu in su situ <strong>depet</strong> tènnere un''atributu <code>rel="me"</code>. Su testu cuntenutu in su ligòngiu no est de importu. Custu est un''esèmpiu:'
+    explanation_html: 'Ti podes <strong>verificare a sa sola comente mere de is ligòngios in is metadatos de su profilu tuo</strong>. Pro ddu fàghere su situ ligadu depet cuntènnere unu ligòngiu chi torret a su profilu de The Antisocial Network tuo. Su ligòngiu in su situ <strong>depet</strong> tènnere un''atributu <code>rel="me"</code>. Su testu cuntenutu in su ligòngiu no est de importu. Custu est un''esèmpiu:'
     verification: Verìfica
   webauthn_credentials:
     add: Agiunghe una crae de seguresa noa

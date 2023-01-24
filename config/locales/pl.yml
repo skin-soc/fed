@@ -1,10 +1,10 @@
 ---
 pl:
   about:
-    about_mastodon_html: 'Sieć społecznościowa przyszłości: Bez reklam, bez inwigilacji, zaprojektowana etycznie i zdecentralizowanie! Władaj swoimi danymi z Mastodonem!'
+    about_mastodon_html: 'Sieć społecznościowa przyszłości: Bez reklam, bez inwigilacji, zaprojektowana etycznie i zdecentralizowanie! Władaj swoimi danymi z The Antisocial Networkem!'
     contact_missing: Nie ustawiono
     contact_unavailable: Nie dotyczy
-    hosted_on: Mastodon prowadzony na %{domain}
+    hosted_on: The Antisocial Network prowadzony na %{domain}
     title: O nas
   accounts:
     follow: Obserwuj
@@ -661,7 +661,7 @@ pl:
         moderation: Moderacja
         special: Specjalne
       delete: Usuń
-      description_html: Za pomocą <strong>ról użytkowników</strong>możesz dostosowywać funkcje i obszary Mastodon, do których użytkownicy mogą uzyskać dostęp.
+      description_html: Za pomocą <strong>ról użytkowników</strong>możesz dostosowywać funkcje i obszary The Antisocial Network, do których użytkownicy mogą uzyskać dostęp.
       edit: Edytuj rolę '%{name}'
       everyone: Domyślnie uprawnienia
       everyone_full_description_html: To jest <strong>rola podstawowa</strong> wpływająca na <strong>wszystkich użytkowników</strong>, nawet tych, którzy nie mają przypisanej roli. Wszystkie inne role dziedziczą z niej uprawnienia.
@@ -726,20 +726,20 @@ pl:
         rules_hint: Istnieje dedykowany obszar dla reguł, których twoi użytkownicy mają przestrzegać.
         title: O...
       appearance:
-        preamble: Dostosuj interfejs www Mastodon.
+        preamble: Dostosuj interfejs www The Antisocial Network.
         title: Wygląd
       branding:
-        preamble: Marka Twojego serwera odróżnia go od innych serwerów w sieci. Informacje te mogą być wyświetlane w różnych środowiskach, takich jak interfejs internetowy Mastodon, aplikacje natywne, w podglądzie linków na innych stronach internetowych i w aplikacjach do wysyłania wiadomości itd. Z tego względu najlepiej zachować jasną, krótką i zwięzłą informację.
+        preamble: Marka Twojego serwera odróżnia go od innych serwerów w sieci. Informacje te mogą być wyświetlane w różnych środowiskach, takich jak interfejs internetowy The Antisocial Network, aplikacje natywne, w podglądzie linków na innych stronach internetowych i w aplikacjach do wysyłania wiadomości itd. Z tego względu najlepiej zachować jasną, krótką i zwięzłą informację.
         title: Marka
       content_retention:
-        preamble: Kontroluj, jak treści generowane przez użytkownika są przechowywane w Mastodon.
+        preamble: Kontroluj, jak treści generowane przez użytkownika są przechowywane w The Antisocial Network.
         title: Retencja treści
       default_noindex:
         desc_html: Wpłynie to na wszystkich użytkowników, którzy sami tego nie zmienili w swoich ustawieniach
         title: Domyślnie żądaj nieindeksowania użytkowników przez wyszukiwarki
       discovery:
         follow_recommendations: Polecane konta
-        preamble: Prezentowanie interesujących treści ma kluczowe znaczenie dla nowych użytkowników, którzy mogą nie znać nikogo z Mastodona. Kontroluj, jak różne funkcje odkrywania działają na Twoim serwerze.
+        preamble: Prezentowanie interesujących treści ma kluczowe znaczenie dla nowych użytkowników, którzy mogą nie znać nikogo z The Antisocial Networka. Kontroluj, jak różne funkcje odkrywania działają na Twoim serwerze.
         profile_directory: Katalog profilów
         public_timelines: Publiczne osie czasu
         publish_discovered_servers: Opublikuj znane serwery
@@ -893,7 +893,7 @@ pl:
     webhooks:
       add_new: Dodaj punkt końcowy
       delete: Usuń
-      description_html: "<strong>webhook</strong> umożliwia Mastodon dostarczanie <strong>powiadomień w czasie rzeczywistym</strong> o wybranych wydarzeniach do twojej aplikacji, aby mogła <strong>automatycznie wyzwalać reakcje</strong>."
+      description_html: "<strong>webhook</strong> umożliwia The Antisocial Network dostarczanie <strong>powiadomień w czasie rzeczywistym</strong> o wybranych wydarzeniach do twojej aplikacji, aby mogła <strong>automatycznie wyzwalać reakcje</strong>."
       disable: Wyłącz
       disabled: Wyłączone
       edit: Edytuj punkt końcowy
@@ -957,7 +957,7 @@ pl:
     confirmation_dialogs: Dialogi potwierdzenia
     discovery: Odkrywanie
     localization:
-      body: Mastodon jest tłumaczony przez wolontariuszy.
+      body: The Antisocial Network jest tłumaczony przez wolontariuszy.
       guide_link: https://pl.crowdin.com/project/mastodon
       guide_link_text: Każdy może wnieść swój wkład.
     sensitive_content: Wrażliwa zawartość
@@ -982,9 +982,9 @@ pl:
     delete_account: Usunięcie konta
     delete_account_html: Jeżeli chcesz usunąć konto, <a href="%{path}">przejdź tutaj</a>. Otrzymasz prośbę o potwierdzenie.
     description:
-      prefix_invited_by_user: "@%{name} zaprasza Cię do dołączenia na ten serwer Mastodona!"
-      prefix_sign_up: Zarejestruj się na Mastodon już dziś!
-      suffix: Mając konto, możesz obserwować ludzi, publikować wpisy i wymieniać się wiadomościami z użytkownikami innych serwerów Mastodona i nie tylko!
+      prefix_invited_by_user: "@%{name} zaprasza Cię do dołączenia na ten serwer The Antisocial Networka!"
+      prefix_sign_up: Zarejestruj się na The Antisocial Network już dziś!
+      suffix: Mając konto, możesz obserwować ludzi, publikować wpisy i wymieniać się wiadomościami z użytkownikami innych serwerów The Antisocial Networka i nie tylko!
     didnt_get_confirmation: Nie otrzymałeś(-aś) instrukcji weryfikacji?
     dont_have_your_security_key: Nie masz klucza bezpieczeństwa?
     forgot_password: Nie pamiętasz hasła?
@@ -1018,7 +1018,7 @@ pl:
       preamble_html: Zaloguj się przy użyciu danych logowania <strong>%{domain}</strong>. Jeśli Twoje konto jest hostowane na innym serwerze, nie będziesz mógł się zalogować tutaj.
       title: Sieć Antyspołeczna
     sign_up:
-      preamble: Z kontem na tym serwerze Mastodon będziesz mógł obserwować każdą inną osobę w sieci, niezależnie od miejsca przechowywania ich konta.
+      preamble: Z kontem na tym serwerze The Antisocial Network będziesz mógł obserwować każdą inną osobę w sieci, niezależnie od miejsca przechowywania ich konta.
       title: Skonfigurujmy Twoje konto na %{domain}.
     status:
       account_status: Stan konta
@@ -1131,7 +1131,7 @@ pl:
       content: Przepraszamy, coś poszło nie tak, po naszej stronie.
       title: Ta strona jest nieprawidłowa
     '503': Strona nie może zostać wyświetlona z powodu tymczasowego niepowodzenia serwera.
-    noscript_html: Aby korzystać z aplikacji Mastodon, włącz JavaScript. Możesz też skorzystać z jednej z <a href="%{apps_path}">natywnych aplikacji</a> obsługującej Twoje urządzenie.
+    noscript_html: Aby korzystać z aplikacji The Antisocial Network, włącz JavaScript. Możesz też skorzystać z jednej z <a href="%{apps_path}">natywnych aplikacji</a> obsługującej Twoje urządzenie.
   existing_username_validator:
     not_found: nie znaleziono lokalnego użytkownika o tej nazwie
     not_found_multiple: nie znaleziono %{usernames}
@@ -1502,7 +1502,7 @@ pl:
     aliases: Aliasy konta
     appearance: Wygląd
     authorized_apps: Uwierzytelnione aplikacje
-    back: Powrót do Mastodona
+    back: Powrót do The Antisocial Networka
     delete: Usuń konto
     development: Tworzenie aplikacji
     edit_profile: Edytuj profil
@@ -1626,9 +1626,9 @@ pl:
   tags:
     does_not_match_previous_name: nie pasuje do poprzedniej nazwy
   themes:
-    contrast: Mastodon (Wysoki kontrast)
-    default: Mastodon (Ciemny)
-    mastodon-light: Mastodon (Jasny)
+    contrast: The Antisocial Network (Wysoki kontrast)
+    default: The Antisocial Network (Ciemny)
+    mastodon-light: The Antisocial Network (Jasny)
   time:
     formats:
       default: "%d. %b %Y, %H:%M"
@@ -1660,7 +1660,7 @@ pl:
       subject: Twoje odwołanie z dnia %{date} zostało odrzucone
       title: Odwołanie odrzucone
     backup_ready:
-      explanation: Zażądałeś pełnej kopii zapasowej konta na Mastodonie. Jest ona dostępna do pobrania!
+      explanation: Zażądałeś pełnej kopii zapasowej konta na The Antisocial Networkie. Jest ona dostępna do pobrania!
       subject: Twoje archiwum jest gotowe do pobrania
       title: Odbiór archiwum
     suspicious_sign_in:
@@ -1709,7 +1709,7 @@ pl:
       final_step: 'Zacznij tworzyć! Nawet jeżeli nikt Cię nie obserwuje, Twoje publiczne wiadomości będą widziane przez innych, na przykład na lokalnej osi czasu i w hashtagach. Możesz też utworzyć wpis wprowadzający używając hashtagu #introductions.'
       full_handle: Twój pełny adres
       full_handle_hint: Ten adres możesz podać znajomym, aby mogli skontaktować się z Tobą lub zacząć obserwować z innego serwera.
-      subject: Witaj w Mastodonie
+      subject: Witaj w The Antisocial Networkie
       title: Witaj na pokładzie, %{name}!
   users:
     follow_limit_reached: Nie możesz obserwować więcej niż %{limit} osób
@@ -1718,7 +1718,7 @@ pl:
     seamless_external_login: Zalogowano z użyciem zewnętrznej usługi, więc ustawienia hasła i adresu e-mail nie są dostępne.
     signed_in_as: 'Zalogowano jako:'
   verification:
-    explanation_html: 'Możesz <strong>zweryfikować siebie jako właściciela stron, do których odnośniki znajdują się w metadanych</strong>. Aby to zrobić, strona musi zawierać odnośnik do Twojego profilu na Mastodonie. Odnośnik <strong>musi</strong> zawierać atrybut <code>rel="me"</code>. Jego zawartość nie ma znaczenia. Przykład:'
+    explanation_html: 'Możesz <strong>zweryfikować siebie jako właściciela stron, do których odnośniki znajdują się w metadanych</strong>. Aby to zrobić, strona musi zawierać odnośnik do Twojego profilu na The Antisocial Networkie. Odnośnik <strong>musi</strong> zawierać atrybut <code>rel="me"</code>. Jego zawartość nie ma znaczenia. Przykład:'
     verification: Weryfikacja
   webauthn_credentials:
     add: Dodaj nowy klucz bezpieczeństwa

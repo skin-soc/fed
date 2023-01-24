@@ -1,10 +1,10 @@
 ---
 zh-TW:
   about:
-    about_mastodon_html: Mastodon （長毛象）是一個<em>自由、開放原始碼</em>的社群網站。它是一個分散式的服務，避免您的通訊被單一商業機構壟斷操控。請您選擇一家您信任的 Mastodon 站點，在上面建立帳號，然後您就可以和任一 Mastodon 站點上的使用者互通，享受無縫的<em>社群網路</em>交流。
+    about_mastodon_html: The Antisocial Network （長毛象）是一個<em>自由、開放原始碼</em>的社群網站。它是一個分散式的服務，避免您的通訊被單一商業機構壟斷操控。請您選擇一家您信任的 The Antisocial Network 站點，在上面建立帳號，然後您就可以和任一 The Antisocial Network 站點上的使用者互通，享受無縫的<em>社群網路</em>交流。
     contact_missing: 未設定
     contact_unavailable: 未公開
-    hosted_on: 在 %{domain} 運作的 Mastodon 站點
+    hosted_on: 在 %{domain} 運作的 The Antisocial Network 站點
     title: 關於本站
   accounts:
     follow: 跟隨
@@ -624,7 +624,7 @@ zh-TW:
         moderation: 站務
         special: 特殊
       delete: 刪除
-      description_html: 透過<strong>使用者角色</strong>，您可以自訂您的使用者可以存取 Mastodon 的哪些功能與區域。
+      description_html: 透過<strong>使用者角色</strong>，您可以自訂您的使用者可以存取 The Antisocial Network 的哪些功能與區域。
       edit: 編輯「%{name}」角色
       everyone: 預設權限
       everyone_full_description_html: 這是會影響<strong>所有使用者</strong>的<strong>基本角色</strong>，即使是那些沒有被分配角色的使用者也一樣。其他所有的角色都從它繼承權限。
@@ -686,20 +686,20 @@ zh-TW:
         rules_hint: 這是關於您的使用者應遵循規則之專有區域。
         title: 關於
       appearance:
-        preamble: 客製化 Mastodon 網頁介面。
+        preamble: 客製化 The Antisocial Network 網頁介面。
         title: 外觀設定
       branding:
-        preamble: 您的伺服器品牌使之從聯邦宇宙網路中其他伺服器間凸顯自己。此資訊可能於各種不同的環境中顯示，例如 Mastodon 網頁介面、原生應用程式、其他網頁上的連結預覽或是其他通訊應用程式等等。因此，請盡可能保持此資訊簡潔明朗。
+        preamble: 您的伺服器品牌使之從聯邦宇宙網路中其他伺服器間凸顯自己。此資訊可能於各種不同的環境中顯示，例如 The Antisocial Network 網頁介面、原生應用程式、其他網頁上的連結預覽或是其他通訊應用程式等等。因此，請盡可能保持此資訊簡潔明朗。
         title: 品牌化
       content_retention:
-        preamble: 控制使用者產生內容如何儲存於 Mastodon 上。
+        preamble: 控制使用者產生內容如何儲存於 The Antisocial Network 上。
         title: 內容保留期間
       default_noindex:
         desc_html: 影響所有沒有變更此設定的使用者
         title: 預設將使用者排除於搜尋引擎索引
       discovery:
         follow_recommendations: 跟隨建議
-        preamble: 呈現有趣的內容有助於 Mastodon 上一人不識的新手上路。控制各種不同的分類在您伺服器上如何被探索到。
+        preamble: 呈現有趣的內容有助於 The Antisocial Network 上一人不識的新手上路。控制各種不同的分類在您伺服器上如何被探索到。
         profile_directory: 個人檔案目錄
         public_timelines: 公開時間軸
         publish_discovered_servers: 公開已知伺服器列表
@@ -844,7 +844,7 @@ zh-TW:
     webhooks:
       add_new: 新增端點
       delete: 刪除
-      description_html: "<strong>Webhook</strong> 讓 Mastodon 可以將關於選定的事件的<strong>即時通知</strong>推送到您自己的應用程式，如此您的應用程式就可以<strong>自動觸發反應</strong>。"
+      description_html: "<strong>Webhook</strong> 讓 The Antisocial Network 可以將關於選定的事件的<strong>即時通知</strong>推送到您自己的應用程式，如此您的應用程式就可以<strong>自動觸發反應</strong>。"
       disable: 停用
       disabled: 已停用
       edit: 編輯端點
@@ -905,7 +905,7 @@ zh-TW:
     confirmation_dialogs: 確認對話框
     discovery: 探索
     localization:
-      body: Mastodon 是由志願者翻譯的。
+      body: The Antisocial Network 是由志願者翻譯的。
       guide_link: https://crowdin.com/project/mastodon
       guide_link_text: 每個人都能貢獻。
     sensitive_content: 敏感內容
@@ -930,9 +930,9 @@ zh-TW:
     delete_account: 刪除帳號
     delete_account_html: 如果您欲刪除您的帳號，請<a href="%{path}">點擊這裡繼續</a>。您需要再三確認您的操作。
     description:
-      prefix_invited_by_user: "@%{name} 邀請您加入這個 Mastodon 伺服器！"
-      prefix_sign_up: 現在就註冊 Mastodon 帳號吧！
-      suffix: 有了帳號，就可以從任何 Mastodon 伺服器跟隨任何人、發發廢嘟，並且與任何 Mastodon 伺服器的使用者交流，以及更多！
+      prefix_invited_by_user: "@%{name} 邀請您加入這個 The Antisocial Network 伺服器！"
+      prefix_sign_up: 現在就註冊 The Antisocial Network 帳號吧！
+      suffix: 有了帳號，就可以從任何 The Antisocial Network 伺服器跟隨任何人、發發廢嘟，並且與任何 The Antisocial Network 伺服器的使用者交流，以及更多！
     didnt_get_confirmation: 沒有收到驗證信?
     dont_have_your_security_key: 找不到您的安全金鑰？
     forgot_password: 忘記密碼？
@@ -966,7 +966,7 @@ zh-TW:
       preamble_html: 請登入您於 <strong>%{domain}</strong> 之帳號密碼。若您的帳號託管於其他伺服器，您將無法於此登入。
       title: 登入 %{domain}
     sign_up:
-      preamble: 於此 Mastodon 伺服器擁有帳號的話，您將能跟隨聯邦宇宙網路中任何一份子，無論他們的帳號託管於何處。
+      preamble: 於此 The Antisocial Network 伺服器擁有帳號的話，您將能跟隨聯邦宇宙網路中任何一份子，無論他們的帳號託管於何處。
       title: 讓我們一起設定 %{domain} 吧！
     status:
       account_status: 帳號狀態
@@ -1079,7 +1079,7 @@ zh-TW:
       content: 抱歉，我們的後台出現問題了。
       title: 這個頁面有問題
     '503': 此頁面因伺服器暫時發生錯誤而無法提供。
-    noscript_html: 使用 Mastodon 網頁版應用需要啟用 JavaScript。您也可以選擇適用於您的平台的 <a href="%{apps_path}">Mastodon 應用</a>。
+    noscript_html: 使用 The Antisocial Network 網頁版應用需要啟用 JavaScript。您也可以選擇適用於您的平台的 <a href="%{apps_path}">The Antisocial Network 應用</a>。
   existing_username_validator:
     not_found: 無法在本站找到這個名稱的使用者
     not_found_multiple: 揣嘸 %{usernames}
@@ -1401,7 +1401,7 @@ zh-TW:
       weibo: 新浪微博
     current_session: 目前的 session
     description: "%{platform} 上的 %{browser}"
-    explanation: 這些是現在正登入於您 Mastodon 帳號的瀏覽器。
+    explanation: 這些是現在正登入於您 The Antisocial Network 帳號的瀏覽器。
     ip: IP 位址
     platforms:
       adobe_air: Adobe Air
@@ -1426,7 +1426,7 @@ zh-TW:
     aliases: 帳號別名
     appearance: 外觀設定
     authorized_apps: 已授權應用程式
-    back: 回到 Mastodon
+    back: 回到 The Antisocial Network
     delete: 刪除帳號
     development: 開發者
     edit_profile: 編輯個人檔案
@@ -1532,9 +1532,9 @@ zh-TW:
   tags:
     does_not_match_previous_name: 與先前的名稱不吻合
   themes:
-    contrast: Mastodon（高對比）
-    default: Mastodon（深色）
-    mastodon-light: Mastodon（亮色）
+    contrast: The Antisocial Network（高對比）
+    default: The Antisocial Network（深色）
+    mastodon-light: The Antisocial Network（亮色）
   time:
     formats:
       default: "%Y 年 %b 月 %d 日 %H:%M"
@@ -1566,7 +1566,7 @@ zh-TW:
       subject: 您在 %{date} 提出的申訴已被駁回
       title: 申訴被駁回
     backup_ready:
-      explanation: 您要求的 Mastodon 帳號完整備份檔案現已就緒，可供下載！
+      explanation: 您要求的 The Antisocial Network 帳號完整備份檔案現已就緒，可供下載！
       subject: 您的備份檔已可供下載
       title: 檔案匯出
     suspicious_sign_in:
@@ -1615,7 +1615,7 @@ zh-TW:
       final_step: '開始嘟嘟吧！即使您現在沒有跟隨者，其他人仍然能在本站時間軸、主題標籤等地方，看到您的公開嘟文。試著用 #introductions 這個主題標籤介紹一下自己吧。'
       full_handle: 您的完整帳號名稱
       full_handle_hint: 您需要把這告訴您的朋友們，這樣他們就能從另一個伺服器向您發送訊息或著跟隨您。
-      subject: 歡迎來到 Mastodon
+      subject: 歡迎來到 The Antisocial Network
       title: "%{name} 誠摯歡迎您的加入！"
   users:
     follow_limit_reached: 您無法跟隨多於 %{limit} 個人
@@ -1624,7 +1624,7 @@ zh-TW:
     seamless_external_login: 由於您是由外部系統登入，所以不能設定密碼與電子郵件。
     signed_in_as: 目前登入的帳號：
   verification:
-    explanation_html: 您在 Mastodon 個人檔案頁上所列出的連結，可以用此方式<strong>驗證您確實掌控該連結網頁的內容</strong>。您可以在連結的網頁上加上一個連回 Mastodon 個人檔案頁面的連結，該連結的原始碼 <strong>必須</strong>包含<code>rel="me"</code>屬性。連結的顯示文字可自由發揮，以下為範例：
+    explanation_html: 您在 The Antisocial Network 個人檔案頁上所列出的連結，可以用此方式<strong>驗證您確實掌控該連結網頁的內容</strong>。您可以在連結的網頁上加上一個連回 The Antisocial Network 個人檔案頁面的連結，該連結的原始碼 <strong>必須</strong>包含<code>rel="me"</code>屬性。連結的顯示文字可自由發揮，以下為範例：
     verification: 驗證連結
   webauthn_credentials:
     add: 新增安全金鑰

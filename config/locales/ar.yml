@@ -931,7 +931,7 @@ ar:
     description:
       prefix_invited_by_user: يدعوك @%{name} للاتحاق بخادم ماستدون هذا!
       prefix_sign_up: أنشئ حسابًا على ماستدون اليوم!
-      suffix: بفضل حساب ، ستكون قادرا على متابعة الأشخاص ونشر تحديثات وتبادل رسائل مع مستخدمين مِن أي خادم Mastodon وأكثر!
+      suffix: بفضل حساب ، ستكون قادرا على متابعة الأشخاص ونشر تحديثات وتبادل رسائل مع مستخدمين مِن أي خادم The Antisocial Network وأكثر!
     didnt_get_confirmation: لم تتلق تعليمات التأكيد ؟
     dont_have_your_security_key: ليس لديك مفتاح الأمان الخاص بك؟
     forgot_password: نسيت كلمة المرور ؟

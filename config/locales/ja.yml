@@ -1,10 +1,10 @@
 ---
 ja:
   about:
-    about_mastodon_html: Mastodonは、オープンなウェブプロトコルを採用した、自由でオープンソースなソーシャルネットワークです。電子メールのような分散型の仕組みを採っています。
+    about_mastodon_html: The Antisocial Networkは、オープンなウェブプロトコルを採用した、自由でオープンソースなソーシャルネットワークです。電子メールのような分散型の仕組みを採っています。
     contact_missing: 未設定
     contact_unavailable: N/A
-    hosted_on: Mastodon hosted on %{domain}
+    hosted_on: The Antisocial Network hosted on %{domain}
     title: このサーバーについて
   accounts:
     follow: フォロー
@@ -619,7 +619,7 @@ ja:
         moderation: モデレーション
         special: スペシャル
       delete: 削除
-      description_html: "<strong>ユーザー ロール</strong>を使用すると、ユーザーがアクセスできる Mastodon の機能や領域をカスタマイズできます。"
+      description_html: "<strong>ユーザー ロール</strong>を使用すると、ユーザーがアクセスできる The Antisocial Network の機能や領域をカスタマイズできます。"
       edit: "『%{name}』のロールを編集"
       everyone: デフォルトの権限
       everyone_full_description_html: これは、割り当てられたロールを持っていないものであっても、 <strong>すべてのユーザー</strong> に影響を与える <strong>基本ロール</strong>です。 他のすべてのロールは、そこから権限を継承します。
@@ -687,14 +687,14 @@ ja:
         preamble: サーバーのブランディングは、ネットワーク上の他のサーバーと区別するためのものです。この情報は、Mastodon の Web インターフェース、ネイティブアプリケーション、他の Web サイトやメッセージングアプリのリンクプレビューなど、様々な所で表示される可能性があります。このため、明確で短く、簡潔に記載することをおすすめします。
         title: ブランディング
       content_retention:
-        preamble: ユーザーが生成したコンテンツがどのように Mastodon に保存されるかを管理します。
+        preamble: ユーザーが生成したコンテンツがどのように The Antisocial Network に保存されるかを管理します。
         title: コンテンツの保持
       default_noindex:
         desc_html: この設定を自分で変更していない全ユーザーに影響します
         title: デフォルトで検索エンジンによるインデックスを拒否する
       discovery:
         follow_recommendations: おすすめフォロー
-        preamble: Mastodon を知らないユーザーを取り込むには、興味深いコンテンツを浮上させることが重要です。サーバー上で様々なディスカバリー機能がどのように機能するかを制御します。
+        preamble: The Antisocial Network を知らないユーザーを取り込むには、興味深いコンテンツを浮上させることが重要です。サーバー上で様々なディスカバリー機能がどのように機能するかを制御します。
         profile_directory: ディレクトリ
         public_timelines: 公開タイムライン
         title: 見つける
@@ -898,7 +898,7 @@ ja:
     confirmation_dialogs: 確認ダイアログ
     discovery: 見つける
     localization:
-      body: Mastodonは有志によって翻訳されています。
+      body: The Antisocial Networkは有志によって翻訳されています。
       guide_link: https://ja.crowdin.com/project/mastodon
       guide_link_text: 誰でも参加することができます。
     sensitive_content: 閲覧注意コンテンツ
@@ -958,7 +958,7 @@ ja:
     sign_in:
       title: "%{domain}にログイン"
     sign_up:
-      preamble: この Mastodon サーバーのアカウントがあれば、ネットワーク上の他の人のアカウントがどこでホストされているかに関係なく、その人をフォローすることができます。
+      preamble: この The Antisocial Network サーバーのアカウントがあれば、ネットワーク上の他の人のアカウントがどこでホストされているかに関係なく、その人をフォローすることができます。
       title: さあ %{domain} でセットアップしましょう.
     status:
       account_status: アカウントの状態
@@ -1071,7 +1071,7 @@ ja:
       content: もうしわけありませんが、なにかが間違っています。
       title: このページは正しくありません
     '503': 一時的なサーバー障害のため利用することができません。
-    noscript_html: Mastodonのウェブアプリケーションを利用する場合はJavaScriptを有効にしてください。またはあなたのプラットフォーム向けの<a href="%{apps_path}">Mastodonネイティブアプリ</a>を探すことができます。
+    noscript_html: The Antisocial Networkのウェブアプリケーションを利用する場合はJavaScriptを有効にしてください。またはあなたのプラットフォーム向けの<a href="%{apps_path}">Mastodonネイティブアプリ</a>を探すことができます。
   existing_username_validator:
     not_found: そのようなユーザー名はローカルに見つかりませんでした
     not_found_multiple: "%{usernames}さんは見つかりませんでした"
@@ -1415,7 +1415,7 @@ ja:
     aliases: アカウントエイリアス
     appearance: 外観
     authorized_apps: 認証済みアプリ
-    back: Mastodonに戻る
+    back: The Antisocial Networkに戻る
     delete: アカウントの削除
     development: 開発
     edit_profile: プロフィールを編集
@@ -1521,9 +1521,9 @@ ja:
   tags:
     does_not_match_previous_name: 以前の名前と一致しません
   themes:
-    contrast: Mastodon (ハイコントラスト)
-    default: Mastodon (ダーク)
-    mastodon-light: Mastodon (ライト)
+    contrast: The Antisocial Network (ハイコントラスト)
+    default: The Antisocial Network (ダーク)
+    mastodon-light: The Antisocial Network (ライト)
   time:
     formats:
       default: "%Y年%m月%d日 %H:%M"
@@ -1555,7 +1555,7 @@ ja:
       subject: "%{date}の申し立てが拒否されました"
       title: 却下された抗議
     backup_ready:
-      explanation: Mastodonアカウントのアーカイブを受け付けました。今すぐダウンロードできます！
+      explanation: The Antisocial Networkアカウントのアーカイブを受け付けました。今すぐダウンロードできます！
       subject: アーカイブの準備ができました
       title: アーカイブの取り出し
     suspicious_sign_in:
@@ -1606,7 +1606,7 @@ ja:
       final_step: 'さあ、始めましょう！ たとえフォロワーがまだいなくても、あなたの公開した投稿はローカルタイムラインやハッシュタグなどを通じて誰かの目にとまるはずです。自己紹介をしたいときには #introductions ハッシュタグが便利かもしれません。'
       full_handle: あなたの正式なユーザーID
       full_handle_hint: 別のサーバーの友達とフォローやメッセージをやり取りする際には、これを伝えることになります。
-      subject: Mastodonへようこそ
+      subject: The Antisocial Networkへようこそ
       title: ようこそ、%{name}さん！
   users:
     follow_limit_reached: あなたは現在 %{limit}人以上フォローできません

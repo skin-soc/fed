@@ -1,10 +1,10 @@
 ---
 kk:
   about:
-    about_mastodon_html: Mastodon - әлеуметтік желіге негізделген, тегін және веб протоколды, ашық кодты бағдарлама. Ол email сияқты орталығы жоқ құрылым.
+    about_mastodon_html: The Antisocial Network - әлеуметтік желіге негізделген, тегін және веб протоколды, ашық кодты бағдарлама. Ол email сияқты орталығы жоқ құрылым.
     contact_missing: Бапталмаған
     contact_unavailable: Белгісіз
-    hosted_on: Mastodon орнатылған %{domain} доменінде
+    hosted_on: The Antisocial Network орнатылған %{domain} доменінде
   accounts:
     follow: Жазылу
     followers:
@@ -343,7 +343,7 @@ kk:
     description:
       prefix_invited_by_user: "@%{name} сізді Желіге қосылуға шақырады!"
       prefix_sign_up: Желіге бүгін қосылыңыз!
-      suffix: Аккаунтыңызбен сіз кез-келген Mastodon серверінен және желідегі басқа адамдарды оқып, пост жаза аласыз және хат алмаса аласыз!
+      suffix: Аккаунтыңызбен сіз кез-келген The Antisocial Network серверінен және желідегі басқа адамдарды оқып, пост жаза аласыз және хат алмаса аласыз!
     didnt_get_confirmation: Растау хаты келмеді ме?
     forgot_password: Құпиясөзіңізді ұмытып қалдыңыз ба?
     invalid_reset_password_token: Құпиясөз қайтып алу қолжетімді емес немесе мерзімі аяқталған. Қайтадан сұратыңыз.
@@ -433,7 +433,7 @@ kk:
       content: Кешірерсіз, бірақ қазір бір қате пайда болып тұр.
       title: Бұл бет дұрыс емес екен
     '503': Уақытша сервер қатесі себебінен параққа қызмет көрсету мүмкін болмады.
-    noscript_html: Mastodon веб қосымшасын қолдану үшін, JavaScript қосыңыз. Болмай жатса, <a href="%{apps_path}">мына қосымшаларды</a> қосып көріңіз, Mastodon қолдану үшін.
+    noscript_html: The Antisocial Network веб қосымшасын қолдану үшін, JavaScript қосыңыз. Болмай жатса, <a href="%{apps_path}">мына қосымшаларды</a> қосып көріңіз, The Antisocial Network қолдану үшін.
   existing_username_validator:
     not_found: осындай логині бар бар жергілікті пайдаланушы табылмады
     not_found_multiple: табылмады %{usernames}
@@ -725,9 +725,9 @@ kk:
   tags:
     does_not_match_previous_name: алдыңғы атқа сәйкес келмейді
   themes:
-    contrast: Mastodon (Жоғары контраст)
-    default: Mastodon (Қою)
-    mastodon-light: Mastodon (Ашық)
+    contrast: The Antisocial Network (Жоғары контраст)
+    default: The Antisocial Network (Қою)
+    mastodon-light: The Antisocial Network (Ашық)
   two_factor_authentication:
     disable: Ажырату
     enabled: Екі-факторлы авторизация қосылған
@@ -739,7 +739,7 @@ kk:
     recovery_instructions_html: Егер сіз телефонға кіруді жоғалтсаңыз, тіркелгіңізге кіру үшін төмендегі қалпына келтіру кодтарының бірін пайдалануға болады. <strong>Қалпына келтіру кодтарын қауіпсіз ұстаңыз </strong>. Мысалы, оларды басып шығарып, оларды басқа маңызды құжаттармен сақтауға болады.
   user_mailer:
     backup_ready:
-      explanation: Сіз Mastodon аккаунтыңыздың толық мұрағатын сұрадыңыз. Қазір жүктеуге дайын!
+      explanation: Сіз The Antisocial Network аккаунтыңыздың толық мұрағатын сұрадыңыз. Қазір жүктеуге дайын!
       subject: Мұрағатыңыз түсіріп алуға дайын
       title: Мұрағатты алу
     warning:
@@ -759,7 +759,7 @@ kk:
       final_action: Жазба жазу
       full_handle: Желі тұтқасы
       full_handle_hint: This is what you would tell your friends so they can message or follow you frоm another server.
-      subject: Mastodon Желісіне қош келдіңіз
+      subject: The Antisocial Network Желісіне қош келдіңіз
       title: Ортаға қош келдің, %{name}!
   users:
     follow_limit_reached: Сіз %{limit} лимитінен көп адамға жазыла алмайсыз
@@ -768,5 +768,5 @@ kk:
     seamless_external_login: Сыртқы сервис арқылы кіріпсіз, сондықтан құпиясөз және электрондық пошта параметрлері қол жетімді емес.
     signed_in_as: 'Былай кірдіңіз:'
   verification:
-    explanation_html: 'Өзіңіздің профиль метадеректеріңіздегі сілтемелердің иесі ретінде өзіңізді <strong>тексере аласыз</strong>. Ол үшін байланыстырылған веб-сайтта Mastodon профиліне <strong>сілтеме болуы керек. </strong> Сілтемеде <code>rel = «me»</code> атрибуты болуы керек. Сілтеме мәтінінің мазмұны маңызды емес. Міне мысал:'
+    explanation_html: 'Өзіңіздің профиль метадеректеріңіздегі сілтемелердің иесі ретінде өзіңізді <strong>тексере аласыз</strong>. Ол үшін байланыстырылған веб-сайтта The Antisocial Network профиліне <strong>сілтеме болуы керек. </strong> Сілтемеде <code>rel = «me»</code> атрибуты болуы керек. Сілтеме мәтінінің мазмұны маңызды емес. Міне мысал:'
     verification: Растау

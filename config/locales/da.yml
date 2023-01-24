@@ -1,10 +1,10 @@
 ---
 da:
   about:
-    about_mastodon_html: 'Fremtidens sociale netværk: Ingen annoncer, ingen virksomhedsovervågning, etisk design og decentralisering! Vær ejer af egne data med Mastodon!'
+    about_mastodon_html: 'Fremtidens sociale netværk: Ingen annoncer, ingen virksomhedsovervågning, etisk design og decentralisering! Vær ejer af egne data med The Antisocial Network!'
     contact_missing: Ikke angivet
     contact_unavailable: Utilgængelig
-    hosted_on: Mostodon hostet på %{domain}
+    hosted_on: The Antisocial Network hostet på %{domain}
     title: Om
   accounts:
     follow: Følg
@@ -632,7 +632,7 @@ da:
         moderation: Moderering
         special: Speciel
       delete: Slet
-      description_html: Med <strong>brugerroller</strong>kan man tilpasse sine brugeres adgang til Mastodon-funktioner og -områder.
+      description_html: Med <strong>brugerroller</strong>kan man tilpasse sine brugeres adgang til The Antisocial Network-funktioner og -områder.
       edit: Redigér rolle for '%{name}
       everyone: Standardtilladelser
       everyone_full_description_html: Dette er <strong>basisrollen</strong> med indvirkning på <strong>alle brugere</strong>, selv dem uden rolletildeling. Alle øvrige rolletilladelser nedarves herfra.
@@ -695,20 +695,20 @@ da:
         rules_hint: Der er et dedikeret område for regler, som forventes overholdt af brugerne.
         title: Om
       appearance:
-        preamble: Tilpas Mastodon-webgrænsefladen.
+        preamble: Tilpas The Antisocial Network-webgrænsefladen.
         title: Udseende
       branding:
-        preamble: Serverens branding adskiller den fra andres i netværket. Oplysningerne kan vises på tværs af div. miljøer, såsom Mastodon-webgrænsefladen, dedikerede applikationer, i-link forhåndsvisninger på andre websteder og i besked-apps mv. Oplysningerne bør derfor være klare og detaljerede, men samtidig kortfattede.
+        preamble: Serverens branding adskiller den fra andres i netværket. Oplysningerne kan vises på tværs af div. miljøer, såsom The Antisocial Network-webgrænsefladen, dedikerede applikationer, i-link forhåndsvisninger på andre websteder og i besked-apps mv. Oplysningerne bør derfor være klare og detaljerede, men samtidig kortfattede.
         title: Branding
       content_retention:
-        preamble: Styr, hvordan Mastodon gemmer brugergenereret indhold.
+        preamble: Styr, hvordan The Antisocial Network gemmer brugergenereret indhold.
         title: Indholdsopbevaring
       default_noindex:
         desc_html: Påvirker alle brugere, som ikke selv har ændret denne indstilling
         title: Fravælg som standard søgemaskineindeksering for brugere
       discovery:
         follow_recommendations: Følg-anbefalinger
-        preamble: At vise interessant indhold er vitalt ifm. at få nye brugere om bord, som måske ikke kender nogen på Mastodon. Styr, hvordan forskellige opdagelsesfunktioner fungerer på serveren.
+        preamble: At vise interessant indhold er vitalt ifm. at få nye brugere om bord, som måske ikke kender nogen på The Antisocial Network. Styr, hvordan forskellige opdagelsesfunktioner fungerer på serveren.
         profile_directory: Profiloversigt
         public_timelines: Offentlige tidslinjer
         publish_statistics: Udgiv statistik
@@ -855,7 +855,7 @@ da:
     webhooks:
       add_new: Tilføj endepunkt
       delete: Slet
-      description_html: En <strong>webhook</strong> lader Mastodon pushe <strong>notifikationer i realtid</strong> om valgte begivenheder til ens egen applikation, så denne <strong>automatisk kan udløse reaktioner</strong>.
+      description_html: En <strong>webhook</strong> lader The Antisocial Network pushe <strong>notifikationer i realtid</strong> om valgte begivenheder til ens egen applikation, så denne <strong>automatisk kan udløse reaktioner</strong>.
       disable: Deaktivér
       disabled: Deaktiveret
       edit: Redigér endepunkt
@@ -917,7 +917,7 @@ da:
     confirmation_dialogs: Bekræftelsesdialoger
     discovery: Opdagelse
     localization:
-      body: Mastodon oversættes af frivillige.
+      body: The Antisocial Network oversættes af frivillige.
       guide_link: https://da.crowdin.com/project/mastodon
       guide_link_text: Alle kan bidrage.
     sensitive_content: Sensitivt indhold
@@ -942,9 +942,9 @@ da:
     delete_account: Slet konto
     delete_account_html: Ønsker du at slette din konto, kan du <a href="%{path}">gøre dette hér</a>. Du vil blive bedt om bekræftelse.
     description:
-      prefix_invited_by_user: "@%{name} inviterer dig ind på denne Mastodon-server!"
-      prefix_sign_up: Tilmeld dig Mastodon i dag!
-      suffix: Du vil med en konto kunne følge personer, indsende opdateringer og udveksle beskeder med brugere fra enhver Mastodon-server, og meget mere!
+      prefix_invited_by_user: "@%{name} inviterer dig ind på denne The Antisocial Network-server!"
+      prefix_sign_up: Tilmeld dig The Antisocial Network i dag!
+      suffix: Du vil med en konto kunne følge personer, indsende opdateringer og udveksle beskeder med brugere fra enhver The Antisocial Network-server, og meget mere!
     didnt_get_confirmation: Ikke modtaget nogle bekræftelsesinstruktioner?
     dont_have_your_security_key: Har ikke din sikkerhedsnøgle?
     forgot_password: Glemt din adgangskode?
@@ -978,7 +978,7 @@ da:
       preamble_html: Log ind med dine <strong>%{domain}</strong>-legitimationsoplysninger. Hostes kontoen på en anden server, vil der ikke kunne logges ind her.
       title: Log ind på %{domain}
     sign_up:
-      preamble: Med en konto på denne Mastodon-server vil man kunne følge enhver anden person på netværket, uanset hvor vedkommendes konto hostes.
+      preamble: Med en konto på denne The Antisocial Network-server vil man kunne følge enhver anden person på netværket, uanset hvor vedkommendes konto hostes.
       title: Lad os få dig sat op på %{domain}.
     status:
       account_status: Kontostatus
@@ -1091,7 +1091,7 @@ da:
       content: Beklager, noget gik galt hos os.
       title: Denne side er forkert
     '503': Siden kunne ikke vises grundet en midlertidig serverfejl.
-    noscript_html: For brug af Mastodon-webapplikationen, så aktivér JavaScript. Alternativt, prøv en af disse <a href="%{apps_path}">apps</a> til Mastodon til din platform.
+    noscript_html: For brug af The Antisocial Network-webapplikationen, så aktivér JavaScript. Alternativt, prøv en af disse <a href="%{apps_path}">apps</a> til The Antisocial Network til din platform.
   existing_username_validator:
     not_found: kunne ikke finde en lokal bruger med dette brugenavn
     not_found_multiple: kunne ikke finde %{usernames}
@@ -1420,7 +1420,7 @@ da:
       weibo: Weibo
     current_session: Aktuelle session
     description: "%{browser} på %{platform}"
-    explanation: Disse webbrowsere er pt. logget ind på din Mastodon-konto.
+    explanation: Disse webbrowsere er pt. logget ind på din The Antisocial Network-konto.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -1445,7 +1445,7 @@ da:
     aliases: Kontoaliaser
     appearance: Udseende
     authorized_apps: Godkendte apps
-    back: Retur til Mastodon
+    back: Retur til The Antisocial Network
     delete: Kontosletning
     development: Udvikling
     edit_profile: Redigér profil
@@ -1557,9 +1557,9 @@ da:
   tags:
     does_not_match_previous_name: matcher ikke det foregående navn
   themes:
-    contrast: Mastodon (høj kontrast)
-    default: Mastodont (mørkt)
-    mastodon-light: Mastodon (lyst)
+    contrast: The Antisocial Network (høj kontrast)
+    default: The Antisocial Networkt (mørkt)
+    mastodon-light: The Antisocial Network (lyst)
   time:
     formats:
       default: "%a %d %b %Y, %H:%M"
@@ -1591,7 +1591,7 @@ da:
       subject: Din appel pr. %{date} er afvist
       title: Appel afvist
     backup_ready:
-      explanation: Den anmodede fulde sikkerhedskopi af din Mastodon-konto er nu klar til download!
+      explanation: Den anmodede fulde sikkerhedskopi af din The Antisocial Network-konto er nu klar til download!
       subject: Dit arkiv er klar til download
       title: Arkiv download
     suspicious_sign_in:
@@ -1640,7 +1640,7 @@ da:
       final_step: 'Begynd at poste! Selv uden følgere vil offentlige indlæg kunne ses af andre f.eks. på den lokale tidslinje og i hashtags. Man kan introducere sig selv via hastagget #introductions.'
       full_handle: Dit fulde brugernavn
       full_handle_hint: Dette er, hvad du oplyser til dine venner, så de kan sende dig beskeder eller følge dig fra andre server.
-      subject: Velkommen til Mastodon
+      subject: Velkommen til The Antisocial Network
       title: Velkommen ombord, %{name}!
   users:
     follow_limit_reached: Du kan maks. følge %{limit} personer
@@ -1649,7 +1649,7 @@ da:
     seamless_external_login: Du er logget ind via en ekstern tjeneste, så adgangskode- og e-mailindstillinger er utilgængelige.
     signed_in_as: 'Logget ind som:'
   verification:
-    explanation_html: 'Du kan <strong>bekræfte dig selv som ejer af linkene i din profilmetadata</strong>. For at gøre det, skal det linkede websted indeholde et link pegende tilbage til din Mastodon-profil. Returlinket <strong>skal</strong> have en <code>rel="me"</code>-attribut. Linkets tekstindhold betyder ikke noget. Her er et eksempel:'
+    explanation_html: 'Du kan <strong>bekræfte dig selv som ejer af linkene i din profilmetadata</strong>. For at gøre det, skal det linkede websted indeholde et link pegende tilbage til din The Antisocial Network-profil. Returlinket <strong>skal</strong> have en <code>rel="me"</code>-attribut. Linkets tekstindhold betyder ikke noget. Her er et eksempel:'
     verification: Bekræftelse
   webauthn_credentials:
     add: Tilføj ny sikkerhedsnøgle

@@ -1,10 +1,10 @@
 ---
 el:
   about:
-    about_mastodon_html: 'Το κοινωνικό δίκτυο του μέλλοντος: Χωρίς διαφημίσεις, χωρίς εταιρίες να σε κατασκοπεύουν, ηθικά σχεδιασμένο και αποκεντρωμένο! Με το Mastodon τα δεδομένα σου είναι πραγματικά δικά σου!'
+    about_mastodon_html: 'Το κοινωνικό δίκτυο του μέλλοντος: Χωρίς διαφημίσεις, χωρίς εταιρίες να σε κατασκοπεύουν, ηθικά σχεδιασμένο και αποκεντρωμένο! Με το The Antisocial Network τα δεδομένα σου είναι πραγματικά δικά σου!'
     contact_missing: Δεν έχει οριστεί
     contact_unavailable: Μη διαθέσιμο
-    hosted_on: Το Mastodon φιλοξενείται στο %{domain}
+    hosted_on: Το The Antisocial Network φιλοξενείται στο %{domain}
     title: Σχετικά με
   accounts:
     follow: Ακολούθησε
@@ -596,7 +596,7 @@ el:
     confirmation_dialogs: Ερωτήσεις επιβεβαίωσης
     discovery: Εξερεύνηση
     localization:
-      body: Το Mastodon μεταφράζεται από εθελοντές.
+      body: Το The Antisocial Network μεταφράζεται από εθελοντές.
       guide_link: https://crowdin.com/project/mastodon
       guide_link_text: Μπορεί να συνεισφέρει ο οποιοσδήποτε.
     sensitive_content: Ευαίσθητο περιεχόμενο
@@ -621,9 +621,9 @@ el:
     delete_account: Διαγραφή λογαριασμού
     delete_account_html: Αν θέλεις να διαγράψεις το λογαριασμό σου, μπορείς <a href="%{path}">να συνεχίσεις εδώ</a>. Θα σου ζητηθεί επιβεβαίωση.
     description:
-      prefix_invited_by_user: Ο/Η @%{name} σε προσκαλεί να συνδεθείς με αυτό τον διακομιστή του Mastodon!
-      prefix_sign_up: Άνοιξε λογαριασμό στο Mastodon σήμερα!
-      suffix: Ανοίγοντας λογαριασμό θα μπορείς να ακολουθείς άλλους, να ανεβάζεις ενημερώσεις και να ανταλλάζεις μηνύματα με χρήστες σε οποιοδήποτε διακομιστή Mastodon, καθώς και άλλα!
+      prefix_invited_by_user: Ο/Η @%{name} σε προσκαλεί να συνδεθείς με αυτό τον διακομιστή του The Antisocial Network!
+      prefix_sign_up: Άνοιξε λογαριασμό στο The Antisocial Network σήμερα!
+      suffix: Ανοίγοντας λογαριασμό θα μπορείς να ακολουθείς άλλους, να ανεβάζεις ενημερώσεις και να ανταλλάζεις μηνύματα με χρήστες σε οποιοδήποτε διακομιστή The Antisocial Network, καθώς και άλλα!
     didnt_get_confirmation: Δεν έλαβες τις οδηγίες επιβεβαίωσης;
     dont_have_your_security_key: Δεν έχετε κλειδί ασφαλείας;
     forgot_password: Ξέχασες το συνθηματικό σου;
@@ -734,7 +734,7 @@ el:
       content: Λυπούμαστε, κάτι πήγε στραβά από τη δική μας μεριά.
       title: Η σελίδα αυτή δεν είναι σωστή
     '503': Η σελίδα δε μπόρεσε να εμφανιστεί λόγω προσωρινού σφάλματος του διακομιστή.
-    noscript_html: Για να χρησιμοποιήσετε τη δικτυακή εφαρμογή του Mastodon, ενεργοποίησε την Javascript. Εναλλακτικά, δοκίμασε μια από τις <a href="%{apps_path}">εφαρμογές</a> για το Mastodon στην πλατφόρμα σου.
+    noscript_html: Για να χρησιμοποιήσετε τη δικτυακή εφαρμογή του The Antisocial Network, ενεργοποίησε την Javascript. Εναλλακτικά, δοκίμασε μια από τις <a href="%{apps_path}">εφαρμογές</a> για το The Antisocial Network στην πλατφόρμα σου.
   existing_username_validator:
     not_found: δεν βρέθηκε τοπικός χρήστης με αυτό το όνομα
     not_found_multiple: δεν βρέθηκε %{usernames}
@@ -1005,7 +1005,7 @@ el:
       uc_browser: UC Browser
     current_session: Τρέχουσα σύνδεση
     description: "%{browser} σε %{platform}"
-    explanation: Αυτοί είναι οι φυλλομετρητές (browsers) που είναι συνδεδεμένοι στον λογαριασμό σου στο Mastodon αυτή τη στιγμή.
+    explanation: Αυτοί είναι οι φυλλομετρητές (browsers) που είναι συνδεδεμένοι στον λογαριασμό σου στο The Antisocial Network αυτή τη στιγμή.
     platforms:
       android: Android
       blackberry: BlackBerry
@@ -1024,7 +1024,7 @@ el:
     aliases: Ψευδώνυμα λογαριασμών
     appearance: Εμφάνιση
     authorized_apps: Εγκεκριμένες εφαρμογές
-    back: Πίσω στο Mastodon
+    back: Πίσω στο The Antisocial Network
     delete: Διαγραφή λογαριασμού
     development: Ανάπτυξη
     edit_profile: Επεξεργασία προφίλ
@@ -1103,9 +1103,9 @@ el:
   tags:
     does_not_match_previous_name: δεν ταιριάζει με το προηγούμενο όνομα
   themes:
-    contrast: Mastodon (Υψηλή αντίθεση)
-    default: Mastodon (Σκοτεινό)
-    mastodon-light: Mastodon (Ανοιχτόχρωμο)
+    contrast: The Antisocial Network (Υψηλή αντίθεση)
+    default: The Antisocial Network (Σκοτεινό)
+    mastodon-light: The Antisocial Network (Ανοιχτόχρωμο)
   time:
     formats:
       time: "%H:%M"
@@ -1123,7 +1123,7 @@ el:
     recovery_instructions_html: Αν ποτέ δεν έχεις πρόσβαση στο κινητό σου, μπορείς να χρησιμοποιήσεις έναν από τους παρακάτω κωδικούς ανάκτησης για να αποκτήσεις πρόσβαση στο λογαριασμό σου. <strong>Διαφύλαξε τους κωδικούς ανάκτησης</strong>. Για παράδειγμα, μπορείς να τους εκτυπώσεις και να τους φυλάξεις μαζί με άλλα σημαντικά σου έγγραφα.
   user_mailer:
     backup_ready:
-      explanation: Είχες ζητήσει εφεδρικό αντίγραφο του λογαριασμού σου στο Mastodon. Είναι έτοιμο για κατέβασμα!
+      explanation: Είχες ζητήσει εφεδρικό αντίγραφο του λογαριασμού σου στο The Antisocial Network. Είναι έτοιμο για κατέβασμα!
       subject: Το εφεδρικό αντίγραφό σου είναι έτοιμο για κατέβασμα
       title: Λήψη εφεδρικού αρχείου
     suspicious_sign_in:
@@ -1148,7 +1148,7 @@ el:
       final_action: Ξεκίνα τις δημοσιεύσεις
       full_handle: Το πλήρες όνομά σου
       full_handle_hint: Αυτό θα εδώ θα πεις στους φίλους σου για να σου μιλήσουν ή να σε ακολουθήσουν από άλλο κόμβο.
-      subject: Καλώς ήρθες στο Mastodon
+      subject: Καλώς ήρθες στο The Antisocial Network
       title: Καλώς όρισες, %{name}!
   users:
     follow_limit_reached: Δεν μπορείς να ακολουθήσεις περισσότερα από %{limit} άτομα
@@ -1157,7 +1157,7 @@ el:
     seamless_external_login: Επειδή έχεις συνδεθεί μέσω τρίτης υπηρεσίας, οι ρυθμίσεις συνθηματικού και email δεν είναι διαθέσιμες.
     signed_in_as: 'Έχεις συνδεθεί ως:'
   verification:
-    explanation_html: 'Μπορείς να <strong>πιστοποιήσεις τον εαυτό σου ως ιδιοκτήτη των συνδέσμων που εμφανίζεις στα μεταδεδομένα του προφίλ σου</strong>. Για να συμβεί αυτό, ο συνδεδεμένος ιστότοπος πρέπει να περιέχει ένα σύνδεσμο που να επιστρέφει προς το προφίλ σου στο Mastodon. Ο σύνδεσμος επιστροφής <strong>πρέπει</strong> περιέχει την ιδιότητα (attribute) <code>rel="me"</code>. Το περιεχόμενο του κειμένου δεν έχει σημασία. Για παράδειγμα:'
+    explanation_html: 'Μπορείς να <strong>πιστοποιήσεις τον εαυτό σου ως ιδιοκτήτη των συνδέσμων που εμφανίζεις στα μεταδεδομένα του προφίλ σου</strong>. Για να συμβεί αυτό, ο συνδεδεμένος ιστότοπος πρέπει να περιέχει ένα σύνδεσμο που να επιστρέφει προς το προφίλ σου στο The Antisocial Network. Ο σύνδεσμος επιστροφής <strong>πρέπει</strong> περιέχει την ιδιότητα (attribute) <code>rel="me"</code>. Το περιεχόμενο του κειμένου δεν έχει σημασία. Για παράδειγμα:'
     verification: Πιστοποίηση
   webauthn_credentials:
     add: Προσθήκη νέου κλειδιού ασφαλείας

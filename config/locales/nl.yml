@@ -1,10 +1,10 @@
 ---
 nl:
   about:
-    about_mastodon_html: 'Het sociale netwerk van de toekomst: geen advertenties, geen bedrijven die meekijken, ethisch ontworpen, en gedecentraliseerd! Wees eigenaar van jouw eigen gegevens met Mastodon!'
+    about_mastodon_html: 'Het sociale netwerk van de toekomst: geen advertenties, geen bedrijven die meekijken, ethisch ontworpen, en gedecentraliseerd! Wees eigenaar van jouw eigen gegevens met The Antisocial Network!'
     contact_missing: Niet ingesteld
     contact_unavailable: n.v.t
-    hosted_on: Mastodon op %{domain}
+    hosted_on: The Antisocial Network op %{domain}
     title: Over
   accounts:
     follow: Volgen
@@ -632,7 +632,7 @@ nl:
         moderation: Moderatie
         special: Speciaal
       delete: Verwijderen
-      description_html: Met <strong>gebruikersrollen</strong> kun je de functies en onderdelen van Mastodon waar jouw gebruikers toegang tot hebben aanpassen.
+      description_html: Met <strong>gebruikersrollen</strong> kun je de functies en onderdelen van The Antisocial Network waar jouw gebruikers toegang tot hebben aanpassen.
       edit: Rol '%{name}' bewerken
       everyone: Standaardrechten
       everyone_full_description_html: Dit is de <strong>basisrol</strong> die van toepassing is op <strong>alle gebruikers</strong>, zelfs voor diegenen zonder toegewezen rol. Alle andere rollen hebben de rechten van deze rol als minimum.
@@ -695,20 +695,20 @@ nl:
         rules_hint: Er is een speciaal gebied voor regels waaraan uw gebruikers zich dienen te houden.
         title: Over
       appearance:
-        preamble: Mastodons webomgeving aanpassen.
+        preamble: The Antisocial Networks webomgeving aanpassen.
         title: Weergave
       branding:
-        preamble: De branding van jouw server laat zien hoe het met andere servers in het netwerk verschilt. Deze informatie wordt op verschillende plekken getoond, zoals in de webomgeving van Mastodon, in mobiele apps, in voorvertoningen op andere websites en berichten-apps, enz. Daarom is het belangrijk om de informatie helder, kort en beknopt te houden.
+        preamble: De branding van jouw server laat zien hoe het met andere servers in het netwerk verschilt. Deze informatie wordt op verschillende plekken getoond, zoals in de webomgeving van The Antisocial Network, in mobiele apps, in voorvertoningen op andere websites en berichten-apps, enz. Daarom is het belangrijk om de informatie helder, kort en beknopt te houden.
         title: Branding
       content_retention:
-        preamble: Toezicht houden op hoe berichten en media van gebruikers op Mastodon worden bewaard.
+        preamble: Toezicht houden op hoe berichten en media van gebruikers op The Antisocial Network worden bewaard.
         title: Bewaartermijn berichten
       default_noindex:
         desc_html: Heeft invloed op alle gebruikers die deze instelling niet zelf hebben veranderd
         title: Gebruikers standaard niet door zoekmachines laten indexeren
       discovery:
         follow_recommendations: Aanbevolen accounts
-        preamble: Het tonen van interessante inhoud is van essentieel belang voor het aan boord halen van nieuwe gebruikers, die mogelijk niemand van Mastodon kennen. Bepaal hoe verschillende functies voor het ontdekken van inhoud en gebruikers op jouw server werken.
+        preamble: Het tonen van interessante inhoud is van essentieel belang voor het aan boord halen van nieuwe gebruikers, die mogelijk niemand van The Antisocial Network kennen. Bepaal hoe verschillende functies voor het ontdekken van inhoud en gebruikers op jouw server werken.
         profile_directory: Gebruikersgids
         public_timelines: Openbare tijdlijnen
         title: Ontdekken
@@ -854,7 +854,7 @@ nl:
     webhooks:
       add_new: Eindpunt toevoegen
       delete: Verwijderen
-      description_html: Met een <strong>webhook</strong> kan Mastodon <strong>meldingen in real-time</strong> over gekozen gebeurtenissen naar jouw eigen toepassing sturen, zodat je applicatie <strong>automatisch reacties kan genereren</strong>.
+      description_html: Met een <strong>webhook</strong> kan The Antisocial Network <strong>meldingen in real-time</strong> over gekozen gebeurtenissen naar jouw eigen toepassing sturen, zodat je applicatie <strong>automatisch reacties kan genereren</strong>.
       disable: Uitschakelen
       disabled: Uitgeschakeld
       edit: Eindpunt bewerken
@@ -916,7 +916,7 @@ nl:
     confirmation_dialogs: Bevestigingen
     discovery: Ontdekken
     localization:
-      body: Mastodon wordt door vrijwilligers vertaald.
+      body: The Antisocial Network wordt door vrijwilligers vertaald.
       guide_link: https://crowdin.com/project/mastodon/nl
       guide_link_text: Iedereen kan bijdragen.
     sensitive_content: Gevoelige inhoud
@@ -941,9 +941,9 @@ nl:
     delete_account: Account verwijderen
     delete_account_html: Wanneer je jouw account graag wilt verwijderen, kun je dat <a href="%{path}">hier doen</a>. We vragen jou daar om een bevestiging.
     description:
-      prefix_invited_by_user: "@%{name} nodigt je hierbij uit om een account aan te maken op deze Mastodonserver!"
-      prefix_sign_up: Registreer je vandaag nog op Mastodon!
-      suffix: Met een account ben je in staat om mensen te volgen, berichten te plaatsen en uit te wisselen met mensen die zich op andere Mastodonservers bevinden en meer!
+      prefix_invited_by_user: "@%{name} nodigt je hierbij uit om een account aan te maken op deze The Antisocial Networkserver!"
+      prefix_sign_up: Registreer je vandaag nog op The Antisocial Network!
+      suffix: Met een account ben je in staat om mensen te volgen, berichten te plaatsen en uit te wisselen met mensen die zich op andere The Antisocial Networkservers bevinden en meer!
     didnt_get_confirmation: Geen bevestigingsinstructies ontvangen?
     dont_have_your_security_key: Heb je jouw beveiligingssleutel niet bij de hand?
     forgot_password: Wachtwoord vergeten?
@@ -977,7 +977,7 @@ nl:
       preamble_html: Log in met de inloggegevens van <strong>%{domain}</strong>. Als jouw account zich op een andere server bevindt, kun je hier niet inloggen.
       title: Het Antisociale Netwerk
     sign_up:
-      preamble: Je kunt met een Mastodon-account iedereen in het netwerk volgen, ongeacht waar deze persoon een account heeft.
+      preamble: Je kunt met een The Antisocial Network-account iedereen in het netwerk volgen, ongeacht waar deze persoon een account heeft.
       title: Laten we je account op %{domain} instellen.
     status:
       account_status: Accountstatus
@@ -1090,7 +1090,7 @@ nl:
       content: Het spijt ons, er is aan onze kant iets fout gegaan.
       title: Er is iets mis
     '503': De pagina kon door een tijdelijke serverstoring niet worden geladen.
-    noscript_html: Schakel JavaScript in om de webapp van Mastodon te kunnen gebruiken. Als alternatief kan je een <a href="%{apps_path}">Mastodon-app</a> zoeken voor jouw platform.
+    noscript_html: Schakel JavaScript in om de webapp van The Antisocial Network te kunnen gebruiken. Als alternatief kan je een <a href="%{apps_path}">The Antisocial Network-app</a> zoeken voor jouw platform.
   existing_username_validator:
     not_found: Kon geen lokale gebruiker met die gebruikersnaam vinden
     not_found_multiple: Kon %{usernames} niet vinden
@@ -1217,7 +1217,7 @@ nl:
       one: 1 keer
       other: "%{count} keer"
     max_uses_prompt: Onbeperkt
-    prompt: Genereer en deel speciale links om mensen toegang tot deze Mastodonserver te geven
+    prompt: Genereer en deel speciale links om mensen toegang tot deze The Antisocial Networkserver te geven
     table:
       expires_at: Verloopt op
       uses: Aantal keer te gebruiken
@@ -1417,7 +1417,7 @@ nl:
       weibo: Weibo
     current_session: Huidige sessie
     description: "%{browser} op %{platform}"
-    explanation: Dit zijn de webbrowsers die momenteel met jouw Mastodonaccount zijn ingelogd.
+    explanation: Dit zijn de webbrowsers die momenteel met jouw The Antisocial Networkaccount zijn ingelogd.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -1442,7 +1442,7 @@ nl:
     aliases: Accountaliassen
     appearance: Uiterlijk
     authorized_apps: Geautoriseerde apps
-    back: Terug naar Mastodon
+    back: Terug naar The Antisocial Network
     delete: Account verwijderen
     development: Ontwikkelaars
     edit_profile: Profiel bewerken
@@ -1554,9 +1554,9 @@ nl:
   tags:
     does_not_match_previous_name: komt niet overeen met de vorige naam
   themes:
-    contrast: Mastodon (hoog contrast)
-    default: Mastodon (donker)
-    mastodon-light: Mastodon (licht)
+    contrast: The Antisocial Network (hoog contrast)
+    default: The Antisocial Network (donker)
+    mastodon-light: The Antisocial Network (licht)
   time:
     formats:
       default: "%d %B %Y om %H:%M"
@@ -1588,7 +1588,7 @@ nl:
       subject: Jouw bezwaar van %{date} is afgewezen
       title: Bezwaar afgewezen
     backup_ready:
-      explanation: Je hebt een volledige back-up van jouw Mastodon-account opgevraagd. Het staat nu klaar om te worden gedownload!
+      explanation: Je hebt een volledige back-up van jouw The Antisocial Network-account opgevraagd. Het staat nu klaar om te worden gedownload!
       subject: Jouw archief staat klaar om te worden gedownload
       title: Archief ophalen
     suspicious_sign_in:
@@ -1635,9 +1635,9 @@ nl:
       explanation: Hier zijn enkele tips om je op weg te helpen
       final_action: Begin berichten te plaatsen
       final_step: 'Begin berichten te plaatsen! Zelfs zonder volgers kunnen jouw openbare berichten door anderen bekeken worden, bijvoorbeeld op de lokale tijdlijn en onder hashtags. Je kunt jezelf voorstellen met het gebruik van de hashtag #introductions.'
-      full_handle: Jouw volledige Mastodonadres
-      full_handle_hint: Dit geef je aan jouw vrienden, zodat ze jou berichten kunnen sturen of (vanaf een andere Mastodonserver) kunnen volgen.
-      subject: Welkom op Mastodon
+      full_handle: Jouw volledige The Antisocial Networkadres
+      full_handle_hint: Dit geef je aan jouw vrienden, zodat ze jou berichten kunnen sturen of (vanaf een andere The Antisocial Networkserver) kunnen volgen.
+      subject: Welkom op The Antisocial Network
       title: Welkom aan boord %{name}!
   users:
     follow_limit_reached: Je kunt niet meer dan %{limit} accounts volgen
@@ -1646,7 +1646,7 @@ nl:
     seamless_external_login: Je bent ingelogd via een externe dienst, daarom zijn wachtwoorden en e-mailinstellingen niet beschikbaar.
     signed_in_as: 'Ingelogd als:'
   verification:
-    explanation_html: 'Je kunt <strong>jezelf verifiëren als de eigenaar van de links in de metadata van jouw profiel</strong>. Hiervoor moet op de gelinkte website een link terug naar jouw Mastodonprofiel staan. Deze link <strong>moet</strong> het <code>rel="me"</code>-attribuut bevatten. De omschrijving van de link maakt niet uit. Hier is een voorbeeld:'
+    explanation_html: 'Je kunt <strong>jezelf verifiëren als de eigenaar van de links in de metadata van jouw profiel</strong>. Hiervoor moet op de gelinkte website een link terug naar jouw The Antisocial Networkprofiel staan. Deze link <strong>moet</strong> het <code>rel="me"</code>-attribuut bevatten. De omschrijving van de link maakt niet uit. Hier is een voorbeeld:'
     verification: Verificatie
   webauthn_credentials:
     add: Nieuwe beveiligingssleutel toevoegen

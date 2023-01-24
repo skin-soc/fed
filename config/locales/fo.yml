@@ -1,10 +1,10 @@
 ---
 fo:
   about:
-    about_mastodon_html: 'Framtíðar sosiali miðilin: ongar lýsingar, eingin stórfyritøku-yvirvøka, etiskt snið og desentralisering! Eig tínar dátur við Mastodon!'
+    about_mastodon_html: 'Framtíðar sosiali miðilin: ongar lýsingar, eingin stórfyritøku-yvirvøka, etiskt snið og desentralisering! Eig tínar dátur við The Antisocial Network!'
     contact_missing: Ikki sett
     contact_unavailable: Ikki tøk/ur
-    hosted_on: Mastodon hýst á %{domain}
+    hosted_on: The Antisocial Network hýst á %{domain}
     title: Um
   accounts:
     follow: Fylg
@@ -635,7 +635,7 @@ fo:
         moderation: Umsjón
         special: Serstakt
       delete: Strika
-      description_html: Við <strong>brúkaraleiklutum</strong> kanst tú stýra, hvørjar funktiónir og hvørji Mastodon-øki tínir brúkarar kunnu fáa atgongd til.
+      description_html: Við <strong>brúkaraleiklutum</strong> kanst tú stýra, hvørjar funktiónir og hvørji The Antisocial Network-øki tínir brúkarar kunnu fáa atgongd til.
       edit: Broyt '%{name}' leiklutin
       everyone: Sjálvsett loyvi
       everyone_full_description_html: Hetta er <strong>støðisleikluturin</strong>, sum ávirkar <strong>allar brúkarar</strong>, sjálvt teir, sum ikki hava ein ásettan leiklut. Allir aðrir leiklutir arva loyvi frá honum.
@@ -698,20 +698,20 @@ fo:
         rules_hint: Eitt øki er burturav fyri reglur, sum brúkararnir hjá tær skulu fylgja.
         title: Um
       appearance:
-        preamble: Tillaga brúkaramarkamótið hjá Mastodon.
+        preamble: Tillaga brúkaramarkamótið hjá The Antisocial Network.
         title: Útsjónd
       branding:
-        preamble: Brandingin av tínum ambætara skilir hann út frá øðrum ambætarum í netverkinum. Hesar upplýsingar kunnu vera vístar í nógvum ymiskum umhvørvum, so sum í vev-markamótinum hjá Mastodon, uppruna-appum, í undanvísingum av leinkjum á øðrum vevstøðum, í boðs-appum og so framvegis. Av hesi orsøk er tað best, um hesar upplýsingar eru klárar, stuttar og beinraknar.
+        preamble: Brandingin av tínum ambætara skilir hann út frá øðrum ambætarum í netverkinum. Hesar upplýsingar kunnu vera vístar í nógvum ymiskum umhvørvum, so sum í vev-markamótinum hjá The Antisocial Network, uppruna-appum, í undanvísingum av leinkjum á øðrum vevstøðum, í boðs-appum og so framvegis. Av hesi orsøk er tað best, um hesar upplýsingar eru klárar, stuttar og beinraknar.
         title: Branding
       content_retention:
-        preamble: Stýr hvussu brúkara-skapt tilfar er goymt í Mastodon.
+        preamble: Stýr hvussu brúkara-skapt tilfar er goymt í The Antisocial Network.
         title: Varðveitsla av tilfari
       default_noindex:
         desc_html: Hevur ávirkan á allar brúkarar, sum ikki hava broytt hesa stillingina sjálvi
         title: Tekur brúkarar úr leitimaskinu-indeksering, um ikki annað er valt
       discovery:
         follow_recommendations: Tilmæli um at fylgja
-        preamble: At fáa áhugavert innihald í ljósmála er avgerandi fyri at nýggir brúkarar, sum kanska ongan kenna á Mastodon, kunnu koma væl umborð. Stýr, hvussu hentleikarnir at uppdaga ymiskt rigga á ambætaranum hjá tær.
+        preamble: At fáa áhugavert innihald í ljósmála er avgerandi fyri at nýggir brúkarar, sum kanska ongan kenna á The Antisocial Network, kunnu koma væl umborð. Stýr, hvussu hentleikarnir at uppdaga ymiskt rigga á ambætaranum hjá tær.
         profile_directory: Vangaskrá
         public_timelines: Almennar tíðarlinjur
         publish_discovered_servers: Kunnger uppdagaðu ambætararnar
@@ -859,7 +859,7 @@ fo:
     webhooks:
       add_new: Legg endapunkt afturat
       delete: Strika
-      description_html: Ein <strong>webhook/vevkrókur</strong> ger tað møguligt hjá Mastodon at trýsta <strong>samtíðarfráboðanir</strong> um valdar hendingar til tína egnu nýtsluskipan, soleiðis at hon <strong>sjálvvirkandi kann birta í aftursvar</strong>.
+      description_html: Ein <strong>webhook/vevkrókur</strong> ger tað møguligt hjá The Antisocial Network at trýsta <strong>samtíðarfráboðanir</strong> um valdar hendingar til tína egnu nýtsluskipan, soleiðis at hon <strong>sjálvvirkandi kann birta í aftursvar</strong>.
       disable: Ger óvirkið
       disabled: Óvirkið
       edit: Rætta endapunkt
@@ -921,7 +921,7 @@ fo:
     confirmation_dialogs: Váttanarskermmyndir
     discovery: Uppdaging
     localization:
-      body: Mastodon er umsett av sjálvbodnum.
+      body: The Antisocial Network er umsett av sjálvbodnum.
       guide_link: https://crowdin.com/project/mastodon
       guide_link_text: Øll kunnu geva íkast.
     sensitive_content: Viðkvæmt innihald
@@ -946,9 +946,9 @@ fo:
     delete_account: Strika kontu
     delete_account_html: Ynskir tú at strika kontuna, so kanst tú <a href="%{path}">halda fram her</a>. Tú verður spurd/ur um váttan.
     description:
-      prefix_invited_by_user: "@%{name} bjóðar tær at verða við í hesum Mastodon-ambætaranum!"
-      prefix_sign_up: Tilmelda teg á Mastodon í dag!
-      suffix: Við eini kontu, so er møguligt hjá tær at fylgja fólki, at posta dagføringar og at senda og móttaka boð til og frá brúkarum á øllum Mastodon ambætarum, umframt annað!
+      prefix_invited_by_user: "@%{name} bjóðar tær at verða við í hesum The Antisocial Network-ambætaranum!"
+      prefix_sign_up: Tilmelda teg á The Antisocial Network í dag!
+      suffix: Við eini kontu, so er møguligt hjá tær at fylgja fólki, at posta dagføringar og at senda og móttaka boð til og frá brúkarum á øllum The Antisocial Network ambætarum, umframt annað!
     didnt_get_confirmation: Móttók tú ikki váttanarboðini?
     dont_have_your_security_key: Hevur tú ikki trygdarlyklin hjá tær?
     forgot_password: Hevur tú gloymt loyniorðið?
@@ -982,7 +982,7 @@ fo:
       preamble_html: Rita inn við tínum <strong>%{domain}</strong> heimildum. Er konta tín á einum øðrum ambætara, so er ikki gjørligt hjá tær at rita inn her.
       title: Rita inn á %{domain}
     sign_up:
-      preamble: Við eini kontu á hesum Mastodon ambætaranum ber til hjá tær at fylgja ein og hvønn annan persón á netverkinum, óansæð hvar teirra konta er hýst.
+      preamble: Við eini kontu á hesum The Antisocial Network ambætaranum ber til hjá tær at fylgja ein og hvønn annan persón á netverkinum, óansæð hvar teirra konta er hýst.
       title: Latum okkum fáa teg settan upp á %{domain}.
     status:
       account_status: Kontustøða
@@ -1095,7 +1095,7 @@ fo:
       content: Vit eru kedd av tí, men okkurt gekk galið hjá okkum.
       title: Hendan síðan er ikki røtt
     '503': Ikki var til at veita hesa síðuna vegna ein bráðfeingis feil á ambætaranum.
-    noscript_html: Fyri at brúka vevskipanina hjá Mastodon, vinarliga ger JavaScript virkið. Um ikki, royn so eina <a href="%{apps_path}">uppruna-app</a> til Mastodon á tínum tøkniliga palli.
+    noscript_html: Fyri at brúka vevskipanina hjá The Antisocial Network, vinarliga ger JavaScript virkið. Um ikki, royn so eina <a href="%{apps_path}">uppruna-app</a> til The Antisocial Network á tínum tøkniliga palli.
   existing_username_validator:
     not_found: eydnaðist ikki at finna ein lokalan brúkara við hasum brúkaranavninum
     not_found_multiple: fann ikki %{usernames}
@@ -1425,7 +1425,7 @@ fo:
       weibo: Weibo
     current_session: Verandi seta
     description: "%{browser} á %{platform}"
-    explanation: Hetta eru vevkagarnir, sum í løtuni eru ritaðir inn á tína Mastodon kontu.
+    explanation: Hetta eru vevkagarnir, sum í løtuni eru ritaðir inn á tína The Antisocial Network kontu.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -1450,7 +1450,7 @@ fo:
     aliases: Tøkuheiti hjá kontuni
     appearance: Útsjónd
     authorized_apps: Góðkendar appir
-    back: Aftur til Mastodon
+    back: Aftur til The Antisocial Network
     delete: Striking av kontu
     development: Menning
     edit_profile: Rætta vanga
@@ -1562,9 +1562,9 @@ fo:
   tags:
     does_not_match_previous_name: samsvarar ikki við undanfarna navnið
   themes:
-    contrast: Mastodon (høgur kontrastur)
-    default: Mastodon (myrkt)
-    mastodon-light: Mastodon (ljóst)
+    contrast: The Antisocial Network (høgur kontrastur)
+    default: The Antisocial Network (myrkt)
+    mastodon-light: The Antisocial Network (ljóst)
   time:
     formats:
       default: "%b %d, %Y, %H:%M"
@@ -1596,7 +1596,7 @@ fo:
       subject: Kæra tín frá %{date} er vrakað
       title: Kæra vrakað
     backup_ready:
-      explanation: Tú bað um eitt fult trygdaravrit av tíni Mastodon kontu. Tað er nú klárt at taka niður!
+      explanation: Tú bað um eitt fult trygdaravrit av tíni The Antisocial Network kontu. Tað er nú klárt at taka niður!
       subject: Savnið hjá tær er tøkt at taka niður
       title: Tak savn niður
     suspicious_sign_in:
@@ -1645,7 +1645,7 @@ fo:
       final_step: 'Byrja at posta! Sjálvt uttan fylgjarar, so kunnu tínir almennu postar vera sæddir av øðrum, til dømis á lokalu tíðarlinjuni ella í frámerkjum. Kanska vilt tú greiða frá um teg sjálva/n við frámerkinum #introductions.'
       full_handle: Fulla brúkaranavn títt
       full_handle_hint: Hetta er tað, sum tú fortelur vinum tínum, soleiðis at tey kunnu senda tær boð ella fylgja tær frá einum øðrum ambætara.
-      subject: Vælkomin til Mastodon
+      subject: Vælkomin til The Antisocial Network
       title: Vælkomin umborð, %{name}!
   users:
     follow_limit_reached: Tú kanst ikki fylgja fleiri enn %{limit} fólk
@@ -1654,7 +1654,7 @@ fo:
     seamless_external_login: Tú er ritað/ur inn umvegis eina uttanhýsis tænastu, so loyniorð og teldupoststillingar eru ikki tøkar.
     signed_in_as: 'Ritað/ur inn sum:'
   verification:
-    explanation_html: 'Tú kanst <strong>vátta teg sjálva/n sum eigara av leinkjunum í metadátunum á vanganum hjá tær</strong>. Til tess má leinkjaða vevstaðið innihalda eitt leinki aftur til Mastodon vangan hjá tær. Leinkið <strong>má</strong> hava eina <code>rel="me"</code> viðseting. Tekstinnihaldið í leikinum er óviðkomandi. Her er eitt dømi:'
+    explanation_html: 'Tú kanst <strong>vátta teg sjálva/n sum eigara av leinkjunum í metadátunum á vanganum hjá tær</strong>. Til tess má leinkjaða vevstaðið innihalda eitt leinki aftur til The Antisocial Network vangan hjá tær. Leinkið <strong>má</strong> hava eina <code>rel="me"</code> viðseting. Tekstinnihaldið í leikinum er óviðkomandi. Her er eitt dømi:'
     verification: Váttan
   webauthn_credentials:
     add: Legg nýggjan trygdarlykil afturat

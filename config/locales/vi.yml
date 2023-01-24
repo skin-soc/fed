@@ -1,10 +1,10 @@
 ---
 vi:
   about:
-    about_mastodon_html: 'Mạng xã hội của tương lai: Không quảng cáo, không bán thông tin người dùng và phi tập trung! Làm chủ dữ liệu của bạn với Mastodon!'
+    about_mastodon_html: 'Mạng xã hội của tương lai: Không quảng cáo, không bán thông tin người dùng và phi tập trung! Làm chủ dữ liệu của bạn với The Antisocial Network!'
     contact_missing: Chưa thiết lập
     contact_unavailable: N/A
-    hosted_on: "%{domain} vận hành nhờ Mastodon"
+    hosted_on: "%{domain} vận hành nhờ The Antisocial Network"
     title: Giới thiệu
   accounts:
     follow: Theo dõi
@@ -622,7 +622,7 @@ vi:
         moderation: Kiểm duyệt
         special: Đặc biệt
       delete: Xóa
-      description_html: Thông qua <strong>vai trò</strong>, bạn có thể tùy chỉnh những tính năng và vị trí của Mastodon mà mọi người có thể truy cập.
+      description_html: Thông qua <strong>vai trò</strong>, bạn có thể tùy chỉnh những tính năng và vị trí của The Antisocial Network mà mọi người có thể truy cập.
       edit: Sửa vai trò '%{name}'
       everyone: Quyền hạn mặc định
       everyone_full_description_html: Đây <strong>vai trò cơ bản</strong> ảnh hưởng tới <strong>mọi người khác</strong>, kể cả những người không có vai trò được chỉ định. Tất cả các vai trò khác đều kế thừa quyền từ vai trò đó.
@@ -684,20 +684,20 @@ vi:
         rules_hint: Có một khu vực dành riêng cho các nội quy mà người tham gia máy chủ của bạn phải tuân thủ.
         title: Giới thiệu
       appearance:
-        preamble: Tùy chỉnh giao diện web của Mastodon.
+        preamble: Tùy chỉnh giao diện web của The Antisocial Network.
         title: Giao diện
       branding:
-        preamble: Thương hiệu máy chủ của bạn phân biệt nó với các máy chủ khác trong mạng. Thông tin này có thể được hiển thị trên nhiều môi trường khác nhau, chẳng hạn như giao diện web của Mastodon, các ứng dụng gốc, trong bản xem trước liên kết trên các trang web khác và trong các ứng dụng nhắn tin, v.v. Vì lý do này, cách tốt nhất là giữ cho thông tin này rõ ràng, ngắn gọn và súc tích.
+        preamble: Thương hiệu máy chủ của bạn phân biệt nó với các máy chủ khác trong mạng. Thông tin này có thể được hiển thị trên nhiều môi trường khác nhau, chẳng hạn như giao diện web của The Antisocial Network, các ứng dụng gốc, trong bản xem trước liên kết trên các trang web khác và trong các ứng dụng nhắn tin, v.v. Vì lý do này, cách tốt nhất là giữ cho thông tin này rõ ràng, ngắn gọn và súc tích.
         title: Thương hiệu
       content_retention:
-        preamble: Kiểm soát cách lưu trữ nội dung cá nhân trong Mastodon.
+        preamble: Kiểm soát cách lưu trữ nội dung cá nhân trong The Antisocial Network.
         title: Lưu giữ nội dung
       default_noindex:
         desc_html: Ảnh hưởng đến tất cả người không tự thay đổi cài đặt này
         title: Mặc định người dùng không xuất hiện trong công cụ tìm kiếm
       discovery:
         follow_recommendations: Gợi ý theo dõi
-        preamble: Hiển thị nội dung thú vị là công cụ để thu hút người dùng mới, những người có thể không quen bất kỳ ai trong Mastodon. Kiểm soát cách các tính năng khám phá hoạt động trên máy chủ của bạn.
+        preamble: Hiển thị nội dung thú vị là công cụ để thu hút người dùng mới, những người có thể không quen bất kỳ ai trong The Antisocial Network. Kiểm soát cách các tính năng khám phá hoạt động trên máy chủ của bạn.
         profile_directory: Cộng đồng
         public_timelines: Bảng tin
         title: Khám phá
@@ -840,7 +840,7 @@ vi:
     webhooks:
       add_new: Thêm endpoint
       delete: Xóa bỏ
-      description_html: "<strong>Webhook</strong> cho phép Mastodon gửi nhận <strong>thông báo đẩy thời gian thật</strong> về những sự kiện cho ứng dụng thứ ba của bạn, cho ứng dụng của bạn có thể <strong>tự động kích hoạt reaction</strong>."
+      description_html: "<strong>Webhook</strong> cho phép The Antisocial Network gửi nhận <strong>thông báo đẩy thời gian thật</strong> về những sự kiện cho ứng dụng thứ ba của bạn, cho ứng dụng của bạn có thể <strong>tự động kích hoạt reaction</strong>."
       disable: Tắt
       disabled: Đã tắt
       edit: Sửa endpoint
@@ -901,7 +901,7 @@ vi:
     confirmation_dialogs: Hộp thoại xác nhận
     discovery: Khám phá
     localization:
-      body: Mastodon được dịch bởi tình nguyện viên.
+      body: The Antisocial Network được dịch bởi tình nguyện viên.
       guide_link: https://crowdin.com/project/mastodon
       guide_link_text: Ai cũng có thể đóng góp.
     sensitive_content: Nội dung nhạy cảm
@@ -926,9 +926,9 @@ vi:
     delete_account: Xóa tài khoản
     delete_account_html: Nếu bạn muốn xóa tài khoản của mình, hãy <a href="%{path}">yêu cầu tại đây</a>. Bạn sẽ được yêu cầu xác nhận.
     description:
-      prefix_invited_by_user: "@%{name} mời bạn tham gia máy chủ Mastodon này!"
-      prefix_sign_up: Tham gia Mastodon ngay hôm nay!
-      suffix: Với tài khoản, bạn sẽ có thể theo dõi mọi người, đăng tút và nhắn tin với người từ bất kỳ máy chủ Mastodon khác!
+      prefix_invited_by_user: "@%{name} mời bạn tham gia máy chủ The Antisocial Network này!"
+      prefix_sign_up: Tham gia The Antisocial Network ngay hôm nay!
+      suffix: Với tài khoản, bạn sẽ có thể theo dõi mọi người, đăng tút và nhắn tin với người từ bất kỳ máy chủ The Antisocial Network khác!
     didnt_get_confirmation: Gửi lại email xác minh?
     dont_have_your_security_key: Bạn có khóa bảo mật chưa?
     forgot_password: Quên mật khẩu
@@ -962,7 +962,7 @@ vi:
       preamble_html: Đăng nhập bằng tài khoản <strong>%{domain}</strong>. Nếu tài khoản của bạn được lưu trữ trên một máy chủ khác, bạn sẽ không thể đăng nhập tại đây.
       title: Đăng nhập %{domain}
     sign_up:
-      preamble: Với tài khoản trên máy chủ Mastodon này, bạn sẽ có thể theo dõi bất kỳ người nào trên các máy chủ khác, bất kể tài khoản của họ ở đâu.
+      preamble: Với tài khoản trên máy chủ The Antisocial Network này, bạn sẽ có thể theo dõi bất kỳ người nào trên các máy chủ khác, bất kể tài khoản của họ ở đâu.
       title: Cho phép bạn đăng ký trên %{domain}.
     status:
       account_status: Trạng thái tài khoản
@@ -983,7 +983,7 @@ vi:
     post_follow:
       close: Bạn có thể đóng cửa sổ này rồi.
       return: Xem trang hồ sơ
-      web: Mở trong Mastodon
+      web: Mở trong The Antisocial Network
     title: Theo dõi %{acct}
   challenge:
     confirm: Tiếp tục
@@ -1075,7 +1075,7 @@ vi:
       content: Chúng tôi xin lỗi, nhưng đã xảy ra sự cố.
       title: Múi giờ trên thiết bị không đúng
     '503': Trang không thể hiển thị do lỗi máy chủ tạm thời.
-    noscript_html: Để vào Mastodon bản web, vui lòng bật JavaScript. Ngoài ra, hãy thử dùng một <a href="%{apps_path}">ứng dụng lướt Mastodon</a> cho thiết bị của bạn.
+    noscript_html: Để vào The Antisocial Network bản web, vui lòng bật JavaScript. Ngoài ra, hãy thử dùng một <a href="%{apps_path}">ứng dụng lướt The Antisocial Network</a> cho thiết bị của bạn.
   existing_username_validator:
     not_found: không có tên người dùng này trên máy chủ
     not_found_multiple: không tìm thấy %{usernames}
@@ -1394,7 +1394,7 @@ vi:
       weibo: Weibo
     current_session: Phiên hiện tại
     description: "%{browser} trên %{platform}"
-    explanation: Đây là các trình duyệt web đã từng đăng nhập vào tài khoản Mastodon của bạn.
+    explanation: Đây là các trình duyệt web đã từng đăng nhập vào tài khoản The Antisocial Network của bạn.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -1419,7 +1419,7 @@ vi:
     aliases: Kết nối tài khoản
     appearance: Giao diện
     authorized_apps: Ứng dụng
-    back: Quay lại Mastodon
+    back: Quay lại The Antisocial Network
     delete: Xóa tài khoản
     development: Lập trình
     edit_profile: Sửa hồ sơ
@@ -1525,9 +1525,9 @@ vi:
   tags:
     does_not_match_previous_name: không khớp với tên trước
   themes:
-    contrast: Mastodon (Độ tương phản cao)
-    default: Mastodon (Tối)
-    mastodon-light: Mastodon (Sáng)
+    contrast: The Antisocial Network (Độ tương phản cao)
+    default: The Antisocial Network (Tối)
+    mastodon-light: The Antisocial Network (Sáng)
   time:
     formats:
       default: "%-d.%m.%Y %H:%M"
@@ -1559,7 +1559,7 @@ vi:
       subject: Khiếu nại của bạn từ %{date} đã bị từ chối
       title: Khiếu nại bị từ chối
     backup_ready:
-      explanation: Bạn đã yêu cầu sao lưu toàn bộ tài khoản Mastodon của mình. Bây giờ có thể tải về!
+      explanation: Bạn đã yêu cầu sao lưu toàn bộ tài khoản The Antisocial Network của mình. Bây giờ có thể tải về!
       subject: Dữ liệu cá nhân của bạn đã sẵn sàng để tải về
       title: Nhận dữ liệu cá nhân
     suspicious_sign_in:
@@ -1608,7 +1608,7 @@ vi:
       final_step: 'Viết tút mới! Ngay cả khi chưa có người theo dõi, người khác vẫn có thể xem tút công khai của bạn trên bảng tin máy chủ và qua hashtag. Hãy giới thiệu bản thân với hashtag #introductions.'
       full_handle: Tên đầy đủ của bạn
       full_handle_hint: Đây cũng là địa chỉ được dùng để giao tiếp với tất cả mọi người.
-      subject: Chào mừng đến với Mastodon
+      subject: Chào mừng đến với The Antisocial Network
       title: Xin chào %{name}!
   users:
     follow_limit_reached: Bạn chỉ có thể theo dõi tối đa %{limit} người

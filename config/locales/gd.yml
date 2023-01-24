@@ -1,10 +1,10 @@
 ---
 gd:
   about:
-    about_mastodon_html: 'An lìonra sòisealta dhan àm ri teachd: Gun sanasachd, gun chaithris corporra, dealbhadh beusail agus dì-mheadhanachadh! Gabh sealbh air an dàta agad fhèin le Mastodon!'
+    about_mastodon_html: 'An lìonra sòisealta dhan àm ri teachd: Gun sanasachd, gun chaithris corporra, dealbhadh beusail agus dì-mheadhanachadh! Gabh sealbh air an dàta agad fhèin le The Antisocial Network!'
     contact_missing: Cha deach a shuidheachadh
     contact_unavailable: Chan eil seo iomchaidh
-    hosted_on: Mastodon ’ga òstadh air %{domain}
+    hosted_on: The Antisocial Network ’ga òstadh air %{domain}
     title: Mu dhèidhinn
   accounts:
     follow: Lean
@@ -724,11 +724,11 @@ gd:
         preamble: Tha branndadh an fhrithealaiche agad eadar-dhealaichte o fhrithealaichean eile san lìonra. Faodaidh gun nochd am fiosrachadh seo thar iomadh àrainneachd, can eadar-aghaidh-lìn Mhastodon, aplacaidean tùsail, ro-sheallaidhean air ceanglaichean air làraichean-lìn eile agus am broinn aplacaidean theachdaireachdan is mar sin air adhart. Air an adhbhar seo, mholamaid gun cùm thu am fiosrachadh seo soilleir is goirid.
         title: Branndadh
       content_retention:
-        preamble: Stiùirich mar a tha susbaint an luchd-cleachdaidh ’ga stòradh ann am Mastodon.
+        preamble: Stiùirich mar a tha susbaint an luchd-cleachdaidh ’ga stòradh ann am The Antisocial Network.
         title: Glèidheadh na susbaint
       discovery:
         follow_recommendations: Molaidhean leantainn
-        preamble: Tha tighinn an uachdar susbainte inntinniche fìor-chudromach airson toiseach-tòiseachaidh an luchd-cleachdaidh ùr nach eil eòlach air duine sam bith air Mastodon, ma dh’fhaoidte. Stiùirich mar a dh’obraicheas gleusan an rannsachaidh air an fhrithealaiche agad.
+        preamble: Tha tighinn an uachdar susbainte inntinniche fìor-chudromach airson toiseach-tòiseachaidh an luchd-cleachdaidh ùr nach eil eòlach air duine sam bith air The Antisocial Network, ma dh’fhaoidte. Stiùirich mar a dh’obraicheas gleusan an rannsachaidh air an fhrithealaiche agad.
         profile_directory: Eòlaire nam pròifil
         public_timelines: Loidhnichean-ama poblach
         title: Rùrachadh
@@ -944,7 +944,7 @@ gd:
     confirmation_dialogs: Còmhraidhean dearbhaidh
     discovery: Rùrachadh
     localization:
-      body: Tha Mastodon ’ga eadar-theangachadh le saor-thoilich.
+      body: Tha The Antisocial Network ’ga eadar-theangachadh le saor-thoilich.
       guide_link: https://crowdin.com/project/mastodon
       guide_link_text: "’S urrainn do neach sam bith cuideachadh."
     sensitive_content: Susbaint fhrionasach
@@ -970,8 +970,8 @@ gd:
     delete_account_html: Nam bu mhiann leat an cunntas agad a sguabadh às, <a href="%{path}">nì thu an-seo e</a>. Thèid dearbhadh iarraidh ort.
     description:
       prefix_invited_by_user: Thug @%{name} cuireadh dhut ach am faigh thu ballrachd air an fhrithealaiche seo de Mhastodon!
-      prefix_sign_up: Clàraich le Mastodon an-diugh!
-      suffix: Le cunntas, ’s urrainn dhut daoine a leantainn, naidheachdan a phostadh agus conaltradh leis an luchd-chleachdaidh air frithealaiche Mastodon sam bith is a bharrachd!
+      prefix_sign_up: Clàraich le The Antisocial Network an-diugh!
+      suffix: Le cunntas, ’s urrainn dhut daoine a leantainn, naidheachdan a phostadh agus conaltradh leis an luchd-chleachdaidh air frithealaiche The Antisocial Network sam bith is a bharrachd!
     didnt_get_confirmation: Nach d’fhuair thu an stiùireadh mun dearbhadh?
     dont_have_your_security_key: Nach eil iuchair tèarainteachd agad?
     forgot_password: Na dhìochuimhnich thu am facal-faire agad?
@@ -1002,7 +1002,7 @@ gd:
       email_settings_hint_html: Chaidh am post-d dearbhaidh a chur gu %{email}. Mur eil an seòladh puist-d seo mar bu chòir, ’s urrainn dhut atharrachadh ann an roghainnean a’ chunntais.
       title: Suidheachadh
     sign_up:
-      preamble: Le cunntas air an fhrithealaiche Mastodon seo, ’s urrainn dhut neach sam bith a leantainn air an lìonra, ge b’ e càit a bheil an cunntas aca-san ’ga òstadh.
+      preamble: Le cunntas air an fhrithealaiche The Antisocial Network seo, ’s urrainn dhut neach sam bith a leantainn air an lìonra, ge b’ e càit a bheil an cunntas aca-san ’ga òstadh.
       title: Suidhicheamaid %{domain} dhut.
     status:
       account_status: Staid a’ chunntais
@@ -1115,7 +1115,7 @@ gd:
       content: Tha sinn duilich ach chaidh rudeigin ceàrr a-bhos an-seo.
       title: Chan eil an duilleag seo mar bu chòir
     '503': Cha b’ urrainn an duilleag fhrithealadh ri linn mearachd sealach an fhrithealaiche.
-    noscript_html: Airson aplacaid-lìn Mastodon a chleachdadh, cuir JavaScript an comas. Mar roghainn eile, ’s urrainn dhut fear dhe na <a href="%{apps_path}">cliantan tùsail</a> airson Mastodon dhan ùrlar agad fheuchainn.
+    noscript_html: Airson aplacaid-lìn The Antisocial Network a chleachdadh, cuir JavaScript an comas. Mar roghainn eile, ’s urrainn dhut fear dhe na <a href="%{apps_path}">cliantan tùsail</a> airson The Antisocial Network dhan ùrlar agad fheuchainn.
   existing_username_validator:
     not_found: cha b’ urrainn dhuinn cleachdaiche ionadail a lorg air a bheil an t-ainm-cleachdaiche seo
     not_found_multiple: cha b’ urrainn dhuinn %{usernames} a lorg
@@ -1458,7 +1458,7 @@ gd:
       weibo: Weibo
     current_session: An seisean làithreach
     description: "%{browser} air %{platform}"
-    explanation: Seo na bhrabhsairean-lìn a tha clàraichte a-staigh sa chunntas Mastodon agad aig an àm seo.
+    explanation: Seo na bhrabhsairean-lìn a tha clàraichte a-staigh sa chunntas The Antisocial Network agad aig an àm seo.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -1483,7 +1483,7 @@ gd:
     aliases: Aliasan a’ chunntais
     appearance: Coltas
     authorized_apps: Aplacaidean ùghdarraichte
-    back: Till gu Mastodon
+    back: Till gu The Antisocial Network
     delete: Sguabadh às cunntais
     development: Leasachadh
     edit_profile: Deasaich a’ phròifil
@@ -1607,9 +1607,9 @@ gd:
   tags:
     does_not_match_previous_name: "– chan eil seo a-rèir an ainm roimhe"
   themes:
-    contrast: Mastodon (iomsgaradh àrd)
-    default: Mastodon (dorcha)
-    mastodon-light: Mastodon (soilleir)
+    contrast: The Antisocial Network (iomsgaradh àrd)
+    default: The Antisocial Network (dorcha)
+    mastodon-light: The Antisocial Network (soilleir)
   time:
     formats:
       default: "%d %b %Y, %H:%M"
@@ -1641,7 +1641,7 @@ gd:
       subject: Chaidh an t-ath-thagradh agad o %{date} a dhiùltadh
       title: Chaidh ath-thagradh a dhiùltadh
     backup_ready:
-      explanation: Dh’iarr thu lethbhreac-glèidhidh slàn dhen chunntas Mastodon agad. Tha e deis ri luchdadh a-nuas a-nis!
+      explanation: Dh’iarr thu lethbhreac-glèidhidh slàn dhen chunntas The Antisocial Network agad. Tha e deis ri luchdadh a-nuas a-nis!
       subject: Tha an tasg-lann agad deis ri luchdadh a-nuas
       title: Tasg-lann dhut
     suspicious_sign_in:
@@ -1690,7 +1690,7 @@ gd:
       final_step: 'Tòisich air postadh! Fiù ’s mur eil duine sam bith ’gad leantainn, chì cuid mhath na postaichean poblach agad, can air an loidhne-ama ionadail no le tagaichean hais. Saoil an innis thu beagan mu d’ dhèidhinn air an taga hais #fàilte?'
       full_handle: D’ ainm-cleachdaiche slàn
       full_handle_hint: Seo na bheir thu dha na caraidean agad ach an urrainn dhaibh teachdaireachd a chur thugad no ’gad leantainn o fhrithealaiche eile.
-      subject: Fàilte gu Mastodon
+      subject: Fàilte gu The Antisocial Network
       title: Fàilte air bòrd, %{name}!
   users:
     follow_limit_reached: Chan urrainn dhut còrr is %{limit} daoine a leantainn
@@ -1699,7 +1699,7 @@ gd:
     seamless_external_login: Rinn thu clàradh a-steach le seirbheis on taobh a-muigh, mar sin chan eil roghainnean an fhacail-fhaire ’s a’ phuist-d ri làimh dhut.
     signed_in_as: 'Chlàraich thu a-steach mar:'
   verification:
-    explanation_html: '’S urrainn dhut <strong>dearbhadh gur e seilbheadair nan ceanglaichean ann am meata-dàta na pròifil agad a th’ annad</strong>. Airson sin a dhèanamh, feumaidh ceangal air ais dhan phròifil Mastodon a bhith aig an làrach-lìn cheangailte. <strong>Feumaidh</strong> buadh <code>rel="me"</code> a bhith aig a’ cheangal air ais. Chan eil e gu diofar dè an t-susbaint a tha ann an teacsa a’ cheangail. Seo ball-eisimpleir dhut:'
+    explanation_html: '’S urrainn dhut <strong>dearbhadh gur e seilbheadair nan ceanglaichean ann am meata-dàta na pròifil agad a th’ annad</strong>. Airson sin a dhèanamh, feumaidh ceangal air ais dhan phròifil The Antisocial Network a bhith aig an làrach-lìn cheangailte. <strong>Feumaidh</strong> buadh <code>rel="me"</code> a bhith aig a’ cheangal air ais. Chan eil e gu diofar dè an t-susbaint a tha ann an teacsa a’ cheangail. Seo ball-eisimpleir dhut:'
     verification: Dearbhadh
   webauthn_credentials:
     add: Cuir iuchair tèarainteachd ùr ris

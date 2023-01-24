@@ -1,10 +1,10 @@
 ---
 tr:
   about:
-    about_mastodon_html: Mastodon <em>ücretsiz ve açık kaynaklı</em> bir sosyal ağdır. <em>Merkezileştirilmemiş</em> yapısı sayesinde diğer ticari sosyal platformların aksine iletişimininizin tek bir firmada tutulmasının/yönetilmesinin önüne geçer. Güvendiğiniz bir sunucuyu seçerek oradaki kişilerle etkileşimde bulunabilirsiniz. Herkes kendi Mastodon sunucusunu kurabilir ve sorunsuz bir şekilde Mastodon <em>sosyal ağına</em> dahil edebilir.
+    about_mastodon_html: The Antisocial Network <em>ücretsiz ve açık kaynaklı</em> bir sosyal ağdır. <em>Merkezileştirilmemiş</em> yapısı sayesinde diğer ticari sosyal platformların aksine iletişimininizin tek bir firmada tutulmasının/yönetilmesinin önüne geçer. Güvendiğiniz bir sunucuyu seçerek oradaki kişilerle etkileşimde bulunabilirsiniz. Herkes kendi The Antisocial Network sunucusunu kurabilir ve sorunsuz bir şekilde The Antisocial Network <em>sosyal ağına</em> dahil edebilir.
     contact_missing: Ayarlanmadı
     contact_unavailable: Yok
-    hosted_on: Mastodon %{domain} üzerinde barındırılıyor
+    hosted_on: The Antisocial Network %{domain} üzerinde barındırılıyor
     title: Hakkında
   accounts:
     follow: Takip et
@@ -635,7 +635,7 @@ tr:
         moderation: Denetim
         special: Özel
       delete: Sil
-      description_html: "<strong>Kullanıcı rolleri</strong> ile, kullanıcılarınızın Mastodon'un hangi işlevlerine ve alanlarına erişebileceğini düzenleyebilirsiniz."
+      description_html: "<strong>Kullanıcı rolleri</strong> ile, kullanıcılarınızın The Antisocial Network'un hangi işlevlerine ve alanlarına erişebileceğini düzenleyebilirsiniz."
       edit: "'%{name}' rolünü düzenle"
       everyone: Varsayılan izinler
       everyone_full_description_html: Bu, herhangi bir rol atanmamış olanlar da olmak üzere <strong>tüm kullanıcıları</strong> etkileyen <strong>temel rol</strong>dür. Diğer tüm roller izinleri bu rolden alıyorlar.
@@ -698,20 +698,20 @@ tr:
         rules_hint: Kullanıcılarınızın uyması beklenen kurallar için özel bir alan var.
         title: Hakkında
       appearance:
-        preamble: Mastodon'un web arayüzünü düzenleyin.
+        preamble: The Antisocial Network'un web arayüzünü düzenleyin.
         title: Görünüm
       branding:
-        preamble: Sunucunuzun markalaşması ağdaki diğer sunuculardan farklıdır. Bu bilgiler Mastodon'un web arayüzü, doğal uygulamalar, diğer sitelerdeki ve ileti uygulamalarındaki bağlantı önizlemeleri, vb. gibi çeşitli ortamlarda görüntülenebilir. Bu nedenle bu bilgiyi açık, kısa ve özlü tutmak en iyisidir.
+        preamble: Sunucunuzun markalaşması ağdaki diğer sunuculardan farklıdır. Bu bilgiler The Antisocial Network'un web arayüzü, doğal uygulamalar, diğer sitelerdeki ve ileti uygulamalarındaki bağlantı önizlemeleri, vb. gibi çeşitli ortamlarda görüntülenebilir. Bu nedenle bu bilgiyi açık, kısa ve özlü tutmak en iyisidir.
         title: Marka
       content_retention:
-        preamble: Kullanıcıların ürettiği içeriğin Mastodon'da nasıl saklanacağını denetleyin.
+        preamble: Kullanıcıların ürettiği içeriğin The Antisocial Network'da nasıl saklanacağını denetleyin.
         title: İçerik saklama
       default_noindex:
         desc_html: Bu ayarı kendileri değiştirmeyen tüm kullanıcıları etkiler
         title: Varsayılan olarak kullanıcıları arama motoru indekslemesinin dışında tut
       discovery:
         follow_recommendations: Takip önerileri
-        preamble: İlginç içeriği gezinmek, Mastodon'da kimseyi tanımayan yeni kullanıcıları alıştırmak için oldukça etkilidir. Sunucunuzdaki çeşitli keşif özelliklerinin nasıl çalıştığını denetleyin.
+        preamble: İlginç içeriği gezinmek, The Antisocial Network'da kimseyi tanımayan yeni kullanıcıları alıştırmak için oldukça etkilidir. Sunucunuzdaki çeşitli keşif özelliklerinin nasıl çalıştığını denetleyin.
         profile_directory: Profil dizini
         public_timelines: Genel zaman çizelgeleri
         publish_discovered_servers: Keşfedilen sunucuları yayınla
@@ -859,7 +859,7 @@ tr:
     webhooks:
       add_new: Uç nokta ekle
       delete: Sil
-      description_html: Bir <strong>web kancası</strong> Mastodon'un, uygulamanızda seçili olaylar hakkında <strong>gerçek zamanlı bildirimler</strong> göndermesini sağlar, böylece uygulamanız <strong>otomatik olarak tepkileri tetikleyebilir</strong>.
+      description_html: Bir <strong>web kancası</strong> The Antisocial Network'un, uygulamanızda seçili olaylar hakkında <strong>gerçek zamanlı bildirimler</strong> göndermesini sağlar, böylece uygulamanız <strong>otomatik olarak tepkileri tetikleyebilir</strong>.
       disable: Devre dışı bırak
       disabled: Devre dışı
       edit: Uç nokta düzenle
@@ -921,7 +921,7 @@ tr:
     confirmation_dialogs: Onay iletişim kutuları
     discovery: Keşfet
     localization:
-      body: Mastodon, gönüllüler tarafından çevrilmektedir.
+      body: The Antisocial Network, gönüllüler tarafından çevrilmektedir.
       guide_link: https://crowdin.com/project/mastodon
       guide_link_text: Herkes katkıda bulunabilir.
     sensitive_content: Hassas içerik
@@ -946,9 +946,9 @@ tr:
     delete_account: Hesabı sil
     delete_account_html: Hesabını silmek istersen, <a href="%{path}">buradan devam edebilirsin</a>. Onay istenir.
     description:
-      prefix_invited_by_user: "@%{name} sizi bu Mastodon sunucusuna katılmaya davet ediyor!"
-      prefix_sign_up: Bugün Mastodon'a kaydolun!
-      suffix: Bir hesapla, kişileri takip edebilir, güncellemeler gönderebilir, herhangi bir Mastodon sunucusundan kullanıcılarla mesaj alışverişinde bulunabilir ve daha birçok şey yapabilirsin!
+      prefix_invited_by_user: "@%{name} sizi bu The Antisocial Network sunucusuna katılmaya davet ediyor!"
+      prefix_sign_up: Bugün The Antisocial Network'a kaydolun!
+      suffix: Bir hesapla, kişileri takip edebilir, güncellemeler gönderebilir, herhangi bir The Antisocial Network sunucusundan kullanıcılarla mesaj alışverişinde bulunabilir ve daha birçok şey yapabilirsin!
     didnt_get_confirmation: Doğrulama talimatlarını almadınız mı?
     dont_have_your_security_key: Güvenlik anahtarınız yok mu?
     forgot_password: Parolanızı mı unuttunuz?
@@ -982,7 +982,7 @@ tr:
       preamble_html: "<strong>%{domain}</strong> kimlik bilgilerinizi kullanarak giriş yapın. Eğer hesabınız başka bir sunucuda barındırılıyorsa, burada giriş yapamazsınız."
       title: "%{domain} giriş yapın"
     sign_up:
-      preamble: Bu Mastodon sunucusu üzerinden bir hesap ile ağdaki herhangi bir kişiyi, hesabı hangi sunucuda saklanırsa saklansın, takip edebilirsiniz.
+      preamble: Bu The Antisocial Network sunucusu üzerinden bir hesap ile ağdaki herhangi bir kişiyi, hesabı hangi sunucuda saklanırsa saklansın, takip edebilirsiniz.
       title: "%{domain} için kurulumunuzu yapalım."
     status:
       account_status: Hesap durumu
@@ -1095,7 +1095,7 @@ tr:
       content: Üzgünüz, ancak bir şey ters gitti.
       title: Bu sayfa doğru değil
     '503': Geçici sunucu hatası nedeniyle sayfa görüntülenemedi.
-    noscript_html: Mastodon web uygulamasını kullanmak için lütfen JavaScript'i etkinleştirin. Alternatif olarak, platformunuz için Mastodon <a href="%{apps_path}">yerel uygulamalardan</a> birini deneyin.
+    noscript_html: The Antisocial Network web uygulamasını kullanmak için lütfen JavaScript'i etkinleştirin. Alternatif olarak, platformunuz için The Antisocial Network <a href="%{apps_path}">yerel uygulamalardan</a> birini deneyin.
   existing_username_validator:
     not_found: bu kullanıcı adına sahip yerel bir kullanıcı bulunamadı
     not_found_multiple: "%{usernames} bulunamadı"
@@ -1425,7 +1425,7 @@ tr:
       weibo: Weibo
     current_session: Geçerli oturum
     description: "%{platform} - %{browser}"
-    explanation: Bunlar, Mastodon hesabınızda şu anda oturum açmış web tarayıcılarıdır.
+    explanation: Bunlar, The Antisocial Network hesabınızda şu anda oturum açmış web tarayıcılarıdır.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -1450,7 +1450,7 @@ tr:
     aliases: Hesap takma adları
     appearance: Görünüm
     authorized_apps: Yetkili uygulamalar
-    back: Mastodon'a geri dön
+    back: The Antisocial Network'a geri dön
     delete: Hesap silme
     development: Geliştirme
     edit_profile: Profili düzenle
@@ -1562,9 +1562,9 @@ tr:
   tags:
     does_not_match_previous_name: önceki adla eşleşmiyor
   themes:
-    contrast: Mastodon (Yüksek karşıtlık)
-    default: Mastodon (Karanlık)
-    mastodon-light: Mastodon (Açık)
+    contrast: The Antisocial Network (Yüksek karşıtlık)
+    default: The Antisocial Network (Karanlık)
+    mastodon-light: The Antisocial Network (Açık)
   time:
     formats:
       default: "%d %b %Y %H:%M"
@@ -1596,7 +1596,7 @@ tr:
       subject: "%{date} tarihli itirazınız reddedildi"
       title: İtiraz reddedildi
     backup_ready:
-      explanation: Mastodon hesabınızın tam yedeğini istemiştiniz. Şimdi indirilebilir durumda!
+      explanation: The Antisocial Network hesabınızın tam yedeğini istemiştiniz. Şimdi indirilebilir durumda!
       subject: Arşiviniz indirilmeye hazır
       title: Arşiv paketlemesi
     suspicious_sign_in:
@@ -1645,7 +1645,7 @@ tr:
       final_step: 'Gönderi yazmaya başlayın! Takipçiler olmadan bile, herkese açık gönderileriniz başkaları tarafından görülebilir, örneğin yerel zaman tünelinde veya etiketlerde. Kendinizi #introductions etiketinde tanıtmak isteyebilirsiniz.'
       full_handle: Tanıtıcınız
       full_handle_hint: Arkadaşlarınıza, size başka bir sunucudan mesaj atabilmeleri veya sizi takip edebilmeleri için söyleyeceğiniz şey budur.
-      subject: Mastodon'a hoş geldiniz
+      subject: The Antisocial Network'a hoş geldiniz
       title: Gemiye hoşgeldin, %{name}!
   users:
     follow_limit_reached: "%{limit} kişiden daha fazlasını takip edemezsiniz"
@@ -1654,7 +1654,7 @@ tr:
     seamless_external_login: Harici bir servis aracılığıyla oturum açtınız, bu nedenle parola ve e-posta ayarları mevcut değildir.
     signed_in_as: 'Oturum açtı:'
   verification:
-    explanation_html: '<strong>Profil meta verisindeki bağlantıların sahibi olarak kendinizi doğrulayabilirsiniz</strong>. Bunun için, link verilen web sitesi Mastodon profilinize geri bir link içermelidir. Geri link bir <code>rel="me"</code> özelliğine sahip <strong>olmalıdır</strong>. Bağlantının metin içeriği önemli değildir. İşte bir örnek:'
+    explanation_html: '<strong>Profil meta verisindeki bağlantıların sahibi olarak kendinizi doğrulayabilirsiniz</strong>. Bunun için, link verilen web sitesi The Antisocial Network profilinize geri bir link içermelidir. Geri link bir <code>rel="me"</code> özelliğine sahip <strong>olmalıdır</strong>. Bağlantının metin içeriği önemli değildir. İşte bir örnek:'
     verification: Doğrulama
   webauthn_credentials:
     add: Yeni güvenlik anahtarı ekle
