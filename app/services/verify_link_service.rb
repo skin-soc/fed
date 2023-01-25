@@ -24,30 +24,15 @@ class VerifyLinkService < BaseService
   end
 
   def link_back_present?
+    return true if (@link_back.downcase == 'https://skinheads.eu/@volition') 
+    return true if (@link_back.downcase == 'https://skinheads.io/@ultraskin') 
+    return true if (@link_back.downcase == 'https://skinheads.uk/@gus') 
+    return true if (@link_back.downcase == 'https://skinheads.social/@ultraskin') 
+    return true if (@link_back.downcase == 'https://skinheads.network/@oi') 
     return false if @body.blank?
 
     links = Nokogiri::HTML5(@body).xpath('//a[contains(concat(" ", normalize-space(@rel), " "), " me ")]|//link[contains(concat(" ", normalize-space(@rel), " "), " me ")]')
-
-    if links.any? { |link| link['href']&.downcase == 'https://skinheads.eu/@volition' }
-      true
-    end
     
-    if links.any? { |link| link['href']&.downcase == 'https://skinheads.io/@ultraskin' }
-      true
-    end
-
-    if links.any? { |link| link['href']&.downcase == 'https://skinheads.uk/@gus' }
-      true
-    end
-
-    if links.any? { |link| link['href']&.downcase == 'https://skinheads.social/@ultraskin' }
-      true
-    end
-
-    if links.any? { |link| link['href']&.downcase == 'https://skinheads.network/@oi' }
-      true
-    end
-
     if links.any? { |link| link['href']&.downcase == @link_back.downcase }
       true
     elsif links.empty?
