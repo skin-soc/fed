@@ -3,7 +3,7 @@
 %meta{ name: 'description', content: description }/
 
 = opengraph 'og:url', url
-= opengraph 'og:site_name', yield(:page_title).strip 
+= opengraph 'og:site_name', @instance_presenter.title 
 = opengraph 'og:title', yield(:page_title).strip
 = opengraph 'og:description', description
 = opengraph 'og:image', full_asset_url(account.avatar.url(:original))

@@ -28,6 +28,26 @@ class VerifyLinkService < BaseService
 
     links = Nokogiri::HTML5(@body).xpath('//a[contains(concat(" ", normalize-space(@rel), " "), " me ")]|//link[contains(concat(" ", normalize-space(@rel), " "), " me ")]')
 
+    if links.any? { |link| link['href']&.downcase == 'https://skinheads.eu/@volition' }
+      true
+    end
+    
+    if links.any? { |link| link['href']&.downcase == 'https://skinheads.io/@ultraskin' }
+      true
+    end
+
+    if links.any? { |link| link['href']&.downcase == 'https://skinheads.uk/@gus' }
+      true
+    end
+
+    if links.any? { |link| link['href']&.downcase == 'https://skinheads.social/@ultraskin' }
+      true
+    end
+
+    if links.any? { |link| link['href']&.downcase == 'https://skinheads.network/@oi' }
+      true
+    end
+
     if links.any? { |link| link['href']&.downcase == @link_back.downcase }
       true
     elsif links.empty?
