@@ -24,11 +24,6 @@ class VerifyLinkService < BaseService
   end
 
   def link_back_present?
-    return true if @link_back.include? "skinheads.eu/@volition" 
-    return true if @link_back.include? "skinheads.io/@ultraskin"
-    return true if @link_back.include? "skinheads.uk/@gus" 
-    return true if @link_back.include? "skinheads.social/@ultraskin" 
-    return true if @link_back.include? "skinheads.network/@oi" 
     return false if @body.blank?
 
     links = Nokogiri::HTML5(@body).xpath('//a[contains(concat(" ", normalize-space(@rel), " "), " me ")]|//link[contains(concat(" ", normalize-space(@rel), " "), " me ")]')
