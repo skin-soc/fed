@@ -1,9 +1,15 @@
 - thumbnail     = @instance_presenter.thumbnail
 - description ||= strip_tags(@instance_presenter.description.presence || t('about.about_mastodon_html'))
 
+%link{ rel: 'me', href: "https://#{@instance}/@gus" }/ 
+%link{ rel: 'me', href: "https://#{@instance}/@volition" }/
+%link{ rel: 'me', href: "https://#{@instance}/@ultraskin" }/ 
+%link{ rel: 'me', href: "https://#{@instance}/@oi" }/  
+%link{ rel: 'me', href: "https://#{@instance}/@skinhead" }/
+
 %meta{ name: 'description', content: description }/
 
-= opengraph 'og:site_name', t('about.hosted_on', domain: site_hostname)
+= opengraph 'og:site_name', @instance_presenter.title 
 = opengraph 'og:url', url_for(only_path: false)
 = opengraph 'og:type', 'website'
 = opengraph 'og:title', @instance_presenter.title
