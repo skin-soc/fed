@@ -12,11 +12,6 @@
       %link{ rel: 'dns-prefetch', href: storage_host }/
 
     %link{ rel: 'icon', href: '/favicon.ico', type: 'image/x-icon' }/
-    %link{ rel: 'me', type: 'text/html', href: "https://#{@instance}/@gus" }/ 
-    %link{ rel: 'me', type: 'text/html', href: "https://#{@instance}/@volition" }/
-    %link{ rel: 'me', type: 'text/html', href: "https://#{@instance}/@ultraskin" }/ 
-    %link{ rel: 'me', type: 'text/html', href: "https://#{@instance}/@oi" }/  
-    %link{ rel: 'me', type: 'text/html', href: "https://#{@instance}/@skinhead" }/
 
     - %w(16 32 48).each do |size|
       %link{ rel: 'icon', sizes: "#{size}x#{size}", href: asset_pack_path("media/icons/favicon-#{size}x#{size}.png"), type: 'image/png' }/
