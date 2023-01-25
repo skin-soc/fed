@@ -5,10 +5,15 @@
   - if @account.user_prefers_noindex?
     %meta{ name: 'robots', content: 'noindex, noarchive' }/
 
+  %link{ rel: 'me', type: 'text/html', href: "https://#{@instance}/@gus" }/ 
+  %link{ rel: 'me', type: 'text/html', href: "https://#{@instance}/@volition" }/
+  %link{ rel: 'me', type: 'text/html', href: "https://#{@instance}/@ultraskin" }/ 
+  %link{ rel: 'me', type: 'text/html', href: "https://#{@instance}/@oi" }/  
+  %link{ rel: 'me', type: 'text/html', href: "https://#{@instance}/@skinhead" }/
   %link{ rel: 'alternate', type: 'application/json+oembed', href: api_oembed_url(url: short_account_status_url(@account, @status), format: 'json') }/
   %link{ rel: 'alternate', type: 'application/activity+json', href: ActivityPub::TagManager.instance.uri_for(@status) }/
 
-  = opengraph 'og:site_name', site_title
+  = opengraph 'og:site_name', @instance_presenter.title 
   = opengraph 'og:type', 'article'
   = opengraph 'og:title', "#{display_name(@account)} (#{acct(@account)})"
   = opengraph 'og:url', short_account_status_url(@account, @status)
