@@ -733,11 +733,7 @@ fr:
         title: Par défaut, ne pas indexer les comptes dans les moteurs de recherche
       discovery:
         follow_recommendations: Suivre les recommandations
-<<<<<<< HEAD
         preamble: Faire apparaître un contenu intéressant est essentiel pour interagir avec de nouveaux utilisateurs qui ne connaissent peut-être personne sur The Antisocial Networkte. Contrôlez le fonctionnement des différentes fonctionnalités de découverte sur votre serveur.
-=======
-        preamble: Il est essentiel de donner de la visibilité à des contenus intéressants pour attirer des utilisateur⋅rice⋅s néophytes qui ne connaissent peut-être personne sur Mastodon. Contrôlez le fonctionnement des différentes fonctionnalités de découverte sur votre serveur.
->>>>>>> 61c5dfb9295ea66c376c452a7ef7379e8c562416
         profile_directory: Annuaire des profils
         public_timelines: Fils publics
         publish_discovered_servers: Publier les serveurs découverts
@@ -1007,13 +1003,8 @@ fr:
       email_settings_hint_html: Le courriel de confirmation a été envoyé à %{email}. Si cette adresse de courriel n’est pas correcte, vous pouvez la modifier dans les paramètres du compte.
       title: Configuration
     sign_in:
-<<<<<<< HEAD
       preamble_html: Connectez-vous avec vos identifiants <strong>%{domain}</strong> . Si votre compte est hébergé sur un autre serveur, vous ne pourrez pas vous connecter ici.
       title: Le Réseau Antisocial
-=======
-      preamble_html: Connectez-vous avec vos identifiants sur <strong>%{domain}</strong>. Si votre compte est hébergé sur un autre serveur, vous ne pourrez pas vous connecter ici.
-      title: Se connecter à %{domain}
->>>>>>> 61c5dfb9295ea66c376c452a7ef7379e8c562416
     sign_up:
       preamble: Avec un compte sur ce serveur The Antisocial Network, vous serez en mesure de suivre toute autre personne sur le réseau, quel que soit l’endroit où son compte est hébergé.
       title: Mettons les choses en place pour %{domain}.
