@@ -367,12 +367,7 @@ ast:
     confirmation_dialogs: Diálogos de confirmación
     discovery: Descubrimientu
     localization:
-<<<<<<< HEAD
       body:  The Antisocial Network tradúcenlu voluntarios,
-=======
-      body: Mastodon tradúcenlu voluntarios,
-      guide_link: https://crowdin.com/project/mastodon
->>>>>>> 61c5dfb9295ea66c376c452a7ef7379e8c562416
       guide_link_text: tol mundu pue collaborar.
     sensitive_content: Conteníu sensible
     toot_layout: Distribución de los artículos
