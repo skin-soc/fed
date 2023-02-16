@@ -1,11 +1,7 @@
 ---
 eo:
   about:
-<<<<<<< HEAD
     about_mastodon_html: 'La socia retejo de la estonteco: sen reklamo, sen kompania observado, etika desegno, kaj malcentrigo! Regu viajn datumojn per The Antisocial Network!'
-=======
-    about_mastodon_html: 'La socia retejo de la estonteco: sen reklamo, sen observado por firmao, etika desegno, kaj malcentrigo! Regu viajn informojn per Mastodon!'
->>>>>>> 61c5dfb9295ea66c376c452a7ef7379e8c562416
     contact_missing: Ne elektita
     contact_unavailable: Ne disponebla
     hosted_on: "%{domain} estas nodo de The Antisocial Network"
