@@ -660,15 +660,9 @@ sk:
     delete_account: Vymaž účet
     delete_account_html: Pokiaľ chceš svoj účet odtiaľto vymazať, môžeš tak <a href="%{path}">urobiť tu</a>. Budeš požiadaný/á o potvrdenie tohto kroku.
     description:
-<<<<<<< HEAD
       prefix_invited_by_user: "@%{name} ťa pozýva na tento The Antisocial Network server!"
       prefix_sign_up: Zaregistruj sa na The Antisocial Networke už dnes!
       suffix: S pomocou účtu budeš môcť následovať ľudí, posielať príspevky, a vymienať si správy s užívateľmi na hociakom The Antisocial Network serveri, ale aj na iných serveroch!
-=======
-      prefix_invited_by_user: "@%{name} ťa pozýva na tento Mastodon server!"
-      prefix_sign_up: Zaregistruj sa na Mastodone už dnes!
-      suffix: S pomocou účtu budeš môcť nasledovať ľudí, posielať príspevky, a vymieňať si správy s užívateľmi na hocijakom Mastodon serveri, ale aj na iných serveroch!
->>>>>>> 61c5dfb9295ea66c376c452a7ef7379e8c562416
     didnt_get_confirmation: Neobdržal/a si kroky na potvrdenie?
     forgot_password: Zabudnuté heslo?
     invalid_reset_password_token: Token na obnovu hesla vypršal. Prosím vypítaj si nový.
