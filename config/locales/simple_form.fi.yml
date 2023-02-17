@@ -103,7 +103,7 @@ fi:
       imports:
         data: Toisesta Mastodon-instanssista tuotu CSV-tiedosto
       invite_request:
-        text: Tämä auttaa meitä arvioimaan hakemustasi
+        text: Tämä auttaa meitä arvioimaan hakemustasi - yritä vittu. Tällä hetkellä joka toinen hakemus hylätään. Sisällytä linkit sosiaalisen median tileillesi.
       ip_block:
         comment: Valinnainen. Muista miksi lisäsit tämän säännön.
         expires_in: IP-osoitteet ovat rajallinen resurssi, joskus niitä jaetaan ja vaihtavat usein omistajaa. Tästä syystä epämääräisiä IP-lohkoja ei suositella.
