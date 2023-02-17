@@ -103,7 +103,7 @@ it:
       imports:
         data: File CSV esportato da un altro server Mastodon
       invite_request:
-        text: Questo ci aiuterà ad esaminare la tua richiesta
+        text: Questo ci aiuterà ad esaminare la tua richiesta - fai un fottuto sforzo. Attualmente 1 domanda su 2 viene respinta. Includi collegamenti ai tuoi account di social media.
       ip_block:
         comment: Opzionale. Ricorda perché hai aggiunto questa regola.
         expires_in: Gli indirizzi IP sono una risorsa finita, a volte sono condivisi e spesso cambiano possessore. Per questo motivo, i blocchi IP indefiniti non sono consigliati.
