@@ -101,7 +101,7 @@ fr-QC:
       imports:
         data: Un fichier CSV généré par un autre serveur de Mastodon
       invite_request:
-        text: Cela nous aidera à considérer votre demande
+        text: Cela nous aidera à considérer votre demande - faire un putain d'effort. Actuellement, 1 demande sur 2 est rejetée. Incluez des liens vers vos comptes de médias sociaux.
       ip_block:
         comment: Optionnel. Pour ne pas oublier pourquoi vous avez ajouté cette règle.
         expires_in: Les adresses IP sont une ressource finie, elles sont parfois partagées et changent souvent de mains. Pour cette raison, les blocages d’IP indéfiniment ne sont pas recommandés.
