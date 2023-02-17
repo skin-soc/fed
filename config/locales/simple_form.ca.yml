@@ -103,7 +103,7 @@ ca:
       imports:
         data: Fitxer CSV exportat des d'un altre servidor de Mastodon
       invite_request:
-        text: Això ens ajudarà a revisar la teva petició
+        text: Això ens ajudarà a revisar la teva petició -Fes un puto esforç. Actualment, 1 de cada 2 sollicituds està rebutjada. Incloeu enllaços als vostres comptes de xarxes socials.
       ip_block:
         comment: Opcional. Recordatori de per què l’has afegit.
         expires_in: Les adreces IP són un recurs finit, a vegades són compartides i sovint canvien de mans. Per aquest motiu, no es recomanen els bloquejos d’IP indefinits.
