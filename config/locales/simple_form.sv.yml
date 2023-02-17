@@ -97,7 +97,7 @@ sv:
       imports:
         data: CSV-fil som exporterats från en annan Mastodon-server
       invite_request:
-        text: Detta kommer hjälpa oss att granska din ansökan
+        text: Detta kommer hjälpa oss att granska din ansökan - gör en jävla insats. För närvarande avvisas 1 av 2 ansökningar. Inkludera länkar till dina sociala mediekonton.
       ip_block:
         comment: Valfritt. Kom ihåg varför du lade till denna regel.
         expires_in: IP-adresser är en ändlig resurs, de delas ibland och byter ofta händer. Av den här anledningen så rekommenderas inte IP-blockeringar på obestämd tid.
