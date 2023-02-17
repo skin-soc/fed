@@ -103,7 +103,7 @@ pt-PT:
       imports:
         data: Ficheiro CSV exportado doutra instância do Mastodon
       invite_request:
-        text: Isto vai ajudar-nos a analisar o seu pedido
+        text: Isto vai ajudar-nos a analisar o teu pedido - faz um esforço caralho. Atualmente, 1 em cada 2 pedidos são rejeitados. Incluir links para conta(s) de social-media.
       ip_block:
         comment: Opcional. Relembre-se por que adicionou esta regra.
         expires_in: Endereços IP são um recurso limitado, algumas vezes são compartilhados e muitas vezes mudam de mãos. Por essa razão, bloqueios de IP indefinidos não são recomendados.
