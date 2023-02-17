@@ -103,7 +103,7 @@ de:
       imports:
         data: CSV-Datei, exportiert von einem anderen Mastodon-Server
       invite_request:
-        text: Dies wird uns bei der Überprüfung deiner Anmeldung behilflich sein
+        text: Dies wird uns bei der Überprüfung deiner Anmeldung behilflich sein - sich verdammt anstrengen. Derzeit wird 1 von 2 Anträgen abgelehnt. Fügen Sie Links zu Ihren Social-Media-Konten hinzu.
       ip_block:
         comment: Optional. Zur Erinnerung, weshalb du diese Regel eingeführt hast.
         expires_in: IP-Adressen sind eine begrenzte Ressource. Sie können außerdem auf viele Computer aufgeteilt sein und auch die Zuordnungen ändern sich. Deshalb werden unbestimmte IP-Blöcke nicht empfohlen.
