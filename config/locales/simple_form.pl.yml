@@ -103,7 +103,7 @@ pl:
       imports:
         data: Plik CSV wyeksportowany z innego serwera Mastodona
       invite_request:
-        text: To pomoże nam w recenzji Twojej aplikacji
+        text: To pomoże nam w recenzji Twojej aplikacji - postaraj się kurwa Obecnie 1 na 2 wnioski są odrzucane. Dołącz linki do swoich kont w mediach społecznościowych.
       ip_block:
         comment: Opcjonalnie. Pamiętaj, dlaczego dodałeś tę regułę.
         expires_in: Adresy IP to ograniczony zasób, czasami są współdzielone i często zmieniają właściciela. Z tego powodu blokady adresów IP nie są zalecane.
