@@ -103,7 +103,7 @@ fr:
       imports:
         data: Un fichier CSV généré par un autre serveur de Mastodon
       invite_request:
-        text: Cela nous aidera à considérer votre demande - faire un putain d'effort. Actuellement, 1 demande sur 2 est rejetée. Incluez des liens vers vos comptes de médias sociaux.
+        text: Cela nous aidera à examiner votre candidature. Si nous ne pouvons pas voir qui vous êtes, votre candidature sera rejetée.
       ip_block:
         comment: Optionnel. Pour ne pas oublier pourquoi vous avez ajouté cette règle.
         expires_in: Les adresses IP sont une ressource finie, elles sont parfois partagées et changent souvent de mains. Pour cette raison, les blocages d’IP indéfiniment ne sont pas recommandés.
@@ -267,7 +267,7 @@ fr:
       invite:
         comment: Commentaire
       invite_request:
-        text: Pourquoi voulez-vous vous inscrire ?
+        text: Lien(s) vers <strong>au moins un</strong> de <strong>VOS</strong> comptes de médias sociaux:
       ip_block:
         comment: Commentaire
         ip: IP
