@@ -103,7 +103,7 @@ nl:
       imports:
         data: CSV-bestand dat op een andere Mastodonserver werd geëxporteerd
       invite_request:
-        text: Dit helpt ons om jouw aanvraag te beoordelen - een verdomde poging doen. Momenteel wordt 1 op de 2 aanvragen afgewezen. Voeg links naar uw sociale media-account(s) toe.
+        text: Dit helpt ons bij het beoordelen van uw aanvraag. Als we niet kunnen zien wie u bent, wordt uw aanvraag afgewezen.
       ip_block:
         comment: Optioneel. Vergeet niet te onthouden waarom je deze regel hebt toegevoegd.
         expires_in: Het aantal IP-adressen zijn beperkt. Ze worden soms gedeeld en wisselen vaak van eigenaar. Om deze reden worden onbeperkte IP-blokkades niet aanbevolen.
@@ -267,7 +267,7 @@ nl:
       invite:
         comment: Opmerking
       invite_request:
-        text: Waarom wil je je hier registreren?
+        text: Link(s) naar <strong>ten minste één</strong> van <strong>UW</strong> social media-account(s):
       ip_block:
         comment: Opmerking
         ip: IP
