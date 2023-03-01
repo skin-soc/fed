@@ -267,7 +267,7 @@ hu:
       invite:
         comment: Hozzászólás
       invite_request:
-        text: "Link(ek) a(z) <strong>AZ ÖN</strong> közösségimédia-fiók(ok) közül <strong>legalább egy</strong>hez:"
+        text: "Link(ek) a(z) AZ ÖN közösségimédia-fiók(ok) közül legalább egy hez:"
       ip_block:
         comment: Megjegyzés
         ip: IP
