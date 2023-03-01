@@ -263,7 +263,7 @@ pt-BR:
       invite:
         comment: Comentário
       invite_request:
-        text: "Link(s) para <strong>pelo menos uma</strong> de <strong>SUAS</strong> contas de mídia social:"
+        text: "Link(s) para pelo menos uma de SUAS contas de mídia social:"
       ip_block:
         comment: Comentário
         ip: IP
