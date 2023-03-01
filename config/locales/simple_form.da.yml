@@ -100,7 +100,7 @@ da:
       imports:
         data: CSV-fil eksporteret fra anden Mastodon-server
       invite_request:
-        text: Dette vil hjælpe os med at gennemgå din ansøgning - gør en forbandet indsats. I øjeblikket er 1 ud af 2 ansøgninger afvist. Inkluder links til dine sociale medier-konti.
+        text: Dette vil hjælpe os med at gennemgå din ansøgning. Hvis vi ikke kan se, hvem du er, vil din ansøgning blive afvist.
       ip_block:
         comment: Valgfri. Begrundelse for denne regel.
         expires_in: IP-adresser er en begrænset ressource, de deles undertiden og skifter ofte hænder, hvorfor ubegrænsede IP-blokke ikke anbefales.
@@ -262,7 +262,7 @@ da:
       invite:
         comment: Kommentar
       invite_request:
-        text: Hvorfor ønsker du at tilmelde dig?
+        text: Link(er) til <strong>mindst én</strong> af <strong>DINE</strong> sociale mediekonti:
       ip_block:
         comment: Kommentar
         ip: IP
