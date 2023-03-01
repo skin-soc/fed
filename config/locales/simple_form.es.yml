@@ -102,7 +102,7 @@ es:
       imports:
         data: Archivo CSV exportado desde otra instancia de Mastodon
       invite_request:
-        text: Esto nos ayudará a revisar su aplicación - haz un maldito esfuerzo. Actualmente, 1 de cada 2 aplicaciónes son rechazadas. Incluya enlaces a tu(s) cuenta(s) de redes sociales.
+        text: Esto nos ayudará a revisar su solicitud. Si no podemos ver quién es usted, su solicitud será rechazada.
       ip_block:
         comment: Opcional. Recuerda por qué has añadido esta regla.
         expires_in: Las direcciones IP son un recurso finito, a veces se comparten y a menudo cambian de manos. Por esta razón, no se recomiendan bloqueos de IP indefinida.
