@@ -101,7 +101,7 @@ pt-BR:
       imports:
         data: Arquivo CSV exportado de outro servidor Mastodon
       invite_request:
-        text: Isso vai nos ajudar a revisar sua aplicação - faça um esforço caralho! Atualmente, 1 em cada 2 pedidos são rejeitados. Inclua links para sua(s) conta(s) de mídia social.
+        text: Isso nos ajudará a revisar sua inscrição. Se não pudermos ver quem você é, sua inscrição será rejeitada.
       ip_block:
         comment: Opcional. Lembrar de por que você adicionou esta regra.
         expires_in: Endereços IP são um recurso limitado, algumas vezes são compartilhados e muitas vezes mudam de mãos. Por esse motivo, blocos de IP indefinidos não são recomendados.
@@ -263,7 +263,7 @@ pt-BR:
       invite:
         comment: Comentário
       invite_request:
-        text: Por que você deseja criar uma conta aqui?
+        text: Link(s) para <strong>pelo menos uma</strong> de <strong>SUAS</strong> contas de mídia social:
       ip_block:
         comment: Comentário
         ip: IP
