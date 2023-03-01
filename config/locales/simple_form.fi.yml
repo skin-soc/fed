@@ -267,7 +267,7 @@ fi:
       invite:
         comment: Kommentoi
       invite_request:
-        text: Linkit <strong>vähintään yhteen</strong> <strong>SINUN</strong> sosiaalisen median tilistäsi:
+        text: "Linkit <strong>vähintään yhteen</strong> <strong>SINUN</strong> sosiaalisen median tilistäsi:"
       ip_block:
         comment: Kommentti
         ip: IP
