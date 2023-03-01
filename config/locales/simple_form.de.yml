@@ -267,7 +267,7 @@ de:
       invite:
         comment: Kommentar
       invite_request:
-        text: Link(s) zu <strong>mindestens einem</strong> von <strong>IHREN</strong> Social-Media-Konten:
+        text: "Link(s) zu <strong>mindestens einem</strong> von <strong>IHREN</strong> Social-Media-Konten:"
       ip_block:
         comment: Kommentar
         ip: IP-Adresse
