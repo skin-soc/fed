@@ -267,7 +267,7 @@ en-GB:
       invite:
         comment: Comment
       invite_request:
-        text: Why do you want to join?
+        text: Link(s) to <strong>at least one</strong> of <strong>YOUR</strong> social media account(s):
       ip_block:
         comment: Comment
         ip: IP
