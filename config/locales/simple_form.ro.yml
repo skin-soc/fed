@@ -160,7 +160,7 @@ ro:
       invite:
         comment: Comentariu
       invite_request:
-        text: "Link(e) către <strong>cel puțin unul</strong> din <strong>conturile DVS.</strong> de rețele sociale:"
+        text: "Link(e) către cel puțin unul din conturile DVS. de rețele sociale:"
       notification_emails:
         digest: Trimite rezumate
         favourite: Trimite e-mail când cineva favorizează unul din statusurile tale
