@@ -267,7 +267,7 @@ it:
       invite:
         comment: Commento
       invite_request:
-        text: Link ad <strong>almeno uno</strong> dei <strong>TUOI</strong> account di social media:
+        text: "Link ad <strong>almeno uno</strong> dei <strong>TUOI</strong> account di social media:"
       ip_block:
         comment: Commento
         ip: IP
