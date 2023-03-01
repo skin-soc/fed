@@ -267,7 +267,7 @@ ca:
       invite:
         comment: Comenta
       invite_request:
-        text: Per què vols unir-te?
+        text: Enllaços a <strong>almenys un</strong> dels <strong>TEUS</strong> comptes de xarxes socials:
       ip_block:
         comment: Comentari
         ip: IP
