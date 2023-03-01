@@ -262,7 +262,7 @@ da:
       invite:
         comment: Kommentar
       invite_request:
-        text: Link(er) til <strong>mindst én</strong> af <strong>DINE</strong> sociale mediekonti:
+        text: "Link(er) til <strong>mindst én</strong> af <strong>DINE</strong> sociale mediekonti:"
       ip_block:
         comment: Kommentar
         ip: IP
