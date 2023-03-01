@@ -263,7 +263,7 @@ bg:
       invite:
         comment: Коментар
       invite_request:
-        text: Връзка(и) към <strong>поне един</strong> от <strong>ВАШИЯ</strong> акаунт(и) в социални медии:
+        text: "Връзка(и) към <strong>поне един</strong> от <strong>ВАШИЯ</strong> акаунт(и) в социални медии:"
       ip_block:
         comment: Коментар
         ip: IP адрес
