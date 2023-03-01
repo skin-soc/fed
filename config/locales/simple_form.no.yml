@@ -93,7 +93,7 @@
       imports:
         data: CSV-fil eksportert fra en annen Mastodon-instans
       invite_request:
-        text: Dette vil hjelpe oss med å gjennomgå din søknad - gjør en jævla innsats. For øyeblikket er 1 av 2 søknader avvist. Inkluder lenker til dine sosiale medier-kontoer.
+        text: Dette vil hjelpe oss med å vurdere søknaden din. Hvis vi ikke kan se hvem du er, vil søknaden din bli avvist.
       ip_block:
         comment: Valgfritt. Husk hvorfor du la til denne regelen.
         expires_in: IP-adressene er en helt begrenset ressurs, de deles og endres ofte hender. Ubestemte IP-blokker anbefales ikke.
@@ -249,7 +249,7 @@
       invite:
         comment: Kommentar
       invite_request:
-        text: Hvorfor vil du bli med?
+        text: Link(er) til <strong>minst én</strong> av <strong>DINE</strong> konto(er) for sosiale medier:
       ip_block:
         comment: Kommentere
         ip: IP
