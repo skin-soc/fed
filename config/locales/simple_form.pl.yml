@@ -267,7 +267,7 @@ pl:
       invite:
         comment: Komentarz
       invite_request:
-        text: "Link(i) do <strong>co najmniej jednego</strong> z <strong>TWOJEGO</strong> konta w mediach społecznościowych:"
+        text: "Link(i) do co najmniej jednego z TWOJEGO konta w mediach społecznościowych:"
       ip_block:
         comment: Skomentuj
         ip: Adres IP
