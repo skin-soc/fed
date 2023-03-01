@@ -257,7 +257,7 @@ sv:
       invite:
         comment: Kommentar
       invite_request:
-        text: "Povezave do <strong>vsaj enega</strong> od <strong>VAŠIH</strong> računov družbenih medijev:"
+        text: "Povezave do vsaj enega od VAŠIH računov družbenih medijev:"
       ip_block:
         comment: Kommentar
         ip: IP
