@@ -103,7 +103,7 @@ hu:
       imports:
         data: Egy másik Mastodon kiszolgálóról exportált CSV-fájl
       invite_request:
-        text: Ez segít nekünk átnézni a jelentkezésedet - Kibaszott erőfeszítéseket tenni. Jelenleg minden második kérelem elutasításra kerül. Tartalmazzon linkeket a közösségi média fiók(ok)ra.
+        text: Ez segít nekünk kérelme felülvizsgálatában. Ha nem látjuk, hogy Ön kicsoda, jelentkezését elutasítjuk.
       ip_block:
         comment: Nem kötelező. Emlékeztető, hogy miért is vetted fel ezt a szabályt.
         expires_in: Az IP címek korlátos erőforrások, ezért néha meg vannak osztva és gyakran gazdát is cserélnek. Ezért a korlátlan IP tiltások használatát nem javasoljuk.
@@ -267,7 +267,7 @@ hu:
       invite:
         comment: Hozzászólás
       invite_request:
-        text: Miért akarsz csatlakozni?
+        text: Link(ek) a(z) <strong>AZ ÖN</strong> közösségimédia-fiók(ok) közül <strong>legalább egy</strong>hez:
       ip_block:
         comment: Megjegyzés
         ip: IP
