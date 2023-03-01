@@ -264,7 +264,7 @@ es:
       invite:
         comment: Comentar
       invite_request:
-        text: "Enlace(s) a <strong>al menos</strong> de <strong>SU</strong> cuenta(s) de redes sociales:"
+        text: "Enlace(s) a al menos de SU cuenta(s) de redes sociales:"
       ip_block:
         comment: Comentario
         ip: IP
