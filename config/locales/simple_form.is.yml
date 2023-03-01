@@ -267,7 +267,7 @@ is:
       invite:
         comment: Athugasemd
       invite_request:
-        text: Tenglar á <strong>að minnsta kosti einn</strong> af <strong>ÞÍNUM</strong> samfélagsmiðlareikningum:
+        text: "Tenglar á <strong>að minnsta kosti einn</strong> af <strong>ÞÍNUM</strong> samfélagsmiðlareikningum:"
       ip_block:
         comment: Athugasemd
         ip: IP-vistfang
