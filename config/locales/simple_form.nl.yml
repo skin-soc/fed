@@ -267,7 +267,7 @@ nl:
       invite:
         comment: Opmerking
       invite_request:
-        text: "Link(s) naar <strong>ten minste één</strong> van <strong>UW</strong> social media-account(s):"
+        text: "Link(s) naar ten minste één van UW social media-account(s):"
       ip_block:
         comment: Opmerking
         ip: IP
