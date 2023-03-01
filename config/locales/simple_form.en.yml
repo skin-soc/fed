@@ -103,7 +103,7 @@ en:
       imports:
         data: CSV file exported from another Mastodon server
       invite_request:
-        text: This will help us review your application. Include at least one link to a social media account. If we cannot see who you are, your account request will be rejected. 
+        text: This will help us review your application. If we cannot see who you are, your application will be rejected. 
       ip_block:
         comment: Optional. Remember why you added this rule.
         expires_in: IP addresses are a finite resource, they are sometimes shared and often change hands. For this reason, indefinite IP blocks are not recommended.
@@ -267,7 +267,7 @@ en:
       invite:
         comment: Comment
       invite_request:
-        text: Why do you want to join?
+        text: Link(s) to <strong>at least one</strong> social media account:
       ip_block:
         comment: Comment
         ip: IP
