@@ -267,7 +267,7 @@ fr:
       invite:
         comment: Commentaire
       invite_request:
-        text: "Lien(s) vers <strong>au moins un</strong> de <strong>VOS</strong> comptes de médias sociaux:"
+        text: "Lien(s) vers au moins un de VOS comptes de médias sociaux:"
       ip_block:
         comment: Commentaire
         ip: IP
