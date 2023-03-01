@@ -264,7 +264,7 @@ es:
       invite:
         comment: Comentar
       invite_request:
-        text: "¿Por qué quiere unirse usted?"
+        text: "Enlace(s) a <strong>al menos</strong> de <strong>SU</strong> cuenta(s) de redes sociales:"
       ip_block:
         comment: Comentario
         ip: IP
