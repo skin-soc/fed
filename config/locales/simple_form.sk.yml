@@ -157,7 +157,7 @@ sk:
       invite:
         comment: Okomentuj
       invite_request:
-        text: "Odkaz(y) na <strong>aspoň jeden</strong> z <strong>VAŠICH</strong> účtov sociálnych médií:"
+        text: "Odkaz(y) na aspoň jeden z VAŠICH účtov sociálnych médií:"
       ip_block:
         comment: Komentár
         severity: Pravidlo
