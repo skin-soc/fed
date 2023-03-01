@@ -60,7 +60,7 @@ ro:
       imports:
         data: Fișierul CSV exportat de la o altă instanță
       invite_request:
-        text: Acest lucru ne va ajuta să revizuim cererea dvs
+        text: Acest lucru ne va ajuta să vă revizuim cererea. Dacă nu putem vedea cine ești, cererea ta va fi respinsă.
       sessions:
         otp: 'Introdu codul pentru dubla protecție generat de telefonul mobil sau unul din codurile de rezervă:'
       tag:
@@ -160,7 +160,7 @@ ro:
       invite:
         comment: Comentariu
       invite_request:
-        text: De ce vrei să te alături? - Fă un efort al naibii. În prezent, 1 din 2 cereri sunt respinse. Includeți linkuri către conturile dvs. de rețele sociale.
+        text: Link(e) către <strong>cel puțin unul</strong> din <strong>conturile DVS.</strong> de rețele sociale:
       notification_emails:
         digest: Trimite rezumate
         favourite: Trimite e-mail când cineva favorizează unul din statusurile tale
