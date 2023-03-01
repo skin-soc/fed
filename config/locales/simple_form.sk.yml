@@ -51,7 +51,7 @@ sk:
       imports:
         data: CSV súbor vyexportovaný z iného Mastodon serveru
       invite_request:
-        text: Toto pomôže s vyhodnocovaním tvojej žiadosti
+        text: Pomôže nám to skontrolovať vašu žiadosť. Ak neuvidíme, kto ste, vaša žiadosť bude zamietnutá.
       ip_block:
         severities:
           sign_up_block: Nové registrácie nebudú možné
@@ -157,7 +157,7 @@ sk:
       invite:
         comment: Okomentuj
       invite_request:
-        text: Prečo sa k nám chceš pridať? - kurva sa snaž. V súčasnosti je zamietnutá 1 z 2 žiadostí. Zahrňte odkazy na svoje účty sociálnych médií.
+        text: Odkaz(y) na <strong>aspoň jeden</strong> z <strong>VAŠICH</strong> účtov sociálnych médií:
       ip_block:
         comment: Komentár
         severity: Pravidlo
