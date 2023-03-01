@@ -103,7 +103,7 @@ is:
       imports:
         data: CSV-skrá sem flutt hefur verið út af öðrum Mastodon-þjóni
       invite_request:
-        text: Þetta mun hjálpa okkur við að yfirfara umsóknina þína - gerðu helvítis tilraun. Eins og er er 1 af hverjum 2 umsóknum hafnað. Láttu tengla á reikninginn þinn á samfélagsmiðlum fylgja með.
+        text: Þetta mun hjálpa okkur að fara yfir umsókn þína. Ef við getum ekki séð hver þú ert verður umsókn þinni hafnað.
       ip_block:
         comment: Valfrjálst. Mundu hvers vegna þú bættir þessari reglu við.
         expires_in: IP-vistföng eru ekki óendanleg, þeim er stundum deilt og skipta oftu um eigendur. Af þessum ástæðum er ekki mælt með ótakmörkuðum lokunum á blokkir IP-vistfanga.
@@ -267,7 +267,7 @@ is:
       invite:
         comment: Athugasemd
       invite_request:
-        text: Hvers vegna viltu taka þátt?
+        text: Tenglar á <strong>að minnsta kosti einn</strong> af <strong>ÞÍNUM</strong> samfélagsmiðlareikningum:
       ip_block:
         comment: Athugasemd
         ip: IP-vistfang
